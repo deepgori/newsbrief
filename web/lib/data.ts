@@ -29,6 +29,11 @@ export interface DigestRecord {
 
 export const FINANCE_CATEGORIES: Category[] = ["economy", "markets", "business", "property"];
 
+/** When this build ran; the site is rebuilt after every pipeline update, so this is "last updated". */
+// Set once in next.config.ts so every page (built in parallel workers) and
+// /version.json share exactly the same value.
+export const BUILT_AT = process.env.NEXT_PUBLIC_BUILT_AT ?? new Date(0).toISOString();
+
 const DATA_DIR = process.env.DATA_DIR ?? path.resolve(process.cwd(), "../data");
 
 function readJson<T>(file: string, fallback: T): T {

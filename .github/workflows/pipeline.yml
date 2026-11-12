@@ -2,13 +2,15 @@ name: News pipeline
 
 on:
   schedule:
-    # Ingest every 2 hours. GitHub cron is UTC and best-effort (runs can start
-    # late, never early).
-    - cron: "0 */2 * * *"
-    # 8am Sydney is 21:00 UTC in daylight time (AEDT) and 22:00 UTC in
-    # standard time (AEST). 22:00 is already covered above; digest.ts only
-    # runs once it's >= 8am in Sydney and today's briefing isn't recorded yet.
-    - cron: "0 21 * * *"
+    # Every 10 minutes. GitHub's scheduler is best-effort, so runs can start a
+    # few minutes late. The 8am Sydney briefing needs no separate cron:
+    # digest.ts publishes it on the first run at/after 8am Sydney (DST-aware).
+    - cron: "*/10 * * * *"
+  push:
+    # Code changes redeploy the site straight away. The bot's own data commits
+    # are excluded so they don't trigger extra runs.
+    branches: [main]
+    paths-ignore: ["data/**"]
   workflow_dispatch:
     inputs:
       force_digest:
@@ -22,25 +24,37 @@ concurrency:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
+
+env:
+  # Not a secret: identifies the Netlify site to deploy to.
+  NETLIFY_SITE_ID: 1eceb16e-d498-4974-b171-a4383e9000aa
 
 jobs:
   pipeline:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-          cache: npm
 
-      - run: npm ci
+      # Restoring node_modules takes seconds; `npm ci` takes ~50s.
+      - id: deps
+        uses: actions/cache@v4
+        with:
+          path: |
+            node_modules
+            pipeline/node_modules
+            web/node_modules
+          key: deps-${{ runner.os }}-node22-${{ hashFiles('package-lock.json') }}
+
+      - if: steps.deps.outputs.cache-hit != 'true'
+        run: npm ci
 
       - name: Ingest and summarise new articles
-        # A failed ingest must not block the morning email; it uses what's stored.
+        # A failed ingest must not block the briefing or deploy; they use what's stored.
         continue-on-error: true
         run: npm run ingest
         env:
@@ -48,13 +62,6 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           LLM_PROVIDER: ${{ vars.LLM_PROVIDER }}
           LLM_MODEL: ${{ vars.LLM_MODEL }}
-
-      - name: Commit stories
-        run: |
-          git config user.name "news-bot"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data
-          git diff --cached --quiet || (git commit -q -m "data: ingest $(date -u +%FT%TZ)" && git pull -q --rebase && git push)
 
       - name: Publish 8am briefing (emails it too if Gmail secrets are set)
         run: npm run digest -- ${{ inputs.force_digest && '--force' || '' }}
@@ -64,40 +71,42 @@ jobs:
           DIGEST_RECIPIENTS: ${{ secrets.DIGEST_RECIPIENTS }}
           SITE_URL: ${{ vars.SITE_URL }}
 
-      - name: Record briefing
+      - name: Commit data
+        id: commit
         run: |
+          git config user.name "news-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data
-          git diff --cached --quiet || (git commit -q -m "data: digest $(date -u +%F)" && git pull -q --rebase && git push)
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No new data."
+            exit 0
+          fi
+          git commit -q -m "data: update $(date -u +%FT%TZ)"
+          git pull -q --rebase && git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
 
-  deploy-site:
-    needs: pipeline
-    if: vars.DEPLOY_PAGES == 'true'
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: ${{ github.ref_name }} # branch head, including the data just committed
-
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 22
-          cache: npm
-
-      - run: npm ci
-
-      - id: pages
-        uses: actions/configure-pages@v5
-
-      - run: npm run build:web
+      # The site is built here and uploaded to Netlify directly, so Netlify's
+      # 300 free build minutes/month aren't used.
+      - name: Check for Netlify token
+        id: netlify
         env:
-          NEXT_PUBLIC_BASE_PATH: ${{ steps.pages.outputs.base_path }}
+          TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+        run: echo "ready=$([ -n "$TOKEN" ] && echo true || echo false)" >> "$GITHUB_OUTPUT"
 
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: web/out
+      - name: Build site
+        if: steps.netlify.outputs.ready == 'true' && (steps.commit.outputs.changed == 'true' || github.event_name != 'schedule')
+        run: npm run build:web
 
-      - id: deploy
-        uses: actions/deploy-pages@v4
+      - name: Deploy to Netlify
+        if: steps.netlify.outputs.ready == 'true' && (steps.commit.outputs.changed == 'true' || github.event_name != 'schedule')
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+        run: |
+          (cd web/out && zip -qr "$RUNNER_TEMP/site.zip" .)
+          curl -sSf -X POST \
+            -H "Content-Type: application/zip" \
+            -H "Authorization: Bearer $NETLIFY_AUTH_TOKEN" \
+            --data-binary "@$RUNNER_TEMP/site.zip" \
+            "https://api.netlify.com/api/v1/sites/$NETLIFY_SITE_ID/deploys" \
+            | jq -r '"Netlify deploy \(.id): \(.state)"'

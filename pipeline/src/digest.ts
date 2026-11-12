@@ -2,8 +2,8 @@
  * Daily 8am (Sydney) briefing: always published to the website's Briefing
  * page (data/digests/DATE.json); also emailed if Gmail is configured.
  *
- * GitHub Actions cron is UTC and Sydney has daylight saving, so the workflow
- * fires at both 21:00 and 22:00 UTC. This script only runs when it's 8am or
+ * The workflow runs every ~10 minutes; this script does nothing until a run
+ * lands at/after 8am Sydney (daylight saving handled), and only runs when it's 8am or
  * later in Sydney AND today's briefing hasn't been recorded in data/digests/.
  *
  * Email is optional: without GMAIL_USER, GMAIL_APP_PASSWORD and

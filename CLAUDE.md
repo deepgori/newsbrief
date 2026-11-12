@@ -7,6 +7,7 @@ Inshorts-style Australian news service: RSS → LLM summaries (Groq open models 
   - `ingest.ts` (entry) → `fetch.ts` (feeds via `fetch()` + rss-parser `parseString`) → `summarize.ts` (prompts + zod schemas, batch summaries and the final duplicate pass) → `llm.ts` (provider layer: Groq via its OpenAI-compatible API with strict `json_schema`, or Claude via `betaZodOutputFormat`) → `store.ts`.
   - `digest.ts` (entry): publishes the daily briefing record, emails it if Gmail is configured (section selection in `sections.ts`), writes `data/digests/DATE.json`. `--dry-run`, `--force`.
 - `web/`: Next.js 16 App Router, `output: "export"`, Tailwind v4. Reads `../data` at build time (`web/lib/data.ts`; override with `DATA_DIR`). This Next version differs from older training data: check `node_modules/next/dist/docs/` before using unfamiliar APIs.
+- `.github/workflows/pipeline.yml`: every 10 min: ingest → briefing → commit `data/` → build site → upload to Netlify (zip deploy API, `NETLIFY_AUTH_TOKEN` secret). Netlify's own Git builds are stopped on purpose.
 - `data/`: committed by the GitHub Action. Don't hand-edit; `stories.json` and `seen.json` keep 7 days.
 
 ## Conventions

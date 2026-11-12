@@ -51,6 +51,14 @@ export function saveSeen(seen: Record<string, string>) {
   writeJson(SEEN_FILE, kept);
 }
 
+/** Small bits of pipeline bookkeeping. Only written when something changes, to avoid no-op commits. */
+export interface PipelineState {
+  lastDedupeAt?: string;
+}
+const STATE_FILE = path.join(DATA_DIR, "state.json");
+export const loadState = () => readJson<PipelineState>(STATE_FILE, {});
+export const saveState = (state: PipelineState) => writeJson(STATE_FILE, state);
+
 const digestFile = (date: string) => path.join(DIGEST_DIR, `${date}.json`);
 
 export const digestExists = (date: string) => fs.existsSync(digestFile(date));

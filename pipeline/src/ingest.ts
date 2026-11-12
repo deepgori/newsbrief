@@ -3,17 +3,28 @@
  * group, categorise, rank and summarise the new ones -> merge into
  * data/stories.json. Safe to run as often as you like; only new articles cost
  * tokens.
+ *
+ * Runs every ~10 minutes. To stay inside Groq's free daily token quota, each
+ * LLM call has fixed overhead (prompt + recent headlines), so a run with only
+ * a couple of new articles waits for more unless they've already waited a
+ * while, and the cross-batch duplicate pass runs at most hourly.
  */
 import { fetchAllFeeds, sha1 } from "./fetch.js";
 import { BATCH_SIZE, FatalLLMError, MODEL, PROVIDER, type Usage } from "./llm.js";
-import { loadSeen, loadStories, saveSeen, saveStories } from "./store.js";
+import { loadSeen, loadState, loadStories, saveSeen, saveState, saveStories } from "./store.js";
 import { findDuplicateGroups, summarizeBatch } from "./summarize.js";
 import type { Story } from "./types.js";
 
 /** Upper bound on articles summarised per run, to cap cost/quota (first run, outages). */
 const MAX_PER_RUN = Number(process.env.MAX_ARTICLES_PER_RUN || (PROVIDER === "groq" ? 250 : 400));
 /** Recent headlines sent with each batch for cross-run dedupe (costs input tokens). */
-const EXISTING_CONTEXT = PROVIDER === "groq" ? 80 : 200;
+const EXISTING_CONTEXT = PROVIDER === "groq" ? 50 : 200;
+/** Wait for at least this many new articles before calling the LLM… */
+const MIN_NEW = Number(process.env.MIN_NEW_ARTICLES || 5);
+/** …unless the oldest waiting article is this old (minutes). */
+const MAX_WAIT_MIN = Number(process.env.MAX_WAIT_MINUTES || 25);
+/** Minimum gap between duplicate passes (minutes). */
+const DEDUPE_EVERY_MIN = Number(process.env.DEDUPE_EVERY_MINUTES || 55);
 
 async function main() {
   const startedAt = new Date().toISOString();
@@ -29,12 +40,18 @@ async function main() {
   console.log(`  ${all.length} articles in feeds, ${fresh.length} new`);
   if (!fresh.length) return;
 
+  const oldestMin = (Date.now() - Math.min(...fresh.map((a) => new Date(a.publishedAt).getTime()))) / 60_000;
+  if (fresh.length < MIN_NEW && oldestMin < MAX_WAIT_MIN) {
+    console.log(`  waiting for more (need ${MIN_NEW}, or ${MAX_WAIT_MIN} min; oldest is ${Math.round(oldestMin)} min)`);
+    return;
+  }
+
   const toProcess = fresh.slice(0, MAX_PER_RUN);
   // Anything over the cap is the oldest; mark it seen so it doesn't pile up.
   for (const a of fresh.slice(MAX_PER_RUN)) seen[a.id] = startedAt;
 
   // Headlines the model can match new articles against (cross-run dedupe).
-  const recentCutoff = Date.now() - 48 * 3600_000;
+  const recentCutoff = Date.now() - 24 * 3600_000;
   const existing = stories
     .filter((s) => new Date(s.publishedAt).getTime() >= recentCutoff)
     .slice(0, EXISTING_CONTEXT)
@@ -97,17 +114,23 @@ async function main() {
   }
 
   // Batches only see each other through the headline list, so near-duplicates
-  // slip through. One pass over all recent headlines catches them.
+  // slip through. One pass over all recent headlines catches them; it runs at
+  // most hourly, and only if stories were added since the last pass.
   let deduped = 0;
-  if (created > 0 && !fatal) {
+  const state = loadState();
+  const lastDedupe = state.lastDedupeAt ?? "";
+  const dueForDedupe = Date.now() - new Date(lastDedupe || 0).getTime() >= DEDUPE_EVERY_MIN * 60_000;
+  const addedSince = [...byId.values()].some((s) => s.createdAt > lastDedupe);
+  if (dueForDedupe && addedSince && !fatal) {
     const recent = [...byId.values()]
       .filter((s) => new Date(s.publishedAt).getTime() >= recentCutoff)
       .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt))
-      .slice(0, 150);
+      .slice(0, 100);
     try {
       for (const group of await findDuplicateGroups(recent, usage)) {
         deduped += mergeGroup(group.map((id) => byId.get(id)!), byId);
       }
+      saveState({ ...state, lastDedupeAt: startedAt });
     } catch (err) {
       if (err instanceof FatalLLMError) fatal = err;
       else console.warn(`  ! duplicate pass failed: ${String(err).slice(0, 200)}`);
