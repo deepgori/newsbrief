@@ -1,0 +1,103 @@
+name: News pipeline
+
+on:
+  schedule:
+    # Ingest every 2 hours. GitHub cron is UTC and best-effort (runs can start
+    # late, never early).
+    - cron: "0 */2 * * *"
+    # 8am Sydney is 21:00 UTC in daylight time (AEDT) and 22:00 UTC in
+    # standard time (AEST). 22:00 is already covered above; digest.ts only
+    # sends once it's >= 8am in Sydney and today's digest hasn't gone out.
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+    inputs:
+      force_digest:
+        description: "Send the email digest now (ignores time and already-sent check)"
+        type: boolean
+        default: false
+
+concurrency:
+  group: pipeline
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Ingest and summarise new articles
+        # A failed ingest must not block the morning email; it uses what's stored.
+        continue-on-error: true
+        run: npm run ingest
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          LLM_PROVIDER: ${{ vars.LLM_PROVIDER }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+
+      - name: Commit stories
+        run: |
+          git config user.name "news-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || (git commit -q -m "data: ingest $(date -u +%FT%TZ)" && git pull -q --rebase && git push)
+
+      - name: Send 8am digest (if due)
+        run: npm run digest -- ${{ inputs.force_digest && '--force' || '' }}
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          DIGEST_RECIPIENTS: ${{ secrets.DIGEST_RECIPIENTS }}
+          SITE_URL: ${{ vars.SITE_URL }}
+
+      - name: Record digest
+        run: |
+          git add data
+          git diff --cached --quiet || (git commit -q -m "data: digest $(date -u +%F)" && git pull -q --rebase && git push)
+
+  deploy-site:
+    needs: pipeline
+    if: vars.DEPLOY_PAGES == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }} # branch head, including the data just committed
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - id: pages
+        uses: actions/configure-pages@v5
+
+      - run: npm run build:web
+        env:
+          NEXT_PUBLIC_BASE_PATH: ${{ steps.pages.outputs.base_path }}
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web/out
+
+      - id: deploy
+        uses: actions/deploy-pages@v4

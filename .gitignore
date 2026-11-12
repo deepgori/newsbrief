@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.DS_Store
+
+# pipeline
+pipeline/out/
+
+# next.js
+web/.next/
+web/out/
+web/next-env.d.ts
+*.tsbuildinfo

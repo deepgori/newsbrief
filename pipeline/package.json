@@ -1,0 +1,22 @@
+{
+  "name": "pipeline",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "ingest": "tsx src/ingest.ts",
+    "digest": "tsx src/digest.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.8.0",
+    "nodemailer": "^10.5.0",
+    "rss-parser": "^3.13.0",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "@types/nodemailer": "^8.0.2",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}

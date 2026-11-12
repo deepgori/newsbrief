@@ -1,0 +1,11 @@
+{
+  "name": "aus-news",
+  "private": true,
+  "workspaces": ["pipeline", "web"],
+  "scripts": {
+    "ingest": "npm run ingest -w pipeline",
+    "digest": "npm run digest -w pipeline",
+    "dev": "npm run dev -w web",
+    "build:web": "npm run build -w web"
+  }
+}
