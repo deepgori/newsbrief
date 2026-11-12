@@ -1,5 +1,617 @@
 [
  {
+  "id": "a9f53155849b203b",
+  "headline": "Australian home sales hit 16-year low as prices soar",
+  "summary": "October home sales fell to the lowest level since the Great Recession, with buyers retreating amid 7 % mortgage rates and all-time high property prices, marking a sharp slowdown in the market.",
+  "category": "property",
+  "region": "australia",
+  "importance": 7,
+  "sources": [
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/home-sales-plummet-to-lowest-level-since-the-great-recession-as-buyers-flee-the-market-624e6270"
+   }
+  ],
+  "imageUrl": "https://images.mktw.net/im-33452454",
+  "publishedAt": "2026-11-12T15:52:00.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "391a48fb5c836354",
+  "headline": "Florida St Patrick’s Day parade cancelled after anti-DEI law",
+  "summary": "Delray Beach announced the cancellation of its popular St Patrick’s Day parade to comply with a new Florida law that bars municipalities from hosting events deemed to promote diversity, equity and inclusion, sparking public outrage.",
+  "category": "politics",
+  "region": "global",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/2026/nov/12/florida-st-patricks-day-parade-cancelled-dei"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/434830d18838eec0b1c561c5605e013201a360ba/0_0_2190_1753/master/2190.jpg?width=140&quality=85&auto=format&fit=max&s=e1c0043d6d02cabbc778723b569897f7",
+  "publishedAt": "2026-11-12T15:51:29.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "dd8c46ae79ace002",
+  "headline": "Gunman kills one and injures four in Washington DC shooting",
+  "summary": "A shooter opened fire near the White House, killing a person at a gym and wounding four others. Police later contained the suspect, who shot himself. The incident shifted from an active-shooter response to a barricaded-subject operation, with authorities urging residents to stay indoors.",
+  "category": "world",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates"
+   },
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/world/north-america/five-shot-in-washington-dc-active-shooter-barricaded-inside-building-20261113-p61dtn.html"
+   },
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-13/active-shooter-in-washington-dc-near-logan-circle/107380770"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/3e96d892fd128af4a596c9b1883c06409042a1e0/275_0_4405_3525/master/4405.jpg?width=140&quality=85&auto=format&fit=max&s=3934f242f1acb83fadc80aa3af1e3736",
+  "publishedAt": "2026-11-12T15:46:37.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "427f3fff58e17132",
+  "headline": "US bill proposes Medicare eligibility at age 50",
+  "summary": "Legislation under consideration would lower the Medicare eligibility age from 65 to 50, extending coverage to about 60 million American workers. The proposal, distinct from Medicare-for-All, aims to broaden health security for mid-career adults.",
+  "category": "politics",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3"
+   }
+  ],
+  "imageUrl": "https://images.mktw.net/im-17509627",
+  "publishedAt": "2026-11-12T15:40:00.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "f41a31c537a4f0c1",
+  "headline": "Disney partners with Cosm to bring Star Wars to dome theatres",
+  "summary": "Cosm secured a multi-year film deal with Disney, bringing \"Star Wars: A New Hope\" and future titles to its dome venues as part of a broader collaboration.",
+  "category": "entertainment",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/12/star-wars-cosm-dome-screenings.html"
+   }
+  ],
+  "publishedAt": "2026-11-12T15:36:02.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "537f6e66dfbe0f7d",
+  "headline": "European leaders reject Russian push to overhaul continent’s security",
+  "summary": "EU heads pushed back against Moscow’s proposal to revamp European security structures, with Ukrainian President Zelenskyy warning of heightened risks as talks continue in Abu Dhabi.",
+  "category": "world",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "Financial Times",
+    "url": "https://www.ft.com/content/8d28a5be-af56-421f-a33d-779a0fcc7ad4"
+   }
+  ],
+  "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3ad8345e-021d-4b77-9052-2d85c34a1bef.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+  "publishedAt": "2026-11-12T15:30:49.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "81ef48c7c051e350",
+  "headline": "Nebius shares tumble 16% after weak 2026 capex outlook",
+  "summary": "Nebius fell 16 % on the market after issuing a cautious outlook for 2026 capital expenditure, lagging behind peers IREN and CoreWeave that posted stronger recent results.",
+  "category": "markets",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html"
+   }
+  ],
+  "publishedAt": "2026-11-12T15:27:41.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "41630a5fa7ac71f0",
+  "headline": "MSF says millions of Ebola aid funds missing, staff unpaid",
+  "summary": "Médecins Sans Frontières warned that large sums of Ebola relief money are unaccounted for, leaving medical staff without pay, training or essential supplies as the virus continues to spread.",
+  "category": "health",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4358/live/fa767be0-de8d-11f1-9afe-1f03bfe02283.jpg",
+  "publishedAt": "2026-11-12T15:18:20.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "bfbfe9f6c5d28603",
+  "headline": "Employer-backed home purchases rise as housing affordability worsens",
+  "summary": "A MarketWatch survey notes an increase in first-time buyers receiving financial assistance from their employers, highlighting the growing difficulty of purchasing a home even for those with stable jobs.",
+  "category": "property",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/need-money-for-a-down-payment-more-employers-are-offering-to-help-59c57da3"
+   }
+  ],
+  "imageUrl": "https://images.mktw.net/im-55718088",
+  "publishedAt": "2026-11-12T15:13:00.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "f4913d482cb1a783",
+  "headline": "Oil prices mixed after Trump says Iran deal not needed",
+  "summary": "Crude futures moved sideways on Thursday following President Donald Trump’s comments that a U.S.–Iran agreement was unnecessary, sparking concerns the conflict could continue.",
+  "category": "markets",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html"
+   }
+  ],
+  "publishedAt": "2026-11-12T15:08:45.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "5200ecc1850cab0f",
+  "headline": "Mortgage rates 7% in 1997, but housing costs now higher proportion of income",
+  "summary": "A CNBC analysis shows that although mortgage rates were 7 % in 1997, today’s typical home consumes a much larger share of household earnings, making home buying feel more expensive despite similar rates.",
+  "category": "economy",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/make-it/2026/11/12/mortgage-rates-home-affordability-1997.html"
+   }
+  ],
+  "publishedAt": "2026-11-12T15:00:01.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "3fa3507e0a6864fa",
+  "headline": "Nvidia CEO Jensen Huang resigns amid scandal",
+  "summary": "Jensen Huang stepped down as Nvidia chief executive after an affair with an employee alleged to be a Chinese spy. Shares fell up to 10%, wiping tens of billions from market value. Colette Kress was named interim CEO and Huang’s $140 billion stake, held jointly with his wife, adds uncertainty.",
+  "category": "business",
+  "region": "global",
+  "importance": 8,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/11/12/it-had-to-happen-jim-cramer-on-the-resignation-of-nvidia-ceo-jensen-huang.html"
+   },
+   {
+    "name": "AFR",
+    "url": "https://www.afr.com/politics/federal/australia-news-live-updates-nvidia-shares-plunge-again-as-default-risk-nears-record-high-20261113-p61dtm"
+   },
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/technology/nvidia-ceo-jensen-huang-resigns-after-affair-scandal-20261113-p61dto.html"
+   },
+   {
+    "name": "Financial Times",
+    "url": "https://www.ft.com/content/fa23a8ad-29bf-4971-aa44-6b25b247c193"
+   },
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-13/nvidia-founder-jensen-huang-resigns/107376470"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/videos/cqz0k70990zpo"
+   },
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/nvidia-is-spending-more-than-ever-on-washington-lobbying-it-still-may-not-be-able-to-stop-congress-from-limiting-its-china-chip-sales-now-d4c34c66"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.946%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_153%2C$y_29/t_crop_custom/q_86%2Cf_auto/02c72a47c9bbe559202c82cd13ff7620ed2432db",
+  "publishedAt": "2026-11-12T14:48:09.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "71418c44a299a008",
+  "headline": "Farage appears on Russell Brand podcast, criticises Labour",
+  "summary": "Reform UK leader Nigel Farage featured on Russell Brand’s US podcast, condemning the Labour party for “cosying up” to the comedian after Brand’s recent sexual-assault conviction.",
+  "category": "politics",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/politics/2026/nov/12/farage-was-guest-on-brand-podcast-after-sexual-assault-investigation-began"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/40558422c7bc4a345d47ed741577d0799be3ec8d/493_319_3988_3191/master/3988.jpg?width=140&quality=85&auto=format&fit=max&s=7c03989a49339809d21dd7b6e7bcbd1e",
+  "publishedAt": "2026-11-12T14:30:17.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "c39c70990d3e95db",
+  "headline": "UK health agency warns low meningitis B vaccine uptake among teens",
+  "summary": "UKHSA says only 28% of 18- and 19-year-olds have received the first dose in a one-off campaign, amid an outbreak that caused three deaths and serious illness.",
+  "category": "health",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/society/2026/nov/12/time-running-out-young-people-meningitis-b-vaccines-uk"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/5933f141c2d2f0c5b81d6ddb525b6016cd588787/403_0_2367_1894/master/2367.jpg?width=140&quality=85&auto=format&fit=max&s=3d63cba933117cd02f210d3b831c808d",
+  "publishedAt": "2026-11-12T14:16:18.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "f00ddb6c54362bf3",
+  "headline": "Mississippi’s last black senators before Scott Colom highlighted",
+  "summary": "The piece recalls the two black men who served as US senators from Mississippi before Scott Colom, the first black senator from the state since 1874.",
+  "category": "politics",
+  "region": "global",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cmde1y19g19do"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9195/live/8aa36db0-de8c-11f1-9afe-1f03bfe02283.png",
+  "publishedAt": "2026-11-12T14:12:55.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "f093566cb4c2c090",
+  "headline": "Trump threatens to double tariffs on Mexico over illegal immigration",
+  "summary": "President Trump says levies will increase if Mexico does not curb illegal crossings, signalling a possible escalation in trade tensions.",
+  "category": "politics",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "Financial Times",
+    "url": "https://www.ft.com/content/b4bb6e99-97c8-4392-a227-b7b74853ba26"
+   }
+  ],
+  "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F83829b00-5d31-4726-93ca-98e50fee88f9.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+  "publishedAt": "2026-11-12T14:12:20.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "49618b8c67116b65",
+  "headline": "Two men convicted of aiding Iran in plot against UK journalists",
+  "summary": "Men of Iranian origin were found guilty of conducting surveillance for Tehran’s intelligence services to facilitate violence against UK-based journalists between 2024 and 2025.",
+  "category": "world",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/3de1032b43ea112cddfd255faa0e038c469f9729/537_0_3947_3160/master/3947.jpg?width=140&quality=85&auto=format&fit=max&s=c99f7bf49b1c360d215904daa6c93878",
+  "publishedAt": "2026-11-12T14:07:42.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "abcda96395f58a9f",
+  "headline": "Australian federal police warn of surge in teen extremist material",
+  "summary": "AFP says 32 of 37 youths prosecuted for extremist offences were charged in the past two years, with many found possessing “hard drives full of gore”.",
+  "category": "politics",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/13/australia-surge-in-teen-extremism-ntwnfb"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/73d8f7306ac81a98efc7615dd99b04af35587a1e/554_0_5211_4171/master/5211.jpg?width=140&quality=85&auto=format&fit=max&s=75d8bbcc5e5dc6e1e1bb5611b8caad67",
+  "publishedAt": "2026-11-12T14:00:45.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "8dba574c395207ec",
+  "headline": "New allegations emerge against convicted rapist Ralph Carr",
+  "summary": "Former staffers detail unwanted sexual advances by Melbourne talent manager Ralph Carr, who was previously found guilty of raping an ex-employee.",
+  "category": "other",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/nov/13/ralph-carr-convicted-rapist-new-allegations-sexual-touching-ntwnfb"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/2edc2936ffee25365c9eceb3888279158b83c43a/0_226_2000_1599/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=29cb5a8d31447507c53c6b4ab505e878",
+  "publishedAt": "2026-11-12T14:00:45.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "1937161d230fefe2",
+  "headline": "NSW ICAC report highlights ‘guns for hire’ issue, calls for reform",
+  "summary": "The corruption watchdog’s inquiry reveals ease of undeclared lobbying and gun-for-hire problems, criticising both major parties for inaction on recommended reforms.",
+  "category": "politics",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/13/icac-chris-minns-nsw-undeclared-lobbying-bill-ntwnfb"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/cbb577c399c0993101f20d08d1df77d73e9c3275/2537_1001_2478_1983/master/2478.jpg?width=140&quality=85&auto=format&fit=max&s=7b7dafb167d3a2278aefabf59d31e573",
+  "publishedAt": "2026-11-12T14:00:44.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "b564aa40ba29833c",
+  "headline": "NSW Labor runs 'news' Instagram account, raising communication law concerns",
+  "summary": "A new Instagram account presenting itself as an independent news source is being operated by the NSW Labor party. Experts warn it exploits a loophole in political communication rules, as the state government and other parties also use similar unaffiliated accounts to share partisan content.",
+  "category": "politics",
+  "region": "australia",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/13/nsw-newsroom-instagram-account-labor-party"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/ce452a6a1cca19fc2f3d127d3f9a6b0d9cc0b712/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d5b617804005c142e701a205d408ebae",
+  "publishedAt": "2026-11-12T14:00:42.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "abe28bc266b11caf",
+  "headline": "Poundland granted two-week extension to secure buyer",
+  "summary": "UK discount retailer Poundland has received a high-court order extending its creditor protection by two weeks while it seeks a new owner. The move gives the chain, which employs about 12,000 staff, more time to evaluate bids from three potential purchasers.",
+  "category": "business",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/business/2026/nov/12/poundland-owner-secures-two-extra-weeks-ensure-retail-chains-survival"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/5912a89d0665235ae256c69b013fe2d6cb9ed7a3/236_0_6252_5000/master/6252.jpg?width=140&quality=85&auto=format&fit=max&s=ca99accbb398e0c2d65b2f00c0bc9b97",
+  "publishedAt": "2026-11-12T13:46:34.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "aed7285a6e67e461",
+  "headline": "UK proposes ending criminal record checks for youth offences",
+  "summary": "The government plans to stop requiring employers to see criminal records of people convicted of offences committed under the age of 18. Ministers say the change will help reduce youth incarceration and improve employment prospects for disadvantaged young people in England and Wales.",
+  "category": "politics",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/12/children-criminal-records-england-wales-labour"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/636709dcaefa97559bd1b10f630e7d0145ad1da5/0_1332_2030_1623/master/2030.jpg?width=140&quality=85&auto=format&fit=max&s=32f54447dd02f4200cc9d97eeceaa87d",
+  "publishedAt": "2026-11-12T13:44:20.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "c61c0256602ce324",
+  "headline": "Record credit-card balances raise risk of hidden medical-debt",
+  "summary": "U.S. consumers have pushed credit-card debt to a new high, and experts warn that mounting medical bills are increasingly being added to cards, creating “shadow debt” that is harder to track and could strain household finances.",
+  "category": "economy",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/12/medical-bills-credit-card-debt.html"
+   }
+  ],
+  "publishedAt": "2026-11-12T13:15:02.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "f7919e885a67743b",
+  "headline": "Zimbabwe author cleared after AI plagiarism probe",
+  "summary": "Simbarashe Kundizeza has been exonerated following a month-long investigation that confirmed his Caine prize-winning short story was written by a human, ending allegations that artificial intelligence was used.",
+  "category": "other",
+  "region": "global",
+  "importance": 2,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/6487803463c6c4e3138642f657eeb1cd90cd5acc/0_111_1078_862/master/1078.jpg?width=140&quality=85&auto=format&fit=max&s=e825c93b0c4e49e69e380953e02995c6",
+  "publishedAt": "2026-11-12T13:14:38.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "f25dd5b661faeb85",
+  "headline": "Unions claim credit for Democratic wins in 2026 midterms",
+  "summary": "Labor unions say their multi-million-dollar spending and member mobilisation helped Democrats secure major victories in the 2026 U.S. midterm elections, and are now urging the party to deliver concrete policy actions.",
+  "category": "politics",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/12/democrats-unions-midterms-2026.html"
+   }
+  ],
+  "publishedAt": "2026-11-12T13:09:33.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "ef5708dad29fe548",
+  "headline": "UK economy outperforms expectations amid AI boost",
+  "summary": "Analysts note that the UK has posted its fastest growth in over two years, driven in part by artificial-intelligence adoption. Despite concerns over a tech slowdown and rising energy costs, the economy expanded by 0.7% in the latest quarter, defying earlier forecasts.",
+  "category": "economy",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d49/live/b6cded90-deb2-11f1-a701-fddedf244c16.jpg",
+  "publishedAt": "2026-11-12T13:08:12.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "2fe02817a643995e",
+  "headline": "Ukraine power plant operates under constant drone threat",
+  "summary": "One of Ukraine’s largest power stations, heavily damaged by a Russian missile strike, remains functional but faces ongoing danger from drone attacks, highlighting the precarious state of the country’s energy infrastructure.",
+  "category": "world",
+  "region": "global",
+  "importance": 7,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/333a/live/e63a2ff0-dea1-11f1-93e1-3b657b665bcf.png",
+  "publishedAt": "2026-11-12T13:02:46.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "6a5c4c474dbc5f86",
+  "headline": "Australian quantum start-up Q-CTRL reaches unicorn status",
+  "summary": "Q-CTRL, a home-grown quantum-technology company, has been valued at over $1 billion after raising $420 million, expanding its portfolio from quantum-software tools to a navigation system developed with Airbus.",
+  "category": "business",
+  "region": "australia",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "AFR",
+    "url": "https://www.afr.com/technology/homegrown-quantum-start-up-wins-unicorn-status-with-420m-raising-20261113-p61dex"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.673707037037037%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_621%2C$y_138/t_crop_custom/q_86%2Cf_auto/57489ea3a1e2f9c5e34bbe2854416dd19baaa030",
+  "publishedAt": "2026-11-12T13:00:00.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "95767d3376df0636",
+  "headline": "Petrol prices fall as global oil costs drop 20%",
+  "summary": "Australian motorists are seeing lower pump prices after crude oil prices slipped by about one-fifth this month, providing temporary relief for drivers facing high fuel expenses.",
+  "category": "markets",
+  "region": "australia",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/business/consumer-affairs/bowser-relief-petrol-prices-tumble-as-global-oil-cost-falls-20261113-p61dki.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.137%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/5f56901a575f8173b5ab7748d195966973448a51",
+  "publishedAt": "2026-11-12T13:00:00.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "46a3955e6ce30430",
+  "headline": "Metro Bank puts itself up for sale, billionaire eyes £420m windfall",
+  "summary": "Metro Bank announced it is seeking bids after three years since its rescue, with Colombian billionaire Jaime Gilinski Bacal expected to reap a £420 million gain if the sale proceeds, sending the share price up 7%.",
+  "category": "business",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/business/2026/nov/12/metro-bank-up-for-sale-billionaire-investor-in-line-420m-windfall"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/8dd2e9e59b6d92f8f011307fd95746c3cdabf54c/412_112_6540_5232/master/6540.jpg?width=140&quality=85&auto=format&fit=max&s=3a3852314fd0894c454b6f4720a977af",
+  "publishedAt": "2026-11-12T12:43:49.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "2437e000a0be9004",
+  "headline": "Bomb hoax threats trigger evacuations at Italian schools",
+  "summary": "Schools across Italy faced fresh evacuations after receiving bomb threats for a second consecutive day, causing panic among students and staff.",
+  "category": "world",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f53d/live/8b18a0e0-de90-11f1-b441-2b33b063138f.jpg",
+  "publishedAt": "2026-11-12T12:39:39.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "531075c66936bd32",
+  "headline": "OECD reports migration to rich countries falls for second year",
+  "summary": "The OECD says inflows to wealthy nations declined for a second year as stricter visa rules limit workers, students and refugees moving abroad.",
+  "category": "economy",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "Financial Times",
+    "url": "https://www.ft.com/content/9ef2ed1e-5a67-4b28-8939-0c8e07ac6444"
+   }
+  ],
+  "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5578f275-9755-4d4b-a8fd-a796b3f7a0b8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+  "publishedAt": "2026-11-12T12:30:50.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "83f8998530ea0c8d",
+  "headline": "Meta restores Australian Femicide Watch page",
+  "summary": "Meta has reinstated the Femicide Watch page that tracks murders of women in Australia after founder Sherele Moody requested its revival.",
+  "category": "other",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/politics/federal/meta-shuts-down-page-dedicated-to-tracking-the-murder-of-women-in-australia-20261112-p61doz.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.8007511192511192%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_306/t_crop_custom/q_86%2Cf_auto/d70958a74f18a223a49a8763b09bfd3c7d29aae7",
+  "publishedAt": "2026-11-12T12:24:15.000Z",
+  "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
   "id": "3a7c25e61bac281c",
   "headline": "Milburn review proposes cuts to youth welfare benefits in UK",
   "summary": "Former Labour minister Alan Milburn's review recommends reducing welfare payments for young people not in education, employment or training. The proposal could represent the biggest overhaul of the UK benefits system in a decade, aiming to address rising numbers of NEETs and reshape the welfare landscape.",
@@ -262,6 +874,10 @@
    {
     "name": "BBC",
     "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo"
+   },
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-13/ukraine-elon-musk-starlink-access-disrupted/107380578"
    }
   ],
   "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7dd76fc2-fe04-4ee5-af6d-e435e0e76bc4.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
