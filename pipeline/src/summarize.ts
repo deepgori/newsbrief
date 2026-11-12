@@ -45,6 +45,20 @@ For each new story:
   3-5: routine company news, general interest, state-level news.
   1-2: trivial, very local, celebrity or soft news.`;
 
+/**
+ * Models (gpt-oss especially) emit typographic spaces and hyphens, e.g.
+ * "$33 billion", "pre‑election". Some mail clients render them badly;
+ * normalise to plain characters. Curly quotes and dashes are left alone.
+ */
+export function plainText(s: string): string {
+  return s
+    .replace(/[  -   ]/g, " ") // no-break / thin / narrow spaces
+    .replace(/[‐‑]/g, "-") // (non-breaking) hyphens
+    .replace(/[​-‍⁠﻿]/g, "") // zero-width characters
+    .replace(/ {2,}/g, " ")
+    .trim();
+}
+
 function renderBatch(batch: RawArticle[], existing: { id: string; headline: string }[]) {
   const existingBlock = existing.length
     ? existing.map((s) => `${s.id} | ${s.headline}`).join("\n")
@@ -98,7 +112,13 @@ export async function summarizeBatch(
     const articles = article_refs.map(refToArticle).filter((a): a is RawArticle => !!a && !handled.has(a.id));
     if (!articles.length) continue;
     articles.forEach((a) => handled.add(a.id));
-    drafts.push({ ...rest, importance: Math.min(10, Math.max(1, rest.importance)), articles });
+    drafts.push({
+      ...rest,
+      headline: plainText(rest.headline),
+      summary: plainText(rest.summary),
+      importance: Math.min(10, Math.max(1, rest.importance)),
+      articles,
+    });
   }
 
   const missed = batch.length - handled.size;

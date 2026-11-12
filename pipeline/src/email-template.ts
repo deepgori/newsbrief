@@ -35,7 +35,7 @@ export function renderHtml(dateLabel: string, sections: Section[], siteUrl?: str
     )
     .join("");
 
-  return `<!doctype html><html><body style="margin:0;background:#f4f5f7;">
+  return `<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Morning Briefing</title></head><body style="margin:0;background:#f4f5f7;">
   <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#f4f5f7;">
   <tr><td align="center" style="padding:24px 12px;">
     <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width:640px;background:#fff;border-radius:12px;padding:8px 28px 28px;">

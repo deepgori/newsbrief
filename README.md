@@ -59,7 +59,7 @@ npm run digest -- --force           # actually send (needs Gmail vars)
 npm run dev                         # website on http://localhost:3000
 ```
 
-Add or remove sources in `pipeline/src/feeds.ts`. Email sections and limits are in `pipeline/src/digest.ts` (`SECTIONS`).
+Add or remove sources in `pipeline/src/feeds.ts`. Email sections and limits are in `pipeline/src/sections.ts`.
 
 ## Cost and limits
 

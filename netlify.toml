@@ -1,0 +1,9 @@
+# Netlify builds the static site from the repo root (npm workspaces).
+# Every data commit from the GitHub Action triggers a rebuild once the
+# site is linked to the repo.
+[build]
+  command = "npm run build:web"
+  publish = "web/out"
+
+[build.environment]
+  NODE_VERSION = "22"
