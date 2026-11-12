@@ -7,12 +7,12 @@ on:
     - cron: "0 */2 * * *"
     # 8am Sydney is 21:00 UTC in daylight time (AEDT) and 22:00 UTC in
     # standard time (AEST). 22:00 is already covered above; digest.ts only
-    # sends once it's >= 8am in Sydney and today's digest hasn't gone out.
+    # runs once it's >= 8am in Sydney and today's briefing isn't recorded yet.
     - cron: "0 21 * * *"
   workflow_dispatch:
     inputs:
       force_digest:
-        description: "Send the email digest now (ignores time and already-sent check)"
+        description: "Publish (and email, if configured) the briefing now, ignoring the time and already-done check"
         type: boolean
         default: false
 
@@ -56,7 +56,7 @@ jobs:
           git add data
           git diff --cached --quiet || (git commit -q -m "data: ingest $(date -u +%FT%TZ)" && git pull -q --rebase && git push)
 
-      - name: Send 8am digest (if due)
+      - name: Publish 8am briefing (emails it too if Gmail secrets are set)
         run: npm run digest -- ${{ inputs.force_digest && '--force' || '' }}
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
@@ -64,7 +64,7 @@ jobs:
           DIGEST_RECIPIENTS: ${{ secrets.DIGEST_RECIPIENTS }}
           SITE_URL: ${{ vars.SITE_URL }}
 
-      - name: Record digest
+      - name: Record briefing
         run: |
           git add data
           git diff --cached --quiet || (git commit -q -m "data: digest $(date -u +%F)" && git pull -q --rebase && git push)

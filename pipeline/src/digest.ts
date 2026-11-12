@@ -1,12 +1,16 @@
 /**
- * Daily 8am (Sydney) email digest.
+ * Daily 8am (Sydney) briefing: always published to the website's Briefing
+ * page (data/digests/DATE.json); also emailed if Gmail is configured.
  *
  * GitHub Actions cron is UTC and Sydney has daylight saving, so the workflow
- * fires at both 21:00 and 22:00 UTC. This script only sends when it's 8am or
- * later in Sydney AND today's digest hasn't been recorded in data/digests/.
+ * fires at both 21:00 and 22:00 UTC. This script only runs when it's 8am or
+ * later in Sydney AND today's briefing hasn't been recorded in data/digests/.
  *
- *   npm run digest                 # send if due
- *   npm run digest -- --force      # send now regardless of time / already-sent
+ * Email is optional: without GMAIL_USER, GMAIL_APP_PASSWORD and
+ * DIGEST_RECIPIENTS the briefing is published to the site only.
+ *
+ *   npm run digest                 # publish (and email) if due
+ *   npm run digest -- --force      # do it now regardless of time / already-done
  *   npm run digest -- --dry-run    # write a preview HTML file, send nothing
  */
 import fs from "node:fs";
@@ -48,27 +52,31 @@ async function main() {
   const user = process.env.GMAIL_USER;
   const pass = process.env.GMAIL_APP_PASSWORD;
   const recipients = (process.env.DIGEST_RECIPIENTS ?? "").split(",").map((s) => s.trim()).filter(Boolean);
-  if (!user || !pass || !recipients.length) {
-    throw new Error("Set GMAIL_USER, GMAIL_APP_PASSWORD and DIGEST_RECIPIENTS to send the digest.");
-  }
+  const emailOn = Boolean(user && pass && recipients.length);
 
-  const transport = nodemailer.createTransport({ service: "gmail", auth: { user, pass } });
-  await transport.sendMail({
-    from: `"Morning Briefing" <${user}>`,
-    to: user,
-    bcc: recipients, // recipients don't see each other
-    subject: `Morning Briefing: ${dateLabel}`,
-    html,
-    text,
-  });
+  if (emailOn) {
+    const transport = nodemailer.createTransport({ service: "gmail", auth: { user, pass } });
+    await transport.sendMail({
+      from: `"Morning Briefing" <${user}>`,
+      to: user,
+      bcc: recipients, // recipients don't see each other
+      subject: `Morning Briefing: ${dateLabel}`,
+      html,
+      text,
+    });
+  }
 
   saveDigest({
     date,
     sentAt: new Date().toISOString(),
-    recipients: recipients.length,
+    recipients: emailOn ? recipients.length : 0,
     sections: sections.map((s) => ({ title: s.title, storyIds: s.stories.map((x) => x.id) })),
   });
-  console.log(`Sent digest for ${date}: ${count} stories to ${recipients.length} recipient(s).`);
+  console.log(
+    emailOn
+      ? `Published and emailed briefing for ${date}: ${count} stories to ${recipients.length} recipient(s).`
+      : `Published briefing for ${date} to the site (${count} stories). Email not configured, so nothing was sent.`,
+  );
 }
 
 main().catch((err) => {

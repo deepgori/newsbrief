@@ -2,7 +2,7 @@
 
 An Inshorts-style news service for Australia with a dedicated finance section:
 
-- **Daily 8am email briefing** (Sydney time) of the most important Australian and global finance, economy and business news.
+- **Daily 8am briefing** (Sydney time) of the most important Australian and global finance, economy and business news, published on the site and optionally emailed.
 - **Website** with a swipeable short-news feed (Top Stories / Finance / Morning Briefing).
 - Built so a mobile app can sit on the same data later.
 
@@ -22,7 +22,8 @@ pipeline/src/ingest.ts
    • merges into data/stories.json (rolling 7 days), commits to the repo
    │
    ├─▶ pipeline/src/digest.ts   at 8am Sydney: picks top stories per section,
-   │                            emails via Gmail, records data/digests/DATE.json
+   │                            records data/digests/DATE.json (Briefing page),
+   │                            and emails it via Gmail if configured
    │
    └─▶ web/ (Next.js static export) rebuilt from data/ and deployed to GitHub Pages
 ```
@@ -30,14 +31,16 @@ pipeline/src/ingest.ts
 ## Setup
 
 1. **Create a GitHub repo** and push this folder. (GitHub Pages on a private repo needs a paid plan; see "Hosting the site" below.)
-2. **Gmail app password**: on the sending Gmail account turn on 2-Step Verification, then Google Account → Security → App passwords → create one.
+2. **Gmail app password** (only if you want the email): on the sending Gmail account turn on 2-Step Verification, then Google Account → Security → App passwords → create one.
 3. **Repo secrets** (Settings → Secrets and variables → Actions → Secrets):
    | Secret | Value |
    |---|---|
    | `GROQ_API_KEY` | from console.groq.com → API Keys (free) |
-   | `GMAIL_USER` | sending Gmail address |
-   | `GMAIL_APP_PASSWORD` | the 16-character app password |
-   | `DIGEST_RECIPIENTS` | comma-separated emails (sent as BCC) |
+   | `GMAIL_USER` | *optional*: sending Gmail address |
+   | `GMAIL_APP_PASSWORD` | *optional*: the 16-character app password |
+   | `DIGEST_RECIPIENTS` | *optional*: comma-separated emails (sent as BCC) |
+
+   The three Gmail secrets are only needed for the email; without them the briefing is published on the site only.
 4. **Repo variables** (optional, same page → Variables):
    | Variable | Purpose |
    |---|---|
