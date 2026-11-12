@@ -1,5 +1,330 @@
 [
  {
+  "id": "027164ac77467e0c",
+  "headline": "Royal commission questions redactions in Andrews government documents",
+  "summary": "The inquiry into the Victorian state’s response to the pandemic has raised concerns over extensive redactions and omissions in communications involving former premier Daniel Andrews and his top adviser, demanding further evidence.",
+  "category": "politics",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "AFR",
+    "url": "https://www.afr.com/work-and-careers/workplace/inquiry-cranky-at-redactions-omissions-on-allan-and-andrews-comms-20261112-p61djw"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_1.8072%2C$multiply_0.3720%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/q_86%2Cf_auto/cff18da5a61c6a07114e6fc1e9148fdf729d5083d17ac1bcf6f5d850097df589",
+  "publishedAt": "2026-11-12T03:16:00.000Z",
+  "createdAt": "2026-11-12T03:24:43.984Z"
+ },
+ {
+  "id": "754285f0b45e51cc",
+  "headline": "NSW community preschools warn funding model could cut staff ratios",
+  "summary": "Preschool operators in New South Wales say the state’s new funding formula, which increases child numbers while reducing staff, may undermine care quality and safety, prompting a united opposition from the sector.",
+  "category": "other",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-12/nsw-community-preschool-funding-fears/107355938"
+   }
+  ],
+  "publishedAt": "2026-11-12T03:11:09.000Z",
+  "createdAt": "2026-11-12T03:24:43.984Z"
+ },
+ {
+  "id": "d342a9b79525cd05",
+  "headline": "Debate intensifies over Social Security’s long-term solvency in US",
+  "summary": "Analysts warn that demographic trends could strain Social Security, while Senator Bernie Sanders proposes ending the taxable earnings cap to increase contributions from high-income earners and keep the programme solvent for future generations.",
+  "category": "economy",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e"
+   }
+  ],
+  "imageUrl": "https://images.mktw.net/im-49247042",
+  "publishedAt": "2026-11-12T03:10:00.000Z",
+  "createdAt": "2026-11-12T03:24:43.984Z"
+ },
+ {
+  "id": "87c719bef2a9ccbd",
+  "headline": "Pat Cummins to address Khawaja allegations in media briefing",
+  "summary": "Australian Test captain Pat Cummins confirmed he will hold a press conference in Sydney to respond to recent claims involving former player Usman Khawaja, following a week of public discussion about past ball-tampering incidents.",
+  "category": "sport",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/sport/cricket/warner-on-the-warpath-as-he-attacks-assistant-coach-s-sandpaper-account-20261112-p61dhe.html"
+   },
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-12/pat-cummins-to-respond-properly-to-usman-khawaja/107377786"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.22410000000000002%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_170%2C$y_130/t_crop_custom/q_86%2Cf_auto/f45bc9465dccfdca06c3bcc74589aeff5e0d0e0f",
+  "publishedAt": "2026-11-12T03:09:46.000Z",
+  "createdAt": "2026-11-12T03:24:43.984Z"
+ },
+ {
+  "id": "34457e5dbe3c53bd",
+  "headline": "Victorian opposition leader Jess Wilson shares dream dinner guests and policy priorities",
+  "summary": "In a rapid-fire interview, Jess Wilson, leader of the Victorian Opposition, revealed the people she would invite to a fantasy dinner and highlighted the key policy reforms she sees as most urgent for the state.",
+  "category": "politics",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/politics/a-rapid-fire-round-with-jess-wilson-20261112-p61doc.html"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/australia-news/commentisfree/2026/nov/12/jess-wilson-ben-carroll-missed-opportunity-hard-right-threat-vic-elections-ntwnfb"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/de9a9ec793e1b193ac7a3bd17562d297d981e76d",
+  "publishedAt": "2026-11-12T03:09:33.000Z",
+  "createdAt": "2026-11-12T03:24:43.984Z"
+ },
+ {
+  "id": "90cd900efe61d2f7",
+  "headline": "Historic SS United States sunk off Florida to become artificial reef",
+  "summary": "The former trans-Atlantic liner SS United States, once the fastest ocean liner, was deliberately sunk off Destin, Florida, where it will serve as the world’s largest artificial reef, ending its 70-year maritime career.",
+  "category": "world",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/2026/nov/11/ss-united-states-sinks-florida-reef"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/8fd60b61479519c751873c078dc512af7092ed65/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=9c566e41195cc25e767c4ccf33bd91b5",
+  "publishedAt": "2026-11-12T03:07:16.000Z",
+  "createdAt": "2026-11-12T03:24:43.984Z"
+ },
+ {
+  "id": "aec2512fe56fa9ab",
+  "headline": "Former Trump officials relocate to US military bases over security concerns",
+  "summary": "Several senior figures from the Trump administration, including Treasury Secretary Scott Bessent, have moved onto military installations citing heightened security threats, sparking discussion about protection for former officials.",
+  "category": "politics",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-12/treasury-scott-bessent-military-base-iran-threats/107377812"
+   }
+  ],
+  "publishedAt": "2026-11-12T03:03:40.000Z",
+  "createdAt": "2026-11-12T03:24:43.984Z"
+ },
+ {
+  "id": "a3703e212dcec686",
+  "headline": "Data-centre firm NextDC sued over alleged unpaid commissions",
+  "summary": "Australian data-centre operator NextDC is facing a lawsuit from a former sales manager who claims the company owes him millions of dollars in commissions, adding pressure to the fast-growing firm.",
+  "category": "business",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "AFR",
+    "url": "https://www.afr.com/technology/nextdc-in-fight-with-former-manager-over-millions-in-commissions-20261112-p61dhj"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.3182%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_449%2C$y_210/t_crop_custom/q_86%2Cf_auto/4a01367abe772e46d221d2445af713b10499d28b",
+  "publishedAt": "2026-11-12T03:03:17.000Z",
+  "createdAt": "2026-11-12T03:24:43.984Z"
+ },
+ {
+  "id": "0d66eb3ff38002ae",
+  "headline": "Oil slicks from Gulf ship strikes threaten marine life",
+  "summary": "Hundreds of oil spills have been recorded in the Strait of Hormuz since the US-Iran conflict began, creating large slicks visible from space. The spills have spread across the Gulf, contaminating coastlines and endangering dolphins, sea turtles and fish in the region’s fragile ecosystems.",
+  "category": "world",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/edaf20607ad86d1eaeb652f3e3941f4f2ea5bc51/193_0_5785_4627/master/5785.jpg?width=140&quality=85&auto=format&fit=max&s=5b1a9c857a8da2de3a5dbe173898dd4f",
+  "publishedAt": "2026-11-12T03:00:07.000Z",
+  "createdAt": "2026-11-12T03:24:43.984Z"
+ },
+ {
+  "id": "95c347d33c74c006",
+  "headline": "APRA to conduct AI stress test on banks and super funds",
+  "summary": "APRA chief John Lonsdale warned that major Australian banks and superannuation funds are not adequately prepared for AI-driven cyber threats and announced a landmark stress test to assess their resilience.",
+  "category": "economy",
+  "region": "australia",
+  "importance": 7,
+  "sources": [
+   {
+    "name": "AFR",
+    "url": "https://www.afr.com/companies/financial-services/banks-super-funds-to-face-landmark-ai-stress-test-20261112-p61dj6"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.336288658249839%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_167%2C$y_35/t_crop_custom/q_86%2Cf_auto/c4b97227a034b6a4a7efc3dbb491058c9f8a3a89",
+  "publishedAt": "2026-11-12T02:59:08.000Z",
+  "createdAt": "2026-11-12T03:24:43.984Z"
+ },
+ {
+  "id": "cdf6c8314af194ef",
+  "headline": "Parliament questions PM Albanese’s $6m golf grant claim",
+  "summary": "A parliamentary inquiry heard that Prime Minister Anthony Albanese’s honorary golf membership is valued at $1,100 a year, contradicting his earlier claim that it cost $5, and that a $6 million golf grant was based on internet research and an ‘educated guess’.",
+  "category": "politics",
+  "region": "australia",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/politics/federal/albanese-s-6m-golf-grant-based-on-internet-research-educated-guess-20261112-p61dhv.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.2252%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_48%2C$y_0/t_crop_custom/q_86%2Cf_auto/90240c8b5efaf5c88a019f85a75bd68251325335",
+  "publishedAt": "2026-11-12T02:58:05.000Z",
+  "createdAt": "2026-11-12T03:24:43.984Z"
+ },
+ {
+  "id": "378cdec748aaf1fe",
+  "headline": "Victoria court keeps secret evidence in Erin Patterson case",
+  "summary": "Victoria’s highest court ruled that evidence in the Erin Patterson case must remain confidential to avoid unfair prejudice if a retrial is granted, citing the risk of massive publicity.",
+  "category": "politics",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-12/secret-erin-patterson-evidence-remains-suppressed/107376964"
+   }
+  ],
+  "publishedAt": "2026-11-12T02:55:52.000Z",
+  "createdAt": "2026-11-12T03:24:43.984Z"
+ },
+ {
+  "id": "8c6282fea6386443",
+  "headline": "China threatens severe penalties for offshore trust tax evaders",
+  "summary": "China announced that individuals using offshore trusts to evade taxes will face harsh punishments as personal income tax revenue jumps 90 percent and authorities tighten scrutiny of the country’s wealthiest.",
+  "category": "economy",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "Financial Times",
+    "url": "https://www.ft.com/content/278528e2-dd2d-4020-853d-2a7a9d49a359"
+   }
+  ],
+  "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4493e251-5684-40ea-a857-a48b7a07b509.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+  "publishedAt": "2026-11-12T02:55:28.000Z",
+  "createdAt": "2026-11-12T03:24:43.984Z"
+ },
+ {
+  "id": "3daa0e39358e9669",
+  "headline": "Court hears accused may have only dreamed of murdering town volunteer",
+  "summary": "In a murder trial, the defence lawyer for Brian Barnes suggested his client might have imagined attacking the 70-year-old volunteer, a claim presented to the court amid ongoing proceedings.",
+  "category": "other",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/national/victoria/grandmother-s-alleged-killer-might-have-imagined-murdering-much-loved-town-volunteer-court-told-20261112-p61dlg.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_1.6546875000000003%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_234/t_crop_custom/q_86%2Cf_auto/92abaa543ae3be2a226aea0fe34bb2e336b76b95",
+  "publishedAt": "2026-11-12T02:54:26.000Z",
+  "createdAt": "2026-11-12T03:24:43.984Z"
+ },
+ {
+  "id": "abf036a7332c5660",
+  "headline": "AI surge leads to sharp drop in IT degree enrolments",
+  "summary": "Australian universities report a steep decline in information technology degree enrolments as students cite the rise of AI and report difficulties in securing full-time employment after graduation.",
+  "category": "other",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "AFR",
+    "url": "https://www.afr.com/work-and-careers/education/with-ai-on-the-march-students-are-abandoning-it-degrees-20261112-p61d8n"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.3531%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/629348a46b9b8c154908266cc227bd64bd36ef5176fad6747d7260c9481d90cf",
+  "publishedAt": "2026-11-12T02:51:47.000Z",
+  "createdAt": "2026-11-12T03:24:43.984Z"
+ },
+ {
+  "id": "7c3de88b06d6a198",
+  "headline": "Man dies and toddler critical after water rescue on NSW coast",
+  "summary": "A man was found dead and a toddler remains in critical condition after they were pulled from the water at Fishermans Reach on the Mid North Coast of New South Wales.",
+  "category": "other",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-12/man-dies-boy-critical-after-fishing-accident-mid-north-coast/107377842"
+   }
+  ],
+  "publishedAt": "2026-11-12T02:50:37.000Z",
+  "createdAt": "2026-11-12T03:24:43.984Z"
+ },
+ {
+  "id": "40bb1a82144d4335",
+  "headline": "Five factors that could tighten the Victorian election race",
+  "summary": "Analysts outline five reasons the upcoming Victorian state election may be closer than expected, despite projections of a Coalition majority. Factors include shifting voter sentiment, key policy debates, marginal seat dynamics, emerging independents and recent polling trends.",
+  "category": "politics",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "AFR",
+    "url": "https://www.afr.com/politics/five-reasons-the-victorian-election-will-be-closer-than-you-think-20261112-p61d7m"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.3309375%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_61/t_crop_custom/q_86%2Cf_auto/c7136b615fa7560763b11d67e26c13e0f0c2f9230713e2e0bab5fe617c0fa92c",
+  "publishedAt": "2026-11-12T02:46:55.000Z",
+  "createdAt": "2026-11-12T03:24:43.984Z"
+ },
+ {
+  "id": "befb800c23a3d937",
+  "headline": "Train passengers stranded for hours after air-conditioning failure",
+  "summary": "Passengers on a Sydney-area train were left without air-conditioning, food or functioning toilets after a track fault halted services. Buses were deployed to transport commuters home while repair crews worked through the night. The incident caused significant delays and discomfort for hundreds of travellers.",
+  "category": "other",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-12/train-passengers-stranded-for-hours-without-aircon-food-gundiah/107376462"
+   }
+  ],
+  "publishedAt": "2026-11-12T02:39:18.000Z",
+  "createdAt": "2026-11-12T03:24:43.984Z"
+ },
+ {
+  "id": "6ecf07e97e584f2c",
+  "headline": "Liberal candidate removed over racist social-media posts",
+  "summary": "The Liberal Party dumped Paul Lindemann as its candidate for the Victorian seat of Williamstown after historic racist posts about Aboriginal people were uncovered. Although he was withdrawn, his name remains on the ballot because nominations closed before the decision.",
+  "category": "politics",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-12/paul-lindemann-williamstown-lib-candidate-racist-posts-dumped/107376622"
+   }
+  ],
+  "publishedAt": "2026-11-12T02:38:33.000Z",
+  "createdAt": "2026-11-12T03:24:43.984Z"
+ },
+ {
   "id": "5d8a7d6bec210b89",
   "headline": "EU warns Australian trade deal at risk if Senate stalls",
   "summary": "The European Union told Australian officials that the $10 billion free-trade agreement could be abandoned if the Senate does not act promptly. EU parliamentarian Sean Kelly said there is no intention to renegotiate the pact, and a delay by the Coalition or the Greens would jeopardise the deal.",
@@ -85,6 +410,10 @@
    {
     "name": "ABC News",
     "url": "https://www.abc.net.au/news/2026-11-12/missing-teenager-william-found-gippsland-bush/107372518"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo"
    }
   ],
   "imageUrl": "https://i.guim.co.uk/img/media/63af96b5092d80db06ac583687c513b25d141988/0_11_1440_1151/master/1440.jpg?width=140&quality=85&auto=format&fit=max&s=b1b299bf30238b6f8edc25357362d698",
@@ -568,6 +897,22 @@
   "createdAt": "2026-11-12T02:40:11.864Z"
  },
  {
+  "id": "3d76b42e0b8ed959",
+  "headline": "Usman Khawaja’s new book Sabr examined amid Sandpapergate controversy",
+  "summary": "Cricket star Usman Khawaja’s memoir Sabr hits the shelves, prompting discussion about his comments on the Sandpapergate scandal. The book offers insight into his career and the episode that sparked debate over sportsmanship and media coverage.",
+  "category": "sport",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-12/usman-khawaja-and-sandpaper-whats-in-the-book/107376576"
+   }
+  ],
+  "publishedAt": "2026-11-12T01:15:44.000Z",
+  "createdAt": "2026-11-12T03:24:43.984Z"
+ },
+ {
   "id": "6f073544660bc318",
   "headline": "NAB back pays $170 million after payroll underpayment error",
   "summary": "National Australia Bank’s back office admitted a massive payroll failure that left 66,000 workers underpaid, marking the biggest wage shortfall in the banking sector. The bank will repay the shortfall and has launched a review of its payroll systems.",
@@ -709,27 +1054,6 @@
   ],
   "imageUrl": "https://static.ffx.io/images/$zoom_0.353%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_82/t_crop_custom/q_86%2Cf_auto/4f792360cdd8053c0ce21dca9cfe1c8159e06f08",
   "publishedAt": "2026-11-12T00:56:04.000Z",
-  "createdAt": "2026-11-12T02:40:11.864Z"
- },
- {
-  "id": "1972c9c3da323957",
-  "headline": "Violent clashes erupt during Spain’s general strike over housing costs",
-  "summary": "Police reported at least 73 arrests across Spain after more than a thousand incidents linked to a nationwide strike protesting rising housing costs, including blockades of businesses and confrontations with law enforcement.",
-  "category": "politics",
-  "region": "global",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "AFR",
-    "url": "https://www.afr.com/world/europe/violence-breaks-out-as-spaniards-strike-protest-housing-costs-20261112-p61dky"
-   },
-   {
-    "name": "BBC",
-    "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$zoom_1.5129%2C$multiply_0.3720%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/q_86%2Cf_auto/bed277e9fe5dab31e37db3d754ca292e870b5584ca54ad25e1d5a80f00075c6c",
-  "publishedAt": "2026-11-12T00:54:59.000Z",
   "createdAt": "2026-11-12T02:40:11.864Z"
  },
  {
@@ -923,6 +1247,10 @@
    {
     "name": "CNBC",
     "url": "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo"
    }
   ],
   "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F05aadf3b-700c-4173-bc4d-4c10f342cfe0.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
@@ -1260,6 +1588,22 @@
   "createdAt": "2026-11-12T02:40:11.864Z"
  },
  {
+  "id": "f5f8de1087f1bf07",
+  "headline": "US arrests two executives of Canadian healthcare firm",
+  "summary": "US authorities arrested two senior executives of a Canadian healthcare firm, accusing them of running a scheme to illegally import prescription medicines into the United States, according to court documents. The arrests were announced by federal prosecutors and highlight growing scrutiny of cross-border drug supply chains.",
+  "category": "business",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html"
+   }
+  ],
+  "publishedAt": "2026-11-11T22:58:11.000Z",
+  "createdAt": "2026-11-12T03:24:43.984Z"
+ },
+ {
   "id": "170a08ba563a8ee5",
   "headline": "Two skulls used in eugenics studies returned to Brazil",
   "summary": "Skulls believed to belong to enslaved Africans, previously used in Harvard eugenics research, were repatriated to Brazil after diplomatic arrangements, marking a symbolic restitution of the remains.",
@@ -1497,6 +1841,23 @@
   "createdAt": "2026-11-12T02:40:11.864Z"
  },
  {
+  "id": "915447110a446f55",
+  "headline": "Democrats vow sweeping probe of Trump corruption",
+  "summary": "Democrats in the US House announced plans to launch a broad investigation into alleged corruption linked to former President Trump and his allies, describing it as an “absolute avalanche of corruption.” Lawmaker Jamie Raskin said the probe will avoid becoming a distraction from impeachment efforts.",
+  "category": "politics",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "Financial Times",
+    "url": "https://www.ft.com/content/3d3fcb94-143d-446c-8b09-b1f830ca97e9"
+   }
+  ],
+  "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F56c87fb7-bcb2-4b82-8ebe-b67811338d49.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+  "publishedAt": "2026-11-11T21:01:55.000Z",
+  "createdAt": "2026-11-12T03:24:43.984Z"
+ },
+ {
   "id": "333b4386872729f4",
   "headline": "Costco announces special dividend as early holiday gift to shareholders",
   "summary": "Costco revealed a special dividend for shareholders, positioning it as an early holiday reward and encouraging investors to act before the payout deadline.",
@@ -1546,19 +1907,31 @@
   "createdAt": "2026-11-12T02:40:11.864Z"
  },
  {
-  "id": "476c89a327635efd",
-  "headline": "Millions strike in Spain over housing costs ahead of election",
-  "summary": "Spain saw its first general strike in 14 years as millions protested housing affordability and purchasing power, a demonstration that comes weeks before an early general election and underscores growing public discontent.",
-  "category": "world",
+  "id": "1972c9c3da323957",
+  "headline": "Violent clashes erupt during Spain’s general strike over housing costs",
+  "summary": "Police reported at least 73 arrests across Spain after more than a thousand incidents linked to a nationwide strike protesting rising housing costs, including blockades of businesses and confrontations with law enforcement.",
+  "category": "politics",
   "region": "global",
   "importance": 6,
   "sources": [
    {
+    "name": "AFR",
+    "url": "https://www.afr.com/world/europe/violence-breaks-out-as-spaniards-strike-protest-housing-costs-20261112-p61dky"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo"
+   },
+   {
     "name": "SBS News",
     "url": "https://www.sbs.com.au/news/article/spain-general-strike-over-housing/vb8u82c30"
+   },
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/world/europe/millions-voice-their-fury-in-spanish-general-strike-as-the-right-gains-ground-in-polls-20261112-p61dfy.html"
    }
   ],
-  "imageUrl": "https://assets.sbs.com.au/dims4/default/3a51718/2147483647/strip/false/crop/5466x2512+0+0/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F03%2Ffa%2Fe829727d441bbfc2fc9ff72f1f39%2Fmadrid-spain-general-strike-protest.jpg",
+  "imageUrl": "https://static.ffx.io/images/$zoom_1.5129%2C$multiply_0.3720%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/q_86%2Cf_auto/bed277e9fe5dab31e37db3d754ca292e870b5584ca54ad25e1d5a80f00075c6c",
   "publishedAt": "2026-11-11T20:07:33.000Z",
   "createdAt": "2026-11-12T02:40:11.864Z"
  },
