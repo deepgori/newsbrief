@@ -1,5 +1,22 @@
 [
  {
+  "id": "8dc4c4778eadd7cf",
+  "headline": "Nvidia shares tumble as CEO resigns, ASX dips",
+  "summary": "Nvidia stock fell sharply after CEO Jensen Huang stepped down amid scandal, prompting a broader sell-off in technology shares. The Australian Securities Exchange opened lower, reflecting investor concerns. Rival chip makers saw modest gains, while oil prices rose. The market reaction highlights the impact of leadership changes on tech valuations.",
+  "category": "markets",
+  "region": "global",
+  "importance": 7,
+  "sources": [
+   {
+    "name": "AFR",
+    "url": "https://www.afr.com/markets/equity-markets/asx-to-fall-nvidia-shares-plunge-on-huang-exit-wall-st-steady-20261113-p61dtw"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.6261%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_11%2C$y_0/t_crop_custom/q_86%2Cf_auto/8de32640476bd94e3a7d9e47d95c2dd12ce23fff5f24b8640e2365a151f932b3",
+  "publishedAt": "2026-11-12T16:23:30.000Z",
+  "createdAt": "2026-11-12T16:24:12.712Z"
+ },
+ {
   "id": "a9f53155849b203b",
   "headline": "Australian home sales hit 16-year low as prices soar",
   "summary": "October home sales fell to the lowest level since the Great Recession, with buyers retreating amid 7 % mortgage rates and all-time high property prices, marking a sharp slowdown in the market.",
@@ -90,6 +107,22 @@
   ],
   "publishedAt": "2026-11-12T15:36:02.000Z",
   "createdAt": "2026-11-12T16:12:35.449Z"
+ },
+ {
+  "id": "10d0243dcafdc44f",
+  "headline": "Yankees chief backs college sports legislation, discusses MLB talks",
+  "summary": "New York Yankees president Randy Levine urged support for the Protect College Sports Act, which would allow athletes to profit from their name, image and likeness. He also commented on ongoing labour negotiations between Major League Baseball and the players’ union, highlighting the sport’s economic challenges.",
+  "category": "politics",
+  "region": "global",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/12/yankees-randy-levine-discusses-college-sports-bill-mlb-labor-deal.html"
+   }
+  ],
+  "publishedAt": "2026-11-12T15:34:31.000Z",
+  "createdAt": "2026-11-12T16:24:12.712Z"
  },
  {
   "id": "537f6e66dfbe0f7d",
@@ -280,6 +313,10 @@
    {
     "name": "BBC",
     "url": "https://www.bbc.co.uk/news/articles/cmde1y19g19do"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump"
    }
   ],
   "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9195/live/8aa36db0-de8c-11f1-9afe-1f03bfe02283.png",
