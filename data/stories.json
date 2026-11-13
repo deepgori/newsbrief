@@ -1,5 +1,947 @@
 [
  {
+  "id": "ce77399e85da2e65",
+  "headline": "Wallabies recall Carter Gordon as Valetini leads backline",
+  "summary": "Carter Gordon returns to the Wallabies starting XV after recovering from a broken leg, while Rob Valetini is also back in the side, promising a stronger forward pack for the upcoming tests.",
+  "category": "sport",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/sport/rugby-union/gordon-returns-at-no-10-for-wallabies-crunch-clash-with-scotland-20261114-p61e34.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.26783004552352047%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/426e4a3b51c91a5f784ac3c7ca9eab16a6c154d3",
+  "publishedAt": "2026-11-13T17:29:26.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "6662d13dacb1c867",
+  "headline": "Albanese uses coffee diplomacy at COP31 amid domestic criticism",
+  "summary": "Prime Minister Anthony Albanese served free flat whites to delegates at the UN climate summit in Antalya, highlighting Australia’s Pacific ties, but his domestic fossil-fuel policies and cultural debates continue to cast a shadow over the outreach.",
+  "category": "politics",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/environment/2026/nov/13/anthony-albaneses-coffee-diplomacy-cant-remove-shadow-of-domestic-politics-at-cop31"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/e2f64bcf28b5e9a2ec34ec9c7843343e6c57f56c/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=70f75709f3e55d3fc8595e9b47571970",
+  "publishedAt": "2026-11-13T17:28:13.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "a9a4e5f85940eebe",
+  "headline": "Former Hamas bodyguard convicted of UK knife attack, wanted in Germany",
+  "summary": "Mohammed Alfatih, a former Hamas bodyguard, was found guilty of a knife assault on a bailiff in Birmingham and is also being sought by German authorities for an alleged plot to murder Jewish individuals in Europe.",
+  "category": "world",
+  "region": "global",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/13/former-hamas-bodyguard-convicted-of-birmingham-knife-also-wanted-in-germany"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/171b04608f73702180d03aad89fa1263922c5073/0_202_516_413/master/516.jpg?width=140&quality=85&auto=format&fit=max&s=d157d138c84496856936802344c241d6",
+  "publishedAt": "2026-11-13T17:14:56.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "fe3c784c14d90ed8",
+  "headline": "US Treasury yields tumble in worst week since 2020",
+  "summary": "Higher-than-expected inflation data and hawkish comments from Federal Reserve officials pushed US Treasury yields down, marking the steepest weekly decline since the so-called ‘liberation day’ under the previous administration.",
+  "category": "markets",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "Financial Times",
+    "url": "https://www.ft.com/content/7bebace2-dc87-410a-ae29-ffd9f3176def"
+   }
+  ],
+  "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4fec4b22-08a3-4436-823e-116384aaa77f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+  "publishedAt": "2026-11-13T17:13:57.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "1d314d59073657f4",
+  "headline": "US officials criticised over failure to blacklist China-linked chip firm",
+  "summary": "Treasury and Commerce officials faced criticism after the Megaspeed data-centre company, linked to Nvidia chip exports to China, was not placed on the export blacklist despite months of internal support, raising concerns over US export controls.",
+  "category": "markets",
+  "region": "global",
+  "importance": 7,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html"
+   },
+   {
+    "name": "Financial Times",
+    "url": "https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/0b0e1043f531f2cf4be1034a79eae931f842e257/0_199_3351_2681/master/3351.jpg?width=140&quality=85&auto=format&fit=max&s=d023067ea029630e7bca874700208189",
+  "publishedAt": "2026-11-13T17:06:01.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "e8330bae2173e23c",
+  "headline": "Think-tank urges UK high streets to ban cars and free pavements",
+  "summary": "A new report from the urban think-tank Create Streets recommends restricting vehicle traffic and repurposing pavement space as a low-cost strategy to revive struggling British high streets and attract shoppers.",
+  "category": "business",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/society/2026/nov/13/rip-out-clutter-to-retail-revive-high-streets-thinktank"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/9061433727bcbfd0b1122bb96c7f1de0a5965662/928_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=7ffb6c7a69f22d813944d64e1ce793b8",
+  "publishedAt": "2026-11-13T17:05:23.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "bdd4499e7ca0507c",
+  "headline": "Six additional women allege sexual offences by Russell Brand",
+  "summary": "Comedian Russell Brand, already convicted of rape, faces six new accusations of predatory behaviour and sexual offences after further women came forward with their allegations.",
+  "category": "entertainment",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-14/six-more-women-accuse-russell-brand-of-sexual-offences/107385408"
+   }
+  ],
+  "publishedAt": "2026-11-13T16:59:33.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "d87b6bf071620f3e",
+  "headline": "Utility CEOs dismiss data centre slowdown fears",
+  "summary": "Utility executives at the EEI conference said they do not expect a slowdown in electricity demand from data centres, countering recent concerns about growth expectations.",
+  "category": "tech",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/data-center-slowdown-utility-stocks.html"
+   }
+  ],
+  "publishedAt": "2026-11-13T16:54:40.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "807a2457b18f3245",
+  "headline": "SpaceX prepares for Starship launch",
+  "summary": "Analysts describe SpaceX’s upcoming Starship launch as a pivotal moment for rocketry, calling it the “holy grail” of the industry and highlighting its potential significance.",
+  "category": "tech",
+  "region": "global",
+  "importance": 7,
+  "sources": [
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/spacex-is-about-to-attempt-the-holy-grail-of-rocketry-44e79dcc"
+   }
+  ],
+  "imageUrl": "https://images.mktw.net/im-89240668",
+  "publishedAt": "2026-11-13T16:54:00.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "d5e869abcb2f636f",
+  "headline": "Putin raises peace demands in Ukraine conflict",
+  "summary": "Russia’s stance on European security is now part of peace talks, with Moscow viewing the inclusion as a diplomatic win, according to BBC Russia editor Steve Rosenberg.",
+  "category": "world",
+  "region": "global",
+  "importance": 8,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a8d/live/606ff370-df85-11f1-93e1-3b657b665bcf.jpg",
+  "publishedAt": "2026-11-13T16:40:31.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "5fd8ce7341309472",
+  "headline": "AI deciphers Gödel’s unpublished notebooks",
+  "summary": "Artificial-intelligence tools are being used to analyse Kurt Gödel’s 1,009 pages of handwritten notes, which may contain hundreds of previously unknown theorems.",
+  "category": "science",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=140&quality=85&auto=format&fit=max&s=e95b645a4c0a5af395dfec056a8ec751",
+  "publishedAt": "2026-11-13T16:38:27.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "6192fed6f41f43a1",
+  "headline": "DC condo shooter confessed over living-condition dispute",
+  "summary": "The gunman responsible for killing one person and injuring several others near a Washington, D.C. condominium told a manager he acted out of anger over his living conditions.",
+  "category": "world",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/2026/nov/13/washington-dc-gym-shooter-confession"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/213c7a3b1bea4b9ac7668613d39560ede8f97c8b/445_0_2259_1808/master/2259.jpg?width=140&quality=85&auto=format&fit=max&s=e1350a0b87e26494a3051151bf73159f",
+  "publishedAt": "2026-11-13T16:35:02.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "96a981ada5f58a2e",
+  "headline": "Public stockpiles emergency supplies amid uncertainty",
+  "summary": "Consumers are buying items such as cider and candy canes as part of a growing trend of emergency stockpiling.",
+  "category": "other",
+  "region": "global",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/videos/c6zxvg79rr9yo"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8cd/live/45b94880-df7e-11f1-a701-fddedf244c16.jpg",
+  "publishedAt": "2026-11-13T16:31:22.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "0aa5c8ad4c89cfda",
+  "headline": "Jaguar Land Rover posts £451 million loss after job cuts",
+  "summary": "JLR reported a £451 million quarterly loss, citing £530 million in costs linked to the recent reduction of 4,000 jobs, while revenue rose to £5.9 billion.",
+  "category": "business",
+  "region": "global",
+  "importance": 7,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/business/2026/nov/13/jaguar-land-rover-quarterly-loss-electric-cars-job-cuts"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/e8f34616a89eb687ef51aa6aa3542d0569d4d6f6/405_0_3858_3086/master/3858.jpg?width=140&quality=85&auto=format&fit=max&s=040b7cd16d653ef4ff426c858d83e2ca",
+  "publishedAt": "2026-11-13T16:22:16.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "d9eebd4bef2b687b",
+  "headline": "Metropolitan Police investigate David Walliams",
+  "summary": "London police have opened a criminal investigation into comedian David Walliams following multiple allegations of sexual misconduct involving young women and teenagers.",
+  "category": "other",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/13/david-walliams-allegations-met-police-investigation"
+   },
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-14/uk-police-launch-investigation-into-david-walliams/107385506"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/a15d22f7a417f5bfb3854c995f7c67e00cd578c0/740_407_5498_4398/master/5498.jpg?width=140&quality=85&auto=format&fit=max&s=7ea8b24d472f22d34381c576e8e9a7f2",
+  "publishedAt": "2026-11-13T16:20:15.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "e044c82dcdd23015",
+  "headline": "Prince William edits Country Life issue",
+  "summary": "The Prince of Wales contributed a personal piece to Country Life, sharing his love of the countryside and offering a glimpse into his rural lifestyle.",
+  "category": "entertainment",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/books/2026/nov/13/sheds-cakes-and-photos-of-me-prince-williams-country-life-digested-by-john-crace"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/acb5994d9b120f7e107495bc17f32809a3d10801/416_0_4169_3334/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=d802d84dc0a2fdad6e9e13f07a9ac889",
+  "publishedAt": "2026-11-13T16:12:29.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "c2e7139152a477a8",
+  "headline": "Veteran rebuilds credit after living in car",
+  "summary": "A former service member turned his financial situation around, achieving a 756 credit score after a period of homelessness in his car.",
+  "category": "other",
+  "region": "global",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/from-living-in-his-car-to-a-756-credit-score-how-one-veteran-rebuilt-his-finances-026c3336"
+   }
+  ],
+  "imageUrl": "https://images.mktw.net/im-36135071",
+  "publishedAt": "2026-11-13T16:10:00.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "f1f84c2d2e5da4d1",
+  "headline": "Fourteen dividend stocks highlighted for growth",
+  "summary": "Analyst John Buckingham recommends 14 dividend-paying companies that appear undervalued and offer strong long-term growth potential.",
+  "category": "markets",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d"
+   }
+  ],
+  "imageUrl": "https://images.mktw.net/im-27014870",
+  "publishedAt": "2026-11-13T16:01:00.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "1632b5f0a9f69710",
+  "headline": "UK-EU plant-trade deal to cut £60 million costs",
+  "summary": "The new post-Brexit agreement will remove border checks on plant imports, eliminating about £60 million in annual expenses for the horticulture sector, though firms won’t recover past costs.",
+  "category": "politics",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/business/2026/nov/13/uk-eu-deal-plant-trade-angela-eagle"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/782556606689c60e50a74d97125046a1c0aeae93/178_0_5695_4556/master/5695.jpg?width=140&quality=85&auto=format&fit=max&s=989c1baa4ecf17d9450ccbd9900ba03e",
+  "publishedAt": "2026-11-13T16:00:19.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "2376b0f6392a9b95",
+  "headline": "Menopause linked to pay cuts and career setbacks",
+  "summary": "Women, as well as some trans and non-binary people, report financial and professional setbacks during menopause, describing the experience as “white-knuckling” and feeling sidelined at work.",
+  "category": "business",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/make-it/2026/11/13/menopause-career-setbacks.html"
+   }
+  ],
+  "publishedAt": "2026-11-13T16:00:01.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "d76b785b5fb33c0e",
+  "headline": "Thai-style salads boost popularity of shopping centre eatery",
+  "summary": "A shopping centre restaurant draws neighbours with bold northern Thai dishes and a karaoke room, offering a fresh take on robust salads.",
+  "category": "lifestyle",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/goodfood/perth-eating-out/you-do-win-friends-with-robust-thai-style-salad-20261114-p61e2l.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.2647%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/22c4ae4744c5c2b97d8cb97cf8dd31253137a370f4dc663e4ac38ded97ead8d5",
+  "publishedAt": "2026-11-13T16:00:00.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "08e09575284234f0",
+  "headline": "Democratic Senate leader Schumer faces internal leadership challenge",
+  "summary": "Senator Van Hollen says new leadership is needed for Democrats after recent midterm successes, signalling a potential challenge to Senate Majority Leader Chuck Schumer.",
+  "category": "politics",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png",
+  "publishedAt": "2026-11-13T15:48:07.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "c4eae0129b4f7b31",
+  "headline": "Wholesale prices rise 0.3% in October, annual rate hits four-year high",
+  "summary": "The producer price index increased by 0.3% in October, putting the annual wholesale price growth at 6.5%, the strongest pace in almost four years, ahead of expectations for a 0.4% monthly rise.",
+  "category": "economy",
+  "region": "global",
+  "importance": 7,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html"
+   }
+  ],
+  "publishedAt": "2026-11-13T15:44:16.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "59a3729cf6f7844b",
+  "headline": "Germany grants spies expanded powers to counter hybrid threats",
+  "summary": "New legislation gives German foreign and domestic intelligence agencies broader authority to combat espionage, terrorism and sabotage as part of a response to hybrid threats from abroad.",
+  "category": "politics",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a89/live/8263f580-df76-11f1-b844-3146c4983677.jpg",
+  "publishedAt": "2026-11-13T15:42:52.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "6becf096bcbd8744",
+  "headline": "OpenAI launches ChatGPT Wallet with major card networks",
+  "summary": "OpenAI’s new ChatGPT Wallet lets its AI agents make purchases for users, partnering with American Express, Mastercard and Visa while preserving existing credit-card rewards.",
+  "category": "tech",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html"
+   }
+  ],
+  "publishedAt": "2026-11-13T15:31:58.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "4d41d57537d8cac2",
+  "headline": "UK government considers weakening planning challenge rights",
+  "summary": "Lawyers warn that the UK may strip legal protections under the Aarhus convention, potentially raising costs for community groups contesting planning decisions that affect the environment.",
+  "category": "politics",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/environment/2026/nov/13/right-to-make-green-challenges-planning-decisions-under-threat-aarhus-convention"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/ec50144c076be6077edaa5281a910ff5e7a69163/281_0_4269_3415/master/4269.jpg?width=140&quality=85&auto=format&fit=max&s=7a0804afa5122781fbc2a776eca6c5d4",
+  "publishedAt": "2026-11-13T15:27:43.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "85c20581215d50a8",
+  "headline": "At least 24 dead after bus-truck collision in northeast India",
+  "summary": "A bus collided with a truck in northeast India, killing at least 24 people, including several college students, according to local officials.",
+  "category": "world",
+  "region": "global",
+  "importance": 7,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6d0/live/abb1cd00-df75-11f1-b844-3146c4983677.jpg",
+  "publishedAt": "2026-11-13T15:16:50.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "8d83bf860c04d45b",
+  "headline": "Divers explore sunken ship off Florida as new artificial reef",
+  "summary": "Divers are investigating a ship deliberately sunk off Florida’s coast, intended to become the world’s largest artificial ocean reef.",
+  "category": "science",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e0b/live/165af990-df73-11f1-b441-2b33b063138f.jpg",
+  "publishedAt": "2026-11-13T15:09:40.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "a754a22aeaaa8058",
+  "headline": "NHL TV rights deal to test league amid rising media costs",
+  "summary": "The upcoming NHL television contract will gauge the league’s strength as media companies adjust to higher rights fees, especially after NFL deals increase market values.",
+  "category": "business",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/nhls-next-media-deal-will-test-the-leagues-strength.html"
+   }
+  ],
+  "publishedAt": "2026-11-13T15:04:10.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "9dd1a328c04aedb3",
+  "headline": "Advisors weigh Nvidia exposure after CEO exit and stock dip",
+  "summary": "Following Jensen Huang’s departure and a sharp fall in Nvidia’s share price, financial advisers recommend investors consider their risk tolerance, time horizon and overall exposure before reacting to the volatility surrounding the AI-chip maker.",
+  "category": "markets",
+  "region": "global",
+  "importance": 8,
+  "sources": [
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/how-low-does-nvidias-stock-need-to-go-before-its-a-screaming-bargain-c25302ed"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-advisors-jensen-huang-exit-exclusive-poll.html"
+   },
+   {
+    "name": "Financial Times",
+    "url": "https://www.ft.com/content/750e4304-7287-432a-8ac1-36db40d0d968"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro"
+   }
+  ],
+  "imageUrl": "https://images.mktw.net/im-50762704",
+  "publishedAt": "2026-11-13T15:03:10.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "8db6cc8258e496da",
+  "headline": "Ireland opens secret room of previously banned books to public",
+  "summary": "A Dublin justice department building has finally allowed public access to its long-closed “room of evil literature”, which housed around 12,000 titles once deemed indecent or obscene, spanning publications from 1926 to 1996.",
+  "category": "world",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2026/nov/13/ireland-banned-books-room-censorship"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/18dbe9dbe030c08dbbef2b75bee94cd46e51688c/339_0_2375_1900/master/2375.jpg?width=140&quality=85&auto=format&fit=max&s=9c064b228db39da397abc968ca7fb205",
+  "publishedAt": "2026-11-13T14:25:24.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "badbb4c764284a94",
+  "headline": "Chicago Fed's Goolsbee warns inflation still a concern",
+  "summary": "Chicago Federal Reserve President Austan Goolsbee told CNBC that recent inflation data keep the central bank’s work unfinished, signalling that further policy action may be needed to bring price growth under control.",
+  "category": "economy",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html"
+   }
+  ],
+  "publishedAt": "2026-11-13T14:22:07.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "319f9e266df7317e",
+  "headline": "Shoplifters in Scotland resort to weapons amid rising thefts",
+  "summary": "Shop workers in Scotland report a surge in violent shoplifting, with thieves using harpoon guns and machetes as they target stores, prompting concerns over safety and loss prevention.",
+  "category": "other",
+  "region": "global",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/videos/cw772xkxjm37o"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8772/live/ab53f030-df62-11f1-a701-fddedf244c16.jpg",
+  "publishedAt": "2026-11-13T14:16:09.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "7c9cade1d8818390",
+  "headline": "Liberal candidate Jess Wilson tours country pubs to court voters",
+  "summary": "Liberal hopeful Jess Wilson took the “Jess Express” to a country pub on the Victorian-New South Wales border, seeking to win over local voters ahead of a tightly contested seat, while noting competition from One Nation.",
+  "category": "politics",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/14/jess-wilson-wodonga-pub-vic-election-campaign-2026-ntwnfb"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/3f8efa37616a563c1c66180f1436dbc67c1ac997/401_0_5665_4532/master/5665.jpg?width=140&quality=85&auto=format&fit=max&s=a73a5af9db313c80d8deb9432200b6df",
+  "publishedAt": "2026-11-13T14:00:22.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "d956c42431d682d2",
+  "headline": "Sydney worker takes pizza jobs as cost of living squeezes Australians",
+  "summary": "Vanessa Freitas, a Brazilian-born Sydney resident, now delivers pizza after work to help pay rent, reflecting growing financial stress among Australians facing interest-rate hikes, price rises and job cuts.",
+  "category": "economy",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/14/vanessa-delivers-pizza-after-work-to-pay-rent-many-australians-are-scrambling-as-cracks-appear-in-the-economy"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/6ca0297f1472184ef23018db174dc5a5724253d6/0_1450_3087_2470/master/3087.jpg?width=140&quality=85&auto=format&fit=max&s=ee585a49dc300f7e9fb5a0cf4edc7cc5",
+  "publishedAt": "2026-11-13T14:00:21.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "bd3361cea3fd1f14",
+  "headline": "NSW premier backs coal port expansion despite climate criticism",
+  "summary": "New South Wales Premier Chris Minns approved the state’s largest coal-mine expansion at the Hunter Valley, drawing criticism for ignoring climate concerns and potential health impacts while positioning the project as an economic driver.",
+  "category": "politics",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/14/chris-minns-trumpian-disdain-climate-coalmining-rising-tide-protest-ban-ntwnfb"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/6fb4e0cd589edbf339ebc0443e11118f32fbf448/807_0_4439_3553/master/4439.jpg?width=140&quality=85&auto=format&fit=max&s=0d36881cc9ec86c101a90e3f08474fdf",
+  "publishedAt": "2026-11-13T14:00:21.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "08acaf123c03fa70",
+  "headline": "Tough Guy Book Club encourages men to read, reaches 10,000 members",
+  "summary": "Founded by Shay Leighton, the Tough Guy Book Club promotes reading among men, operating out of Australian pubs and now boasting 10,000 participants worldwide, aiming to break stereotypes around masculinity and literacy.",
+  "category": "lifestyle",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/books/2026/nov/14/pride-and-no-prejudice-how-tough-guy-book-club-taught-10000-men-to-be-unashamed-of-reading"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/10ea74994a7224cfe4f3300b1ab89c13f8f6c147/455_0_2953_2362/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=c17032bac1fd401bd7e3f6109f42f197",
+  "publishedAt": "2026-11-13T14:00:20.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "25140f53eb1baa24",
+  "headline": "Iran says it hit US early-warning radar in Bahrain",
+  "summary": "Iran’s Islamic Revolutionary Guard Corps claimed it destroyed a US early-warning radar in Bahrain in retaliation for a US airstrike on a communications tower, marking the first direct attack on US military installations in months.",
+  "category": "world",
+  "region": "global",
+  "importance": 7,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/f76fa0a8488f1c05bc755c935f60793cc0caee3d/448_0_4480_3584/master/4480.jpg?width=140&quality=85&auto=format&fit=max&s=1827173b1be92a1da7873febef1104d0",
+  "publishedAt": "2026-11-13T13:52:11.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "45bd505904b62027",
+  "headline": "CFTC chair says crypto firms embracing new agency rules",
+  "summary": "CFTC Chair Rostin Behnam told CNBC that the crypto industry is increasingly complying with the regulator’s proposed rules, even as broader legislative efforts to govern digital assets lose momentum.",
+  "category": "markets",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/cftc-chair-selig-crypto-industry-opting-into-agencys-crypto-rules-.html"
+   }
+  ],
+  "publishedAt": "2026-11-13T13:15:35.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "a2e57248fd424015",
+  "headline": "Trump says he wants to resolve Cuba issue before leaving office",
+  "summary": "Former US president Donald Trump stated he intends to \"get Cuba done\" before his term ends, hinting at possible military action while the United States continues its comprehensive economic embargo on the island.",
+  "category": "politics",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/trump-cuba-us-military-force-iran.html"
+   }
+  ],
+  "publishedAt": "2026-11-13T13:04:00.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "26a9253cd5e7283c",
+  "headline": "NHL team valuations rise 23% to average $2.71 billion",
+  "summary": "CNBC reports the average value of the 32 National Hockey League franchises has climbed to $2.71 billion, a 23 percent increase from a year ago, reflecting growing revenue and media deals.",
+  "category": "sport",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/cnbcs-official-nhl-team-valuations-2026-how-the-32-clubs-stack-up.html"
+   }
+  ],
+  "publishedAt": "2026-11-13T12:47:16.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "560059a75d7b7e50",
+  "headline": "New York landfill expansion plan meets resident opposition",
+  "summary": "A company proposes to raise the height of the Seneca Meadows landfill in upstate New York, extending its lifespan for decades despite concerns from nearby residents about smell and environmental impact.",
+  "category": "other",
+  "region": "global",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/2026/nov/13/new-york-seneca-meadows-landfill"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/490a6771051d9647e624ef860358392e19646987/187_0_2926_2340/master/2926.jpg?width=140&quality=85&auto=format&fit=max&s=cdc4cb7d82f2c737b4bd921654381ee6",
+  "publishedAt": "2026-11-13T12:30:18.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "8d7c52826b5bede0",
+  "headline": "Moscow urges Europe to appoint envoy for dialogue",
+  "summary": "Russia tells European nations to select a diplomatic representative if they wish Moscow to engage in talks, after EU foreign minister Kaja Kallas said President Vladimir Putin refuses to speak with her.",
+  "category": "politics",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "Financial Times",
+    "url": "https://www.ft.com/content/4c1f5051-94eb-4d20-b154-c45f4538a2a2"
+   }
+  ],
+  "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb6de1d2a-7e15-4d83-853d-7637aa28dc2c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+  "publishedAt": "2026-11-13T12:28:44.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "cc3aa80bca6c13ca",
+  "headline": "UN watchdog raises concerns over uninspected Iranian nuclear site",
+  "summary": "The International Atomic Energy Agency says it has never been able to inspect Iran's uranium enrichment plant at Isfahan, expressing increasing worry about the lack of access to the facility.",
+  "category": "world",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cm75261e3pdko"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d06a/live/954609a0-df57-11f1-93e1-3b657b665bcf.jpg",
+  "publishedAt": "2026-11-13T12:28:28.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "42d1f2e162fa0657",
+  "headline": "Russian crude output rebounds as global oil supply tops demand",
+  "summary": "Russia's crude production rose to 8.73 million barrels per day in October, according to the IEA, helping push worldwide oil supply into surplus amid recovering Gulf exports.",
+  "category": "markets",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/russia-oil-exports-iea-diesel-deal.html"
+   }
+  ],
+  "publishedAt": "2026-11-13T12:05:22.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "b5a559c7ce90d129",
+  "headline": "US seizes $1.2 billion of crypto linked to North Korean theft",
+  "summary": "The Department of Justice announced the seizure of $1.2 billion in cryptocurrency stolen from Binance, targeting a scheme used by the North Korean regime to fund its activities.",
+  "category": "markets",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/us-seizes-binance-hack-crypto.html"
+   }
+  ],
+  "publishedAt": "2026-11-13T12:03:24.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "4175fac061e27aac",
+  "headline": "Microsoft Outlook outage disrupts US organisations",
+  "summary": "A widespread Outlook outage that began on Thursday afternoon left many US companies, schools and local governments unable to access email, calendar and cloud services, with some services still down despite partial restoration on Friday.",
+  "category": "tech",
+  "region": "global",
+  "importance": 7,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments"
+   },
+   {
+    "name": "AFR",
+    "url": "https://www.afr.com/politics/federal/australia-news-live-updates-traders-forced-to-work-via-phone-and-whatsapp-as-microsoft-outage-continues-20261114-p61e3e"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/b63ef4b2cd095319a80edb2f7cb40f210d4581c1/564_0_3154_2523/master/3154.jpg?width=140&quality=85&auto=format&fit=max&s=00f4153beac0510e18c3ba0bc72b2e40",
+  "publishedAt": "2026-11-13T11:43:27.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "7be829a5936c74e2",
+  "headline": "Albanese and Bowen caught on hot mic joking about phones",
+  "summary": "Australian Prime Minister Anthony Albanese and Energy Minister Jim Bowen were unaware a microphone was live when they made jokes about where they keep their mobile phones.",
+  "category": "politics",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/politics/federal/albanese-caught-in-hot-mic-gaffe-20261113-p61e33.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.6250359441931072%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_13%2C$y_9/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/0dbceeeed5a8268278cdd0c0db07c836beef4583114cc71fb83a4b2fee7324be",
+  "publishedAt": "2026-11-13T11:42:23.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "bc4e42ae55592f4b",
+  "headline": "Rosalía wins historic third best album award at Latin Grammys",
+  "summary": "Spanish singer Rosalía received the award for best album for her fourth release, Lux, marking a historic third win in the category at the Latin Grammy Awards.",
+  "category": "entertainment",
+  "region": "global",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09dd/live/69ef2110-df6b-11f1-93e1-3b657b665bcf.jpg",
+  "publishedAt": "2026-11-13T11:38:54.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "e358ee550e4225f5",
+  "headline": "Four students die after post-exam party at Nigerian university",
+  "summary": "A Nigerian university is in mourning after four students died following a post-exam celebration; the institution has banned all parties while investigations continue.",
+  "category": "world",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9f3/live/b4c3ec80-df51-11f1-8364-2717a13d3b08.jpg",
+  "publishedAt": "2026-11-13T11:37:08.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "599dbeec4eb35583",
+  "headline": "Australian athletes win sprint events at national meets",
+  "summary": "Sam Short edged out Harrison Turner in the men's 400m sprint, while William Petric claimed victory in the men's 200m mystery medley at recent Australian track meets. Both athletes secured their titles in tightly contested races, adding to the season's sprint highlights.",
+  "category": "sport",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/sport/swimming/short-throws-shade-after-400m-blitz-20261113-p61e39.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/db7dd8dbbd096ad49afcf030817b8bb810d8c936",
+  "publishedAt": "2026-11-13T11:18:31.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "67dc2f6124e4f2d2",
+  "headline": "Former NSW Liberal MP Rory Amon convicted of child rape",
+  "summary": "A jury found former NSW Liberal MP Rory Amon guilty of one count of sexual intercourse with a child aged 10-14 and indecent assault after a four-hour deliberation. The conviction follows a previous trial that ended with a hung jury, and Amon faces a significant prison term.",
+  "category": "politics",
+  "region": "australia",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/13/former-nsw-liberal-mp-rory-amon-found-guilty-of-raping-13-year-old-boy"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/d4c40932b33c6886f4f157bb1f96a159b2933a0e/396_0_7857_6286/master/7857.jpg?width=140&quality=85&auto=format&fit=max&s=8c227652cfa8d8c9dd7776ccb20baede",
+  "publishedAt": "2026-11-13T10:45:48.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "7030f2bf6576c51b",
+  "headline": "Nelson Asofa-Solomona knocks out Paul Gallen in NRL match",
+  "summary": "During a National Rugby League game, Nelson Asofa-Solomona delivered a knockout blow to veteran Paul Gallen before entering the crowd and striking a spectator. The incident sparked a melee and prompted security intervention as the match continued.",
+  "category": "sport",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/sport/nelson-knocks-gallen-out-jumps-into-the-crowd-20261106-p61c6f.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/1de0771e3b1ee04db84155cdcaeed4c050fd258b",
+  "publishedAt": "2026-11-13T10:21:08.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "6a67c32b8d409c13",
+  "headline": "Family members speak at inquest into Perth double murders",
+  "summary": "At the inquest into the 2024 shootings that killed Jennifer and Gretl Petelczyc, Mark Bombara’s wife expressed heartbreak over the loss of her best friend and her daughter, while Bombara’s daughter Ariel condemned her father’s entitled behaviour and offered a public apology for his actions.",
+  "category": "other",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/national/wife-of-perth-double-murderer-breaks-her-silence-20261113-p61e35.html"
+   },
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-13/floreat-gunman-daughter-former-wife-speak-as-inquest-ends/107382636"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/25fa17c6eced00772919b4ea08701f8309d90a98",
+  "publishedAt": "2026-11-13T10:06:02.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
   "id": "d937e7e59b1f3caf",
   "headline": "Man arrested after fleeing brother's funeral in Melbourne",
   "summary": "Orijol Rukaj, who escaped handcuffs while carrying his brother’s coffin at a Melbourne funeral, was captured seven months later nearly 3,800km away, ending a months-long manhunt.",
@@ -579,6 +1521,23 @@
   "createdAt": "2026-11-13T10:05:53.323Z"
  },
  {
+  "id": "cc2687b047d5a42c",
+  "headline": "Mystery remains over missing $300,000 F1 diamond",
+  "summary": "The $300,000 diamond attached to a Formula 1 car vanished after a crash, prompting speculation about its whereabouts. Investigators have yet to locate the gemstone, and the incident has sparked curiosity among fans and officials alike.",
+  "category": "sport",
+  "region": "global",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc35/live/a5547670-df5b-11f1-b441-2b33b063138f.jpg",
+  "publishedAt": "2026-11-13T06:12:20.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
   "id": "d11644dd732d6b2a",
   "headline": "Tasmanian premier apologises for Christmas comment backlash",
   "summary": "Tasmania’s premier issued an apology for the reaction to his remarks about school Christmas celebrations, saying he is sorry for the outcome but maintains his expectations for the holiday. The statement follows public criticism of his comments on festive school events.",
@@ -1128,6 +2087,22 @@
   "createdAt": "2026-11-13T10:05:53.323Z"
  },
  {
+  "id": "ab9ba5b262ecc309",
+  "headline": "Jensen Huang affair reshapes US-China diplomatic outlook",
+  "summary": "Analysts say the recent controversy involving Nvidia CEO Jensen Huang is altering the political climate ahead of the upcoming Trump-Xi summit, creating a markedly different environment from the September meeting and potentially influencing US-China relations.",
+  "category": "world",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html"
+   }
+  ],
+  "publishedAt": "2026-11-13T02:56:35.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
   "id": "4d737caae5914166",
   "headline": "ATSB releases preliminary report on NT pilot crash",
   "summary": "The Australian Transport Safety Bureau’s preliminary findings detail that a young Tasmanian pilot’s aircraft crashed at high speed over the Northern Territory, based on eyewitness accounts from recreational fishers.",
@@ -1655,6 +2630,23 @@
   "createdAt": "2026-11-13T10:05:53.323Z"
  },
  {
+  "id": "b733291b74484692",
+  "headline": "Alaska vote count delayed as Senate race remains tight",
+  "summary": "Alaska’s election officials are still processing results for the state’s largest election, including the close Senate contest between Republican Dan Sullivan and Democrat Mary Peltola, leading to extended waiting times for final tallies.",
+  "category": "world",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/000f/live/a2f3fa00-ded3-11f1-8afb-c1f8fc064db2.jpg",
+  "publishedAt": "2026-11-13T00:35:05.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
   "id": "e7e833834a3d1806",
   "headline": "Ethiopia’s army controls most Tigray towns as fighting’s end unclear",
   "summary": "The Ethiopian army has taken over most major towns in Tigray, but it remains uncertain whether the Tigray People’s Liberation Front can continue armed resistance.",
@@ -1771,6 +2763,38 @@
   "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63ae/live/32b2b320-def2-11f1-a701-fddedf244c16.jpg",
   "publishedAt": "2026-11-12T23:42:52.000Z",
   "createdAt": "2026-11-13T02:42:27.892Z"
+ },
+ {
+  "id": "5f521c29eabfff47",
+  "headline": "Kraft Heinz launches new product line to revive growth",
+  "summary": "Kraft Heinz CEO Steve Cahillane announced a range of innovative products, such as cheesy ramen and protein-rich Jell-O pudding, aiming to rejuvenate the company’s growth trajectory and attract consumers seeking novel snack options.",
+  "category": "business",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/12/kraft-heinz-bets-on-protein-foods-to-revive-sales.html"
+   }
+  ],
+  "publishedAt": "2026-11-12T23:41:00.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
+ },
+ {
+  "id": "cb65c38ad2d059ce",
+  "headline": "Nscale files updated IPO prospectus showing larger loss",
+  "summary": "Nvidia-backed cloud provider Nscale released a revised U.S. IPO prospectus that reveals a widening loss compared with earlier filings, highlighting the company’s ongoing financial challenges as it prepares for a public offering.",
+  "category": "markets",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/12/nscale-updates-ipo-prospectus-that-shows-widening-loss.html"
+   }
+  ],
+  "publishedAt": "2026-11-12T23:12:15.000Z",
+  "createdAt": "2026-11-13T17:41:38.657Z"
  },
  {
   "id": "f4cdf50d9e9d0bc5",
