@@ -1,15 +1,482 @@
 [
  {
+  "id": "21eb2c096568d652",
+  "headline": "Gillespie rebuts Khawaja criticism",
+  "summary": "Former Australian fast bowler Jason Gillespie responded sharply to former captain Usman Khawaja’s comments about him in a recent book, calling the criticism ‘hypercritical’.",
+  "category": "sport",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/national/ridiculous-gillespie-hits-back-at-hyprocritical-khawaja-20261114-p61e6h.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/8744793ddf6f397a91566a65c22edd99361925bf",
+  "publishedAt": "2026-11-14T09:21:47.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
+ },
+ {
+  "id": "6a7cee07404043c6",
+  "headline": "Man struck by lightning while swimming at Central Coast",
+  "summary": "A man swimming at Umina Beach on the Central Coast was hit by lightning on Saturday afternoon and was taken to hospital.",
+  "category": "health",
+  "region": "australia",
+  "importance": 2,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/national/nsw/man-struck-by-lightning-while-swimming-at-central-coast-beach-20261114-p61e6c.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.6537%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/367a6335f584d690d57f8ef20e00745a9325469e",
+  "publishedAt": "2026-11-14T09:15:53.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
+ },
+ {
+  "id": "65daaecaa13b90b5",
+  "headline": "Fugitive arrested near Cape York after Melbourne escape",
+  "summary": "Orijol Rukaj, who fled custody while attending his brother’s funeral in Melbourne, was captured near Cape York in far-north Queensland.",
+  "category": "other",
+  "region": "australia",
+  "importance": 2,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/national/fugitive-who-fled-melbourne-funeral-caught-in-far-north-queensland-20261114-p61e6d.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/af3165e10bc1c1d073058c594d420233a3ef3125",
+  "publishedAt": "2026-11-14T09:02:55.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
+ },
+ {
+  "id": "52ae0a1da9fa013c",
+  "headline": "Immersive show animates Kyffin Williams’ Welsh landscapes",
+  "summary": "The National Library of Wales presents an immersive performance that brings Sir Kyffin Williams’ rugged landscape paintings to life with animation and music.",
+  "category": "entertainment",
+  "region": "global",
+  "importance": 2,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/artanddesign/2026/nov/14/sir-kyffin-williams-artist-immersive-exhibition-national-library-wales-aberystwyth"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/b9f6172ba8f224dbb097628613f4b8f2f0f5d71a/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=6ce3cb7a7ab1e5d0183e1c525e89f8ee",
+  "publishedAt": "2026-11-14T09:00:39.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
+ },
+ {
+  "id": "4df011db8720c51c",
+  "headline": "Cat rescued on field during AFLW semi-final",
+  "summary": "A cat collapsed during the AFLW semi-final; a trained paramedic rival rushed to its aid as Sydney secured a maiden semi-final win.",
+  "category": "sport",
+  "region": "australia",
+  "importance": 2,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/sport/afl/head-injury-halts-knockout-aflw-final-between-geelong-and-sydney-20261114-p61e5r.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.6072062523485109%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_58%2C$y_153/t_crop_custom/q_86%2Cf_auto/e811daef8ed07be8d262a917f516c04351d244c2",
+  "publishedAt": "2026-11-14T08:34:59.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
+ },
+ {
+  "id": "488a480ff299c110",
+  "headline": "Heat hand Hurricanes sixth straight WBBL loss",
+  "summary": "Brisbane Heat defeated the Hobart Hurricanes by ten wickets, extending the Hurricanes’ losing streak to six games in the Women’s Big Bash League.",
+  "category": "sport",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-14/hobart-hurricanes-hammered-by-brisbane-heat-in-wbbl/107386442"
+   }
+  ],
+  "publishedAt": "2026-11-14T08:34:29.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
+ },
+ {
+  "id": "43bcdaed4bfe05d5",
+  "headline": "Winmalee High pilots restorative justice to curb bullying",
+  "summary": "Facing possible deregistration, Winmalee High School is using restorative justice practices to address schoolyard bullying, aiming to meet new anti-bullying regulations.",
+  "category": "other",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/national/nsw/you-have-to-understand-the-impact-inside-the-battle-to-stop-schoolyard-bullies-20261114-p61d6v.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.2011%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_75%2C$y_0/t_crop_custom/q_86%2Cf_auto/3deb1c86cbb65a28a168b42baaa5994ebc9c7b98",
+  "publishedAt": "2026-11-14T08:30:00.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
+ },
+ {
+  "id": "90e58391820b522a",
+  "headline": "One Nation supporters profiled ahead of election",
+  "summary": "A range of voters – from a truck driver to a single parent and a former unionist – explain why they are backing Pauline Hanson’s One Nation party.",
+  "category": "politics",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/politics/victoria/meet-the-sri-lankan-immigration-lawyer-handing-out-for-pauline-hanson-at-the-election-20261114-p61d90.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_47/t_crop_custom/q_86%2Cf_auto/9d28270d0fa836e46b04d344fd5adf25a355ec91",
+  "publishedAt": "2026-11-14T08:30:00.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
+ },
+ {
+  "id": "2fb8f5cc14ffcf56",
+  "headline": "‘Australia’s Chopin’ finally recognised after Somme death",
+  "summary": "Septimus Kelly, killed at 35 on the Somme, is now being honoured as ‘Australia’s Chopin’ as musicians revive his surviving compositions.",
+  "category": "entertainment",
+  "region": "australia",
+  "importance": 2,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/national/killed-on-the-somme-at-35-australia-s-chopin-is-finally-getting-his-due-20261114-p61e3t.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_1.3594%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_205/t_crop_custom/q_86%2Cf_auto/e472941eba15bd8bd6b238a7f53774c2283d89f8fd1018f415a021523f43d278",
+  "publishedAt": "2026-11-14T08:30:00.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
+ },
+ {
+  "id": "5d1440bb3ba60427",
+  "headline": "Nvidia scandal raises concerns over Chinese espionage",
+  "summary": "New revelations about Nvidia’s involvement in a scandal have heightened worries about the scale of Chinese spying activities.",
+  "category": "tech",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/world/asia/nvidia-scandal-raises-new-concerns-about-scale-of-chinese-spying-20261114-p61e52.html"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html"
+   },
+   {
+    "name": "Financial Times",
+    "url": "https://www.ft.com/content/e141a5ea-5aa4-491b-88a4-369cfc67693a"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.12714611598030975%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_21/t_crop_custom/q_86%2Cf_auto/6a2b439444995a2f30dcb87cd7b880e1982813ce",
+  "publishedAt": "2026-11-14T08:30:00.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
+ },
+ {
+  "id": "fd0f46dcf92067ce",
+  "headline": "Millie Bright hands out free football kits to girls",
+  "summary": "England midfielder Millie Bright distributes complimentary football kits to young girls to help offset participation costs.",
+  "category": "sport",
+  "region": "global",
+  "importance": 2,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/ck20v651473qo"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff1/live/39ee3da0-df6d-11f1-8112-6b9154c79b48.jpg",
+  "publishedAt": "2026-11-14T08:13:40.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
+ },
+ {
+  "id": "9fd98d15a2c2f64a",
+  "headline": "Eurotunnel to trial airport-style passport and fingerprint checks",
+  "summary": "Getlink plans to introduce airport-style passport scanning, fingerprinting and facial imaging at the Folkestone-Calais tunnel. The European Commission approved the system, aiming to avoid short-term and long-term chaos at the UK-France border by using cameras already deployed in major European airports.",
+  "category": "world",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/c36522e185fdfeb8b91004d73d5cc360a5eb2325/0_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=1e5d9d4359cc7e7c571d6edb15cdbf26",
+  "publishedAt": "2026-11-14T07:00:38.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
+ },
+ {
+  "id": "94ef00ef7166515f",
+  "headline": "Bristol launches five-year plan to become UK’s first wetland city",
+  "summary": "A new initiative backed by the Wildfowl & Wetlands Trust will create over 200 wetland projects across Bristol, from household rain ponds to river habitat restoration. The scheme aims to cut flood risk and expand green and blue spaces, positioning the city as the nation’s first dedicated wetland urban area.",
+  "category": "world",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/environment/2026/nov/14/bristol-first-uk-wetland-city-flood"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/d9080922d8163cbc606d6106ef3f00becdf7d2e8/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=fbc19f51ba612f3bf208fc580ecc91c0",
+  "publishedAt": "2026-11-14T07:00:37.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
+ },
+ {
+  "id": "13ebc8c2cc23db80",
+  "headline": "First Eurovision Song Contest Asia to be broadcast with Australian commentary",
+  "summary": "The inaugural Eurovision Song Contest Asia features eleven acts from across the continent. Australian drag star Courtney Act will provide commentary for the weekend event, marking the competition’s expansion beyond Europe.",
+  "category": "entertainment",
+  "region": "global",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "SBS News",
+    "url": "https://www.sbs.com.au/news/article/eurovision-song-contest-asia-how-to-watch-the-competition-this-weekend/cy21oma6j"
+   }
+  ],
+  "imageUrl": "https://assets.sbs.com.au/dims4/default/e707307/2147483647/strip/false/crop/7008x3220+0+414/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F7c%2Fe7%2F5e958b8048d09671db89709a775b%2Flargeeditorial.png",
+  "publishedAt": "2026-11-14T06:36:44.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
+ },
+ {
+  "id": "3e7f399d4c3b785d",
+  "headline": "Food bank reports annual 10% drop in donations",
+  "summary": "Charities running food banks say donations have fallen by about ten percent each year. Staff warn that government advice on stockpiling could further reduce contributions as the Christmas period approaches.",
+  "category": "other",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/c6702j7e48eno"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce7b/live/8c0a50d0-2ce3-11f0-b9d2-ffe9aa23cdd0.jpg",
+  "publishedAt": "2026-11-14T06:33:06.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
+ },
+ {
+  "id": "56b631374da819ec",
+  "headline": "Father Christmas greeted by over 300,000 at Adelaide pageant",
+  "summary": "A crowd of an estimated 335,000 people lined the streets of Adelaide to welcome Father Christmas during the city’s annual Christmas pageant, despite grey skies and chilly weather.",
+  "category": "entertainment",
+  "region": "australia",
+  "importance": 2,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-14/father-christmas-arrives-in-adelaide-at-annual-christmas-pageant/107385880"
+   }
+  ],
+  "publishedAt": "2026-11-14T06:08:43.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
+ },
+ {
+  "id": "fffa875265d798cf",
+  "headline": "Australia to sign defence pact with Philippines ahead of Quad meeting",
+  "summary": "Australia plans to finalise a defence agreement with the Philippines before an upcoming Quad summit. The pact comes as China intensifies its military buildup in the contested South China Sea, prompting regional security cooperation.",
+  "category": "politics",
+  "region": "australia",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "SBS News",
+    "url": "https://www.sbs.com.au/news/article/philippines-defence-pact/ypbg32mt4"
+   }
+  ],
+  "imageUrl": "https://assets.sbs.com.au/dims4/default/115005a/2147483647/strip/false/crop/8256x3793+0+855/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fc3%2Fb4%2Fdf2b7eb746119ef2f638c067209a%2F20261114199604850696-original.jpg",
+  "publishedAt": "2026-11-14T06:01:34.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
+ },
+ {
+  "id": "bf6649e39dc82e7e",
+  "headline": "UK Home Office directs blind Nigerian pensioner to seek treatment in India",
+  "summary": "A 67-year-old blind Nigerian pensioner who has lived in the UK for 26 years was told by the Home Office to travel to India for medical care, despite never having visited the country, under new settlement rules.",
+  "category": "politics",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/14/uk-tells-blind-nigerian-pensioner-to-go-home-to-india"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/e73cf35123e8bd53321089a41687a7d298f4654a/1125_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=c183c52d4ec3a4e9fcec7342598a6887",
+  "publishedAt": "2026-11-14T06:00:37.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
+ },
+ {
+  "id": "b7e1d10babd0e923",
+  "headline": "Ecuador seeks funds from biodiversity while relying on oil",
+  "summary": "Ecuador plans to generate revenue by monetising its biodiversity assets, but its economy remains heavily dependent on oil production, creating a challenge for the new funding approach.",
+  "category": "world",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html"
+   }
+  ],
+  "publishedAt": "2026-11-14T06:00:01.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
+ },
+ {
+  "id": "d35411b38fba2e49",
+  "headline": "Young WA bowler Mahli Beardman tipped for big cricket future",
+  "summary": "Mahli Beardman, a fast-bowling prodigy from regional Western Australia, has been highlighted as a rising talent after being spotted early in junior cricket.",
+  "category": "sport",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-14/mahli-beardman-junior-cricket-celebration/107386108"
+   }
+  ],
+  "publishedAt": "2026-11-14T05:17:48.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
+ },
+ {
+  "id": "faa35eb0bd8ce051",
+  "headline": "Newcastle climate protest paddle-out proceeds without arrests",
+  "summary": "More than 900 participants joined Rising Tide’s paddle-out on Newcastle Harbour, near the world’s largest coal port, with no arrests made during the event.",
+  "category": "world",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-14/rising-tide-paddle-protest-newcastle-coal-exports/107386226"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/environment/2026/nov/14/rising-tide-protest-newcastle-coal-port-blockade-nsw-police-ntwnfb"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/16061d0643f8ddf1bde965bd8ca1a4e75e4c7164/499_0_4993_3995/master/4993.jpg?width=140&quality=85&auto=format&fit=max&s=3edce12ee44835e601edb9626406e2eb",
+  "publishedAt": "2026-11-14T05:10:49.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
+ },
+ {
+  "id": "2d26eb57cc8fa80c",
+  "headline": "Record polar vortex breakdown raises cold weather risk",
+  "summary": "The early collapse of a wind system that traps Arctic air marks a rare polar vortex breakdown, heightening the risk of extreme cold weather events.",
+  "category": "world",
+  "region": "global",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "Financial Times",
+    "url": "https://www.ft.com/content/576640c4-8d35-4504-b1a5-f01c0ca1f5bc"
+   }
+  ],
+  "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2b3a2d00-88d7-461c-9278-16fff43058c0.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+  "publishedAt": "2026-11-14T05:00:38.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
+ },
+ {
+  "id": "acb3afab2e9ebe68",
+  "headline": "Central European University eyes Budapest expansion",
+  "summary": "The university that was forced out of Hungary by Viktor Orbán is now considering expanding programmes in Budapest, signalling confidence in the country’s democratic future.",
+  "category": "world",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2026/nov/14/university-hungary-orban-soros-ceu"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/8ca795707b5c5b5c8936bdd665604906c2712ffe/405_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=860402a67258d4737d3e72f279394bd5",
+  "publishedAt": "2026-11-14T05:00:35.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
+ },
+ {
+  "id": "6799cb413a8c6c7f",
+  "headline": "ACT park booking site disabled after data breach",
+  "summary": "A national park booking portal was taken offline while a data breach is investigated, with the ACT government warning about 6,000 customers of possible scam activity.",
+  "category": "tech",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-14/campers-personal-data-compromised-via-bookeasy-platform-hack/107386186"
+   }
+  ],
+  "publishedAt": "2026-11-14T04:17:12.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
+ },
+ {
+  "id": "f89db029a073ee3a",
+  "headline": "Australian bowlers cooperate with Cape Town tampering inquiry",
+  "summary": "All members of the Australian bowling group have spoken to investigators in the Cape Town ball-tampering inquiry, countering claims made by former player David Warner.",
+  "category": "sport",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-14/david-warner-cricket-australia-ball-tampering-investigation/107386252"
+   }
+  ],
+  "publishedAt": "2026-11-14T03:44:22.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
+ },
+ {
+  "id": "750ae09eb1761ccc",
+  "headline": "Matt Hauser wins silver to cap triathlon season",
+  "summary": "Matt Hauser secured a silver medal in his final race of a standout triathlon season, reinforcing his status as a strong contender for the Los Angeles 2028 Olympics.",
+  "category": "sport",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-14/matt-hauser-silver-world-triathlon-championship-series-abu-dhabi/107386078"
+   }
+  ],
+  "publishedAt": "2026-11-14T03:17:33.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
+ },
+ {
+  "id": "25a2671a869d5458",
+  "headline": "Indonesian villagers burn plastic waste unaware of health risks",
+  "summary": "In East Java, locals have been burning plastic waste for decades, often without knowledge of the serious health consequences associated with the practice.",
+  "category": "health",
+  "region": "global",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-14/plastic-farmers-in-indonesia-unaware-of-waste-burning-dangers/107274506"
+   }
+  ],
+  "publishedAt": "2026-11-14T03:05:18.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
+ },
+ {
   "id": "e4634e46be5bc291",
   "headline": "Trump to discuss nuclear arms cuts with Putin and Xi",
   "summary": "US President Donald Trump is expected to meet Russian President Vladimir Putin and Chinese President Xi Jinping on the sidelines of the APEC summit in Shenzhen to raise issues of nuclear arms reductions.",
   "category": "politics",
   "region": "global",
-  "importance": 7,
+  "importance": 8,
   "sources": [
    {
     "name": "SMH",
     "url": "https://www.smh.com.au/world/north-america/trump-to-have-first-trilateral-meeting-with-putin-xi-20261114-p61e4y.html"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do"
    }
   ],
   "imageUrl": "https://static.ffx.io/images/$zoom_0.5519%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_jpg/ba5ba2fb23baabf1a768b12f01e6ba929f29a56a",
@@ -79,23 +546,6 @@
    }
   ],
   "publishedAt": "2026-11-14T02:15:34.000Z",
-  "createdAt": "2026-11-14T02:57:14.693Z"
- },
- {
-  "id": "394478f4fde1761d",
-  "headline": "US-bound flights from Sydney and Melbourne delayed after telecom outage",
-  "summary": "A telecommunications outage that halted US departures caused delays and grounding of several flights from Sydney and Melbourne airports, affecting passengers heading to the United States.",
-  "category": "world",
-  "region": "australia",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/0f73a43c7adabdff5e4709c7319a3e2dd6459d4d/2337_146_6560_5249/master/6560.jpg?width=140&quality=85&auto=format&fit=max&s=5e9b61407d5b8104eb046c8c98d7d409",
-  "publishedAt": "2026-11-14T02:15:04.000Z",
   "createdAt": "2026-11-14T02:57:14.693Z"
  },
  {
@@ -195,10 +645,19 @@
    {
     "name": "ABC News",
     "url": "https://www.abc.net.au/news/2026-11-14/anthony-albanese-chris-bowen-hot-mic-gaffe-cop-31-climate-summit/107385964"
+   },
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/national/prime-minister-caught-in-hot-mic-moment-at-cop31-20261114-p61e68.html"
+   },
+   {
+    "name": "SBS News",
+    "url": "https://www.sbs.com.au/news/article/the-unusual-debate-behind-anthony-albaneses-hot-mic-moment/ra5fjsvl0"
    }
   ],
   "publishedAt": "2026-11-14T01:34:20.000Z",
-  "createdAt": "2026-11-14T02:57:14.693Z"
+  "createdAt": "2026-11-14T02:57:14.693Z",
+  "imageUrl": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/06c83c65bd04aba644f3d691aa16ad07e0f0ddae"
  },
  {
   "id": "0c1f04b2fb702bfd",
@@ -262,6 +721,22 @@
   "imageUrl": "https://i.guim.co.uk/img/media/e49347059f6c48431222b1105f2ca576e92c1c82/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5c0c6d7edd01447ecc6dda30577aeb3d",
   "publishedAt": "2026-11-14T00:53:52.000Z",
   "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "550795107e1c799d",
+  "headline": "Australia secures six medals at Youth Olympics in Senegal",
+  "summary": "Australian athletes returned from the Youth Olympic Games in Senegal with six medals, as the International Olympic Committee praised Africa’s ability to host major multi-sport events.",
+  "category": "sport",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-14/youth-olympic-games-2026-senegal-six-medals/107385766"
+   }
+  ],
+  "publishedAt": "2026-11-14T00:46:04.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
  },
  {
   "id": "da713d439f33e0f3",
@@ -394,22 +869,6 @@
   ],
   "imageUrl": "https://static.ffx.io/images/$zoom_0.40802650557746095%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_250%2C$y_405/t_crop_custom/q_86%2Cf_jpg/54e50b7c0e0e640b8208e4f8cadd6d69d691d343",
   "publishedAt": "2026-11-14T00:02:48.000Z",
-  "createdAt": "2026-11-14T02:57:14.693Z"
- },
- {
-  "id": "8ff4133faf24153f",
-  "headline": "Man found dead after house fire in Geelong suburb",
-  "summary": "Emergency services confirmed a man died following a house fire in Armstrong Creek, a suburb south-west of Melbourne. The incident is under investigation by local authorities.",
-  "category": "other",
-  "region": "australia",
-  "importance": 3,
-  "sources": [
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-14/man-dead-armstrong-creek-house-fire-geelong/107385832"
-   }
-  ],
-  "publishedAt": "2026-11-13T23:52:23.000Z",
   "createdAt": "2026-11-14T02:57:14.693Z"
  },
  {
@@ -993,6 +1452,10 @@
    {
     "name": "Financial Times",
     "url": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o"
    }
   ],
   "imageUrl": "https://assets.sbs.com.au/dims4/default/bceaf88/2147483647/strip/false/crop/8064x3705+0+835/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F0e%2Fdc%2F863b4807442a89ba37cc8a347d76%2F20261114168438525213-original.jpg",
@@ -1139,6 +1602,10 @@
    {
     "name": "SMH",
     "url": "https://www.smh.com.au/national/man-dead-in-geelong-house-fire-20261114-p61e3r.html"
+   },
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-14/man-dead-armstrong-creek-house-fire-geelong/107385832"
    }
   ],
   "imageUrl": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/8389c7c048fefc8949916e195f513af490b1542d",
@@ -1375,6 +1842,23 @@
   "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd2fdc827-ad0a-4d64-835a-969dd30920eb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
   "publishedAt": "2026-11-13T19:11:13.000Z",
   "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "605b52e99cc9cf16",
+  "headline": "Eurovision Song Contest to debut in Asia",
+  "summary": "The long-running Eurovision Song Contest will expand beyond Europe, with its first Asian edition set to take place. Organisers say the event will bring the popular international music competition to new audiences, marking a historic first for the brand.",
+  "category": "entertainment",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c12/live/8c3025e0-e005-11f1-93e1-3b657b665bcf.jpg",
+  "publishedAt": "2026-11-13T19:01:36.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
  },
  {
   "id": "c223267ae5f1576c",
@@ -1851,6 +2335,23 @@
   "imageUrl": "https://static.ffx.io/images/$zoom_0.706%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/0d745ee82ad4ebc29183da936867b31d9e36b5e4",
   "publishedAt": "2026-11-13T18:00:00.000Z",
   "createdAt": "2026-11-13T22:55:32.384Z"
+ },
+ {
+  "id": "3c467ac95df5b216",
+  "headline": "Estonia bans Russian and Belarusian athletes from competing",
+  "summary": "Estonia announced it will not permit Russian or Belarusian athletes to take part in any sporting events on its soil, joining other nations in restricting participation as a response to the ongoing war in Ukraine.",
+  "category": "politics",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c85/live/160022d0-df88-11f1-93e1-3b657b665bcf.jpg",
+  "publishedAt": "2026-11-13T17:54:33.000Z",
+  "createdAt": "2026-11-14T10:04:02.883Z"
  },
  {
   "id": "ce77399e85da2e65",
