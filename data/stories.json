@@ -1,5 +1,552 @@
 [
  {
+  "id": "e4634e46be5bc291",
+  "headline": "Trump to discuss nuclear arms cuts with Putin and Xi",
+  "summary": "US President Donald Trump is expected to meet Russian President Vladimir Putin and Chinese President Xi Jinping on the sidelines of the APEC summit in Shenzhen to raise issues of nuclear arms reductions.",
+  "category": "politics",
+  "region": "global",
+  "importance": 7,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/world/north-america/trump-to-have-first-trilateral-meeting-with-putin-xi-20261114-p61e4y.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.5519%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_jpg/ba5ba2fb23baabf1a768b12f01e6ba929f29a56a",
+  "publishedAt": "2026-11-14T02:43:43.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "297d76fa4e41d457",
+  "headline": "Townsville creatives build local queer community",
+  "summary": "In regional Queensland, Townsville residents are establishing their own queer spaces and events, reducing the need for people to relocate to larger cities for community support.",
+  "category": "other",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-14/townsville-creatives-queer-community-writing/107106238"
+   }
+  ],
+  "publishedAt": "2026-11-14T02:33:08.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "2cb07d6b057495b6",
+  "headline": "Southern Hemisphere weather forecasts remain less accurate",
+  "summary": "Experts say predicting weather in the Southern Hemisphere is more challenging than in the North due to fewer observation stations and data gaps, despite advances in forecasting technology.",
+  "category": "science",
+  "region": "global",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/science/2026-11-14/southern-hemisphere-forecasting-accuracy-atmospheric-rivers/107211984"
+   }
+  ],
+  "publishedAt": "2026-11-14T02:21:19.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "da2d166fe8266590",
+  "headline": "Couple pays $200,000 over reserve for Melbourne Edwardian house",
+  "summary": "Four bidders competed for a heritage Edwardian property in Melbourne’s east, with the winning couple paying $200,000 above the reserve price to secure the home.",
+  "category": "property",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/national/victoria/four-bidders-vie-for-2-26m-edwardian-house-in-melbourne-s-east-20261114-p61dwl.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.6541%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_auto/6e1147268d1bb79119c0d980601a1f00f64a79a1",
+  "publishedAt": "2026-11-14T02:15:55.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "96580b18ce663264",
+  "headline": "Centenary of rugby league friendship between New Zealand and Australia",
+  "summary": "A story marks more than 100 years since ancestors of Awhina and Rita forged a friendship on New Zealand rugby league fields, a bond that later extended to Australia.",
+  "category": "sport",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-14/qld-nz-rugby-league-world-cup-fans/107379782"
+   }
+  ],
+  "publishedAt": "2026-11-14T02:15:34.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "394478f4fde1761d",
+  "headline": "US-bound flights from Sydney and Melbourne delayed after telecom outage",
+  "summary": "A telecommunications outage that halted US departures caused delays and grounding of several flights from Sydney and Melbourne airports, affecting passengers heading to the United States.",
+  "category": "world",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/0f73a43c7adabdff5e4709c7319a3e2dd6459d4d/2337_146_6560_5249/master/6560.jpg?width=140&quality=85&auto=format&fit=max&s=5e9b61407d5b8104eb046c8c98d7d409",
+  "publishedAt": "2026-11-14T02:15:04.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "d6834bde0feef216",
+  "headline": "Two new books examine human-dog relationship",
+  "summary": "Two recently released titles explore the ancient, intimate and increasingly complex bond between people and dogs, looking at how the species interact and why they captivate each other.",
+  "category": "lifestyle",
+  "region": "australia",
+  "importance": 2,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/culture/books/why-we-can-t-stop-looking-at-dogs-and-they-can-t-stop-looking-back-20261114-p60vh7.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.7238100014861047%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_283%2C$y_404/t_crop_custom/q_86%2Cf_auto/fd44bd08aff2fd9ff1cf6ce5d262137c097e7cc9",
+  "publishedAt": "2026-11-14T02:13:00.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "60c76f044e88e242",
+  "headline": "New South Wales to open 100 long-day childcare centres if re-elected",
+  "summary": "The Minns government pledges to establish 100 new long-day childcare centres in areas with high demand and limited supply, aiming to expand access to early education across the state.",
+  "category": "politics",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-14/nsw-long-day-childcare-centres-minns-government-election-promise/107385858"
+   }
+  ],
+  "publishedAt": "2026-11-14T02:06:58.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "5e3a927a65c46806",
+  "headline": "PearlBone bone graft receives US FDA clearance",
+  "summary": "PearlBone, a bone graft substitute made from mother-of-pearl shells sourced off Western Australia’s Kimberley coast, has been cleared by the US FDA, marking a notable medical innovation from the state.",
+  "category": "business",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-14/pearlbone-receives-us-fda-clearance-wa-research-milestone/107355146"
+   }
+  ],
+  "publishedAt": "2026-11-14T02:06:28.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "2b8efb6c5f4e2bd8",
+  "headline": "Debate intensifies over housing affordability versus investment value",
+  "summary": "Australia’s housing market is seeing a clash between those urging price cuts for affordability and investors seeking to protect property values, as the market undergoes a significant shift.",
+  "category": "economy",
+  "region": "australia",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-14/do-australians-actually-want-cheaper-housing/107378812"
+   }
+  ],
+  "publishedAt": "2026-11-14T02:04:47.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "a30781cc577cd0fe",
+  "headline": "Police arrest suspect after major incident in Perth’s south",
+  "summary": "Western Australian police have arrested a person in connection with a serious incident that occurred in the southern suburbs of Perth, ending a major police operation.",
+  "category": "world",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/national/western-australia/police-responding-to-major-incident-south-of-perth-public-told-to-stay-away-20261114-p61e54.html"
+   },
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-14/wa-police-serious-incident-keysbrook-perth/107386030"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_3259%2C$y_1537/t_crop_custom/q_86%2Cf_jpg/1261ccd80ea1dc9704e9382372e3f4d297eac901",
+  "publishedAt": "2026-11-14T01:41:15.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "4a12baf2f53ffd56",
+  "headline": "Albanese and Bowen caught on hot mic at COP31",
+  "summary": "A private conversation between Prime Minister Anthony Albanese and Chris Bowen was unintentionally recorded at the COP31 summit, with the pair joking about phones and using crude language.",
+  "category": "politics",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-14/anthony-albanese-chris-bowen-hot-mic-gaffe-cop-31-climate-summit/107385964"
+   }
+  ],
+  "publishedAt": "2026-11-14T01:34:20.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "0c1f04b2fb702bfd",
+  "headline": "Upper North Shore luxury home fails to sell at auction",
+  "summary": "A six-bedroom Hamptons-style property on Sydney’s Upper North Shore did not attract the expected bids at auction after an unexpected turn, leaving the agent’s confidence in two potential buyers unfulfilled.",
+  "category": "property",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/property/news/it-all-fell-apart-upper-north-shore-hamptons-style-home-passes-in-at-auction-20261114-p61dw7.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.7354166666666666%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_53/t_crop_custom/q_86%2Cf_auto/156911dc5541780c318d8c8636214d78eecc4ba1",
+  "publishedAt": "2026-11-14T01:30:56.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "9a946f0dbc75d248",
+  "headline": "One Nation refuses to drop candidate after racist remarks",
+  "summary": "Stuart Bonds, One Nation’s lead upper-house candidate, made comments describing Australians as being demographically replaced, sparking widespread criticism. Despite the backlash, the party has shown no intention of removing him from its ticket.",
+  "category": "politics",
+  "region": "australia",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/14/one-nation-nsw-candidate-stuart-bonds-ntwnfb"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/bad470fd72c96843e66c54b24e828b110309e74f/920_806_5642_4517/master/5642.jpg?width=140&quality=85&auto=format&fit=max&s=d26253caa471b9a1073a46e86c2ca7b0",
+  "publishedAt": "2026-11-14T01:00:30.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "fb6efc3645870b73",
+  "headline": "SpaceX attempts double catch of Starship on test flight",
+  "summary": "SpaceX launched its Starship megarocket from Starbase, Texas, in a test aimed at catching both the Super Heavy booster and upper stage at the launch site. The flight, expected to orbit Earth about 14 times over 22 hours, seeks to achieve the first simultaneous recovery of the rocket’s components.",
+  "category": "tech",
+  "region": "global",
+  "importance": 7,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo"
+   },
+   {
+    "name": "Financial Times",
+    "url": "https://www.ft.com/content/ce7c8ab1-8337-4c32-8494-5142ec1697dd"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/e49347059f6c48431222b1105f2ca576e92c1c82/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5c0c6d7edd01447ecc6dda30577aeb3d",
+  "publishedAt": "2026-11-14T00:53:52.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "da713d439f33e0f3",
+  "headline": "Iron Maiden delivers heavy metal show at Melbourne’s AAMI Park",
+  "summary": "Iron Maiden performed a high-energy concert at Melbourne’s AAMI Park, thrilling metal fans with a powerful set that reinforced the band’s status as metal legends.",
+  "category": "entertainment",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/culture/live-reviews/iron-maiden-thrashes-a-symbolic-symphony-of-destruction-for-melbourne-s-metalheads-20261114-p61e2s.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.4148%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_282%2C$y_136/t_crop_custom/q_86%2Cf_auto/3bf264a7f96d3ea097c227a288b3bcfb2c1c5c6e",
+  "publishedAt": "2026-11-14T00:43:34.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "9bd580168fb097e8",
+  "headline": "Australian regional bands say London gigs cheaper than interstate tours",
+  "summary": "Several emerging Australian bands claim that travelling to London or the United States for performances now costs less than touring domestically, highlighting shifting economics in the music industry.",
+  "category": "entertainment",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-14/remote-flight-prices-nt-bands-yothu-yindi-king-stingray-touring/107381634"
+   }
+  ],
+  "publishedAt": "2026-11-14T00:28:33.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "a6fd2d64502f3db1",
+  "headline": "Parliament rope barriers criticised as government’s community outreach",
+  "summary": "A columnist argues that the government’s use of velvet rope and gold-post barriers at Parliament fails to demonstrate genuine connection with community concerns.",
+  "category": "politics",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-14/jags-krishnan-don-punch-woes-distract-wa-government/107382896"
+   }
+  ],
+  "publishedAt": "2026-11-14T00:13:11.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "25da8c73c7e891f3",
+  "headline": "Spanish goalkeeper banned for 12 matches after fatal foul",
+  "summary": "The Spanish football federation’s disciplinary committee handed a 12-match ban to the goalkeeper whose challenge led to a player’s death. The sanction follows a review of the incident that resulted in the fatal injury.",
+  "category": "sport",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/sport/goalkeeper-whose-foul-led-to-players-death-banned-for-12-matches-20261114-p61e4m.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.2118%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/f385344d88ad39a53c3ed59ab016a5587dddd8b967dbce36c93b4a556aff9f62",
+  "publishedAt": "2026-11-14T00:11:19.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "0e11094914f1d83e",
+  "headline": "Coronial inquest highlights police errors in Floreat murder case",
+  "summary": "An inquest into the deaths of Jennifer Petelczyc and her daughter Gretl examined police mistakes surrounding the Floreat murder. The hearing featured an apology from the gunman’s daughter and called attention to missed investigative opportunities.",
+  "category": "other",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-14/missed-opportunities-floreat-shooting-inquest-jennifer-petelczyc/107384594"
+   }
+  ],
+  "publishedAt": "2026-11-14T00:05:46.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "3393dbba51943396",
+  "headline": "Zoo seeks companion for solitary gorilla Jojo",
+  "summary": "Jojo, a gorilla rescued as an infant after poaching, has spent his life alone in captivity. Keepers are exploring options to introduce a companion, though logistical and social challenges make the process complex.",
+  "category": "science",
+  "region": "global",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8212/live/9b2ab3f0-df54-11f1-93e1-3b657b665bcf.jpg",
+  "publishedAt": "2026-11-14T00:03:56.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "7ad1ab03b8664191",
+  "headline": "Ugandan succession rumours flare after president’s son posts threats",
+  "summary": "A 52-year-old general’s provocative social-media posts and alleged military threats have intensified speculation about a dynastic succession in Uganda, with the president’s son at the centre of the rumours.",
+  "category": "politics",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9975/live/51088590-df40-11f1-a48c-75dd2efdacb5.jpg",
+  "publishedAt": "2026-11-14T00:03:52.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "8ba791a4b90e581d",
+  "headline": "Afterpay co-founder Nick Molnar to exit Block",
+  "summary": "Nick Molnar, who co-founded Afterpay and helped sell it for $39 billion, announced he will leave Block, the company that now owns Afterpay. Molnar’s departure marks the end of his involvement with the fintech firm he helped build over 13 years.",
+  "category": "business",
+  "region": "australia",
+  "importance": 7,
+  "sources": [
+   {
+    "name": "AFR",
+    "url": "https://www.afr.com/companies/financial-services/afterpay-co-founder-nick-molnar-to-leave-block-20261114-p61e4h"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.40802650557746095%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_250%2C$y_405/t_crop_custom/q_86%2Cf_jpg/54e50b7c0e0e640b8208e4f8cadd6d69d691d343",
+  "publishedAt": "2026-11-14T00:02:48.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "8ff4133faf24153f",
+  "headline": "Man found dead after house fire in Geelong suburb",
+  "summary": "Emergency services confirmed a man died following a house fire in Armstrong Creek, a suburb south-west of Melbourne. The incident is under investigation by local authorities.",
+  "category": "other",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-14/man-dead-armstrong-creek-house-fire-geelong/107385832"
+   }
+  ],
+  "publishedAt": "2026-11-13T23:52:23.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "567e3cb041b058c4",
+  "headline": "SBF missed near-$40 bn gain from Anthropic IPO",
+  "summary": "Jailed cryptocurrency founder Sam Bankman-Fried would have earned almost $40 billion from an early stake in Anthropic, the AI lab that recently went public, according to the Financial Times.",
+  "category": "markets",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "Financial Times",
+    "url": "https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787"
+   }
+  ],
+  "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb0a78d5d-baf8-4590-8af4-4f5e345b474d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+  "publishedAt": "2026-11-13T23:39:26.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "3f08de2aec10167a",
+  "headline": "NRL investigates alleged abuse by Eels recruit Spencer Leniu",
+  "summary": "The National Rugby League opened an investigation after allegations that Eels forward Spencer Leniu verbally abused an official during a match against the Kangaroos, prompting possible further sanctions.",
+  "category": "sport",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/sport/nrl/nrl-investigates-after-eels-recruit-leniu-allegedly-abuses-official-20261114-p61e4e.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.21723076923076923%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/1878542532ca2771d26f8e6dfe2bb12ff2e00b5e",
+  "publishedAt": "2026-11-13T23:14:11.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "ba1b1f1cd912a90e",
+  "headline": "India's Gen Z protests face uncertain winter",
+  "summary": "Youth dissent surged across India this summer, driven by frustration and online satire. The movement, led by Gen Z, now confronts a colder political climate as authorities tighten control, leaving activists uncertain about future momentum.",
+  "category": "world",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ca7/live/511b1870-df1a-11f1-8440-dbadd0414f54.jpg",
+  "publishedAt": "2026-11-13T23:11:51.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "a665c1b4801fd9de",
+  "headline": "Festival-goers urged to cut waste with sustainable tips",
+  "summary": "Ahead of the peak outdoor music season, Australian festivals promote simple actions such as compostable cutlery to reduce environmental impact. Organisers suggest easy hacks for attendees to lower their carbon footprint while enjoying events like Strawberry Fields near Tocumwal.",
+  "category": "lifestyle",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/14/change-by-degrees-how-australian-music-festivals-are-going-sustainable"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/b1e910c37742b4f41c3547fdd69e7b5957bf32ba/167_0_1666_1333/master/1666.jpg?width=140&quality=85&auto=format&fit=max&s=d9124f158a89d834b70558039db532e3",
+  "publishedAt": "2026-11-13T23:00:28.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "1687b1c290918e6e",
+  "headline": "Australian Street Photography awards showcase 25 finalists",
+  "summary": "The Australian Street Photography awards have selected 25 finalists whose images capture everyday public life, from quiet cafés to wildlife encounters. The exhibition runs in Sydney from November, highlighting observation, humour and human connection.",
+  "category": "entertainment",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/14/australian-street-photography-awards-gallery"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/12df3caff407c6c07c2fb00d46a64e89bf6ab588/262_0_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=20298c1c0bcf8826d17398fde8fad15c",
+  "publishedAt": "2026-11-13T23:00:27.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "330af266b34ed561",
+  "headline": "Former NT administrator shares childhood grooming experience",
+  "summary": "Former Northern Territory administrator Hugh Heggie revealed he was groomed by a church youth leader at age 14. He hopes his disclosure will encourage other survivors to come forward and feel less isolated.",
+  "category": "other",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-14/former-nt-administrator-hugh-heggie-on-being-groomed-as-a-child/107372262"
+   }
+  ],
+  "publishedAt": "2026-11-13T22:55:44.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "68f350da6f0ec973",
+  "headline": "Police seek witnesses after armed home invasion in Canberra",
+  "summary": "Three men armed with a firearm, knife, sword and baseball bat broke into a Canberra home, allegedly assaulting a woman while a child was present. Police are appealing for witnesses to aid the investigation.",
+  "category": "other",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-14/police-call-witnesses-hackett-home-invasion/107385772"
+   }
+  ],
+  "publishedAt": "2026-11-13T22:52:22.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "4ae76fd03a273178",
+  "headline": "Ashes preview sparks heated debate among fans",
+  "summary": "Ahead of the Ashes series, Australian cricket supporters are divided over team selection, with strong opinions favouring either Uzziah or Pat. The split adds extra drama to the upcoming Test showdown.",
+  "category": "sport",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/sport/two-men-two-diametrically-opposite-accounts-a-choice-must-be-made-team-uzzie-or-team-pat-20261114-p61e3u.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.3094%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_235%2C$y_0/t_crop_custom/q_86%2Cf_auto/5db46dada14c1f7cb71c666d0624c33911d4e322",
+  "publishedAt": "2026-11-13T22:50:42.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
   "id": "697ebf7000e3884a",
   "headline": "Melbourne’s liveable-city label questioned after rider stabbing",
   "summary": "The fatal stabbing of a Chinese delivery rider in Melbourne has sparked debate on Chinese social media about whether the city still deserves its reputation as one of the world’s most liveable cities.",
@@ -105,7 +652,7 @@
   "summary": "Microsoft confirmed that Outlook, Teams and its AI tool Copilot experienced a worldwide outage. The company said recovery progress is encouraging after the services stopped working across multiple regions.",
   "category": "tech",
   "region": "global",
-  "importance": 5,
+  "importance": 8,
   "sources": [
    {
     "name": "SMH",
@@ -114,6 +661,14 @@
    {
     "name": "BBC",
     "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o"
+   },
+   {
+    "name": "SBS News",
+    "url": "https://www.sbs.com.au/news/article/20-000-complaints-per-minute-how-was-the-microsoft-outage-fixed/ts19if5en"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia"
    }
   ],
   "imageUrl": "https://static.ffx.io/images/$zoom_0.2207%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_27/t_crop_custom/q_86%2Cf_auto/7d0629dea8a08e017691dc2961263e6c83d1e697",
@@ -236,21 +791,25 @@
   "createdAt": "2026-11-13T22:55:32.384Z"
  },
  {
-  "id": "b7e2850500b55779",
-  "headline": "Cricket ethics expert left with no guidance after sandpaper scandal",
-  "summary": "Dr Simon Longstaff, appointed to review the culture of Australian cricket following the sandpaper scandal, said he was left with a “blank wall” and no clear direction.",
+  "id": "e9e794166c0c2d33",
+  "headline": "Warner alleges Cricket Australia cover-up in sandpapergate",
+  "summary": "Former Australian captain David Warner claims Cricket Australia concealed details of the sandpapergate scandal involving bowlers Mitchell Starc, Pat Cummins and spinner Nathan Lyon. Warner says the board failed to disclose the full extent of the ball-tampering incident to the public and stakeholders.",
   "category": "sport",
   "region": "australia",
-  "importance": 4,
+  "importance": 5,
   "sources": [
    {
     "name": "SMH",
-    "url": "https://www.smh.com.au/national/ethics-expert-left-with-a-blank-wall-after-sandpaper-review-20261114-p61e45.html"
+    "url": "https://www.smh.com.au/sport/cricket/warner-makes-bombshell-sandpapergate-claim-involving-hazlewood-starc-and-lyon-20261114-p61e5d.html"
+   },
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-14/feuding-sandpapergate-cricketers-told-to-move-on-greg-chappel/107385674"
    }
   ],
-  "imageUrl": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/5b142b6b2ffa5e4f51d993e920ff0359ac4fae89",
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.1665817369093231%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_158%2C$y_141/t_crop_custom/q_86%2Cf_auto/a6516fa2b691c47930fe5df54aa1fb9bee20260d",
   "publishedAt": "2026-11-13T21:51:37.000Z",
-  "createdAt": "2026-11-13T22:55:32.384Z"
+  "createdAt": "2026-11-14T02:57:14.693Z"
  },
  {
   "id": "1b1a3090f5bd86ed",
@@ -271,6 +830,10 @@
    {
     "name": "ABC News",
     "url": "https://www.abc.net.au/news/2026-11-14/tanker-collides-with-cruise-ship-new-orleans/107385650"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo"
    }
   ],
   "imageUrl": "https://i.guim.co.uk/img/media/54322b24c0f84724cb4c55f9da0018b45d3e3946/870_0_4342_3474/master/4342.jpg?width=140&quality=85&auto=format&fit=max&s=dc3ae36c16dfe11867a2547932e2dc11",
@@ -670,20 +1233,148 @@
   "createdAt": "2026-11-13T22:55:32.384Z"
  },
  {
-  "id": "3fc8d55a94f0ac44",
-  "headline": "Congress seeks Jensen Huang testimony as Nvidia fallout spreads",
-  "summary": "Republican-led US Congress is pressing Nvidia CEO Jensen Huang for a hearing, amid political scrutiny following his departure and broader concerns about the chip maker’s influence.",
+  "id": "b1130f093e8b53e8",
+  "headline": "Noosa startup launches methane-cutting cattle supplement",
+  "summary": "A Noosa-based company is commercialising a feed supplement that reduces methane emissions from cattle. The product follows eight years of research and aims to provide an affordable solution for the livestock industry.",
   "category": "business",
+  "region": "australia",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/rural/2026-11-14/provectus-algae-cattle-methane-supplement/107372936"
+   }
+  ],
+  "publishedAt": "2026-11-13T20:42:46.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "037e941a40c32a8f",
+  "headline": "EU foreign policy chief warns Russia of ‘traps’ in Ukraine talks",
+  "summary": "EU foreign policy chief Kaja Kallas said Moscow is trying to divert attention from its aggression by raising European security issues, urging negotiators not to fall into Russian-set traps at the Dublin summit.",
+  "category": "world",
+  "region": "global",
+  "importance": 7,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/d169429d7a6f7e570a871b03d7a39e581e77f265/1443_446_3976_3181/master/3976.jpg?width=140&quality=85&auto=format&fit=max&s=335abbd675f9e2a81a30d3747adce55e",
+  "publishedAt": "2026-11-13T20:38:25.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "5d01d1e08d6a94ed",
+  "headline": "Philanthropists pledge $11 million for Brisbane 2032 Olympic medals",
+  "summary": "A group of wealthy backers, including private-equity veterans and family offices, have committed $11 million to support under-funded sports ahead of the Brisbane 2032 Olympic Games.",
+  "category": "business",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "AFR",
+    "url": "https://www.afr.com/companies/sport/philanthropists-back-11m-push-for-brisbane-2032-olympic-medals-20261114-p618dz"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.22344984266493054%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_642%2C$y_108/t_crop_custom/q_86%2Cf_auto/491268b5c68fb9d71321dae7677d05ed4062eeb3",
+  "publishedAt": "2026-11-13T20:35:29.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "b9745e7f523a81f8",
+  "headline": "White House economic adviser Hassett denies departure rumours",
+  "summary": "National Economic Council Director Kevin Hassett rejected reports that he would leave the White House in the coming weeks, calling the speculation untrue.",
+  "category": "politics",
   "region": "global",
   "importance": 6,
   "sources": [
    {
     "name": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html"
+    "url": "https://www.cnbc.com/2026/11/13/kevin-hassett-white-house-nec.html"
    }
   ],
+  "publishedAt": "2026-11-13T20:27:47.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "545ed717952ea363",
+  "headline": "Trump to decide on tariffs for Australian lamb imports",
+  "summary": "A US trade panel could not reach consensus on whether Australian lamb imports harm American producers, leaving President Donald Trump to make the final decision on potential tariffs. The outcome will affect Australian lamb exporters and US market dynamics.",
+  "category": "economy",
+  "region": "australia",
+  "importance": 7,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-14/us-trade-investigation-into-lamb-imports-decision-handed-down/107385510"
+   }
+  ],
+  "publishedAt": "2026-11-13T20:07:43.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "b8e72064fd8168e7",
+  "headline": "Australia protects half its oceans but questions remain",
+  "summary": "Australia now safeguards 50% of its marine area, ranking among global leaders in ocean protection. Experts and activists argue the measure may still fall short, urging deeper scrutiny of activities beneath the surface and stronger enforcement.",
+  "category": "other",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "SBS News",
+    "url": "https://www.sbs.com.au/news/article/ocean-conservation-wont-stop-at-australias-borders/ctap4htsf"
+   }
+  ],
+  "imageUrl": "https://assets.sbs.com.au/dims4/default/2f587de/2147483647/strip/false/crop/1920x882+0+99/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F73%2F16%2F16b1556c4c3f82015ac62f75ec14%2Fau-marine-protection-header.png",
+  "publishedAt": "2026-11-13T19:47:01.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "bfce7ff7e8e505bf",
+  "headline": "Lightning Ridge split over car door versus bonnet history",
+  "summary": "The opal mining town of Lightning Ridge is divided by a local dispute over whether its heritage centres on car doors or car bonnets, reflecting broader tensions about the town’s identity and mining legacy.",
+  "category": "other",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-14/lightning-ridge-battles-for-true-opal-mining-history/107212872"
+   }
+  ],
+  "publishedAt": "2026-11-13T19:37:48.000Z",
+  "createdAt": "2026-11-14T02:57:14.693Z"
+ },
+ {
+  "id": "755bd2dbf40d12dc",
+  "headline": "Nvidia CEO resigns, Trump to skip spy issue at summit",
+  "summary": "Nvidia chief Jensen Huang stepped down after reports of multiple affairs, including with a suspected Chinese spy. US officials say President Trump will not raise the spy matter with Chinese President Xi at an upcoming trilateral summit. Questions remain about national security implications and Trump’s awareness of the saga.",
+  "category": "business",
+  "region": "global",
+  "importance": 8,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html"
+   },
+   {
+    "name": "Financial Times",
+    "url": "https://www.ft.com/content/6034dd16-8c7d-4b3e-bc4e-942a6c8529dd"
+   },
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-14/questions-over-jensen-huang-affair-for-us-administration-nvidia/107382476"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo"
+   }
+  ],
+  "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd2fdc827-ad0a-4d64-835a-969dd30920eb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
   "publishedAt": "2026-11-13T19:11:13.000Z",
-  "createdAt": "2026-11-13T22:55:32.384Z"
+  "createdAt": "2026-11-14T02:57:14.693Z"
  },
  {
   "id": "c223267ae5f1576c",
@@ -762,6 +1453,10 @@
    {
     "name": "SMH",
     "url": "https://www.smh.com.au/sport/soccer/socceroos-take-another-positive-step-with-3-0-rout-of-defending-asian-champions-20261114-p61e3j.html"
+   },
+   {
+    "name": "ABC Sport",
+    "url": "https://www.abc.net.au/news/2026-11-14/socceroos-crush-qatar/107385558"
    }
   ],
   "imageUrl": "https://static.ffx.io/images/$zoom_0.3101933216168717%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_11/t_crop_custom/q_86%2Cf_auto/3207b8234a1fb3f6809196014440ac44b3965c0b",
