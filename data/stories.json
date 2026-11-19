@@ -1,5 +1,1303 @@
 [
  {
+  "id": "b93566e3da82a0d4",
+  "headline": "UnitedHealth shares tumble amid Medicare fraud crackdown fears",
+  "summary": "UnitedHealth’s stock fell 19% over five days as regulators signal tighter audits of Medicare Advantage ‘upcoding’ and new Medicare-for-All proposals, prompting a slide in other health-insurance equities.",
+  "category": "markets",
+  "region": "australia",
+  "importance": 7,
+  "sources": [
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45"
+   }
+  ],
+  "imageUrl": "https://images.mktw.net/im-55960856",
+  "publishedAt": "2026-11-19T21:22:00.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "f47aa052ed0b781d",
+  "headline": "European leaders say united stance for Ukraine talks in Berlin",
+  "summary": "EU allies of Ukraine claim they have a united negotiating position ahead of a summit in Berlin aimed at ending the war with Russia.",
+  "category": "world",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go"
+   },
+   {
+    "name": "Financial Times",
+    "url": "https://www.ft.com/content/dddd1db4-d9f2-452b-9be8-651b49a8b1c2"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg",
+  "publishedAt": "2026-11-19T21:21:43.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "5d3cbe221291ce4c",
+  "headline": "US Commerce clears over 879,000 AI chips for Chinese firms",
+  "summary": "The Commerce Department approved sales of more than 879,000 artificial-intelligence chips to Chinese companies, prompting congressional calls for tighter export controls after the Jensen Huang scandal.",
+  "category": "business",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html"
+   }
+  ],
+  "publishedAt": "2026-11-19T21:21:24.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "7c7b42f327dab737",
+  "headline": "Considerations for granting a spouse enduring power of attorney",
+  "summary": "While safeguards exist to prevent abuse, giving a spouse authority over financial affairs remains a matter of trust, according to advice on enduring powers of attorney.",
+  "category": "other",
+  "region": "australia",
+  "importance": 2,
+  "sources": [
+   {
+    "name": "AFR",
+    "url": "https://www.afr.com/wealth/personal-finance/can-i-trust-my-spouse-with-an-enduring-power-of-attorney-20261120-p61efo"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.3309%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/7e139a634530dcb3792d208cd70f1454c27ebf9f50e96ae2ad8a1d3c608bdf56",
+  "publishedAt": "2026-11-19T21:20:32.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "6344e46de62b3f82",
+  "headline": "Intuit to sell Mailchimp to Bending Spoons for $3.68 billion",
+  "summary": "Intuit announced the sale of its Mailchimp division to Bending Spoons for $3.68 billion, a price less than a third of the amount paid for the acquisition in 2021, citing slowed revenue growth.",
+  "category": "business",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html"
+   }
+  ],
+  "publishedAt": "2026-11-19T21:18:11.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "f218f092512d0e3b",
+  "headline": "AMD shares drop over 7% after short-seller alleges China link",
+  "summary": "AMD fell more than 7% following a short-seller report claiming its firmware appeared in a blacklisted Chinese firm; the company said it complies with U.S. law.",
+  "category": "markets",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html"
+   },
+   {
+    "name": "Financial Times",
+    "url": "https://www.ft.com/content/69fd7870-a2cf-4e75-88bc-a1c4036efded"
+   }
+  ],
+  "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffd6a8718-2de3-4dfe-8a9b-5509159472be.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+  "publishedAt": "2026-11-19T21:14:46.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "8e5d623d8758bbb3",
+  "headline": "Walmart expands focus on fast-food delivery",
+  "summary": "Walmart says roughly 90% of fast-food spending occurs within a few kilometres of its stores, prompting a larger investment in delivery services.",
+  "category": "business",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/why-walmart-is-making-a-bigger-bet-on-fast-food-delivery-27263735"
+   }
+  ],
+  "imageUrl": "https://images.mktw.net/im-44192970",
+  "publishedAt": "2026-11-19T21:13:00.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "39277028e81143e2",
+  "headline": "Drink-spiking reports rise at Northern Territory sexual assault centre",
+  "summary": "The NT Sexual Assault Referral Centre records at least one drink-spiking report every fortnight, highlighting ongoing concerns about safety in the region.",
+  "category": "health",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-20/drink-spiking-darwin-stigma-awareness-reports-sexual-assault/107354550"
+   }
+  ],
+  "publishedAt": "2026-11-19T21:10:03.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "d01c199e6fccdf58",
+  "headline": "Fiona the hippo dies after swallowing knitted hat",
+  "summary": "Cincinnati Zoo’s famous hippo Fiona died after attempts to remove a knitted hat she swallowed proved unsuccessful, despite various medical interventions.",
+  "category": "world",
+  "region": "global",
+  "importance": 2,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/136d787561384507373cd58a8fdcc3a64d11d04f/480_0_4228_3382/master/4228.jpg?width=140&quality=85&auto=format&fit=max&s=66198c9703321fcd38ca9a1cf187f0a8",
+  "publishedAt": "2026-11-19T21:06:24.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "0190ad8db059a72f",
+  "headline": "Adelaide motorists warned of road closures for Supercars event",
+  "summary": "Temporary closures on South Road will begin Friday for the Adelaide Grand Final Supercars weekend and continue for two weeks, causing major traffic disruptions.",
+  "category": "other",
+  "region": "australia",
+  "importance": 2,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-20/major-traffic-delays-on-adelaide-roads/107403072"
+   }
+  ],
+  "publishedAt": "2026-11-19T21:06:21.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "30e13020bac575ad",
+  "headline": "Parents raise safety concerns over regional WA childcare centre",
+  "summary": "Bridgetown parents allege serious safety breaches at the town’s only early childcare provider, prompting community alarm.",
+  "category": "other",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-20/bridgetown-parents-concerned-child-care/107394382"
+   }
+  ],
+  "publishedAt": "2026-11-19T21:03:07.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "5d80be5eb11d167e",
+  "headline": "Kraken parent Payward acquires venture firm Tribe Capital",
+  "summary": "Payward, the owner of crypto exchange Kraken, announced the purchase of venture capital and asset-management firm Tribe Capital, marking a move into private-market investing for the exchange group.",
+  "category": "business",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/acquisition-of-tribe-capital-flags-new-chapter-in-evolution-of-crypto-exchanges.html"
+   }
+  ],
+  "publishedAt": "2026-11-19T20:33:05.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "3122e00aae31e691",
+  "headline": "CoreWeave co-founder bets $30 million on company bonds",
+  "summary": "Brian Venturo, co-founder of AI-focused cloud provider CoreWeave, purchased $30 million of the firm's distressed bonds, signalling confidence amid broader AI sector jitters.",
+  "category": "business",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9"
+   }
+  ],
+  "imageUrl": "https://images.mktw.net/im-92945277",
+  "publishedAt": "2026-11-19T20:28:00.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "29ba188e38374600",
+  "headline": "US Senate rejects war powers resolution targeting Iran conflict",
+  "summary": "The Senate voted 48-51 to defeat a resolution that would have forced the president to halt military action against Iran, with Republican senators defending the ongoing conflict.",
+  "category": "politics",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/e9cf75dcb88b9e08a70020610023fdba0e0a45c4/671_0_6707_5366/master/6707.jpg?width=140&quality=85&auto=format&fit=max&s=b1fd399afc2a4e336a197ce308a55145",
+  "publishedAt": "2026-11-19T20:24:09.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "7fb6270ebb075df0",
+  "headline": "Nvidia shares tumble as market cap loss tops $600 billion",
+  "summary": "Nvidia's stock fell sharply, wiping out roughly $611 billion in market value over six trading days, prompting concerns about the chipmaker's role as a de-facto AI central bank.",
+  "category": "markets",
+  "region": "global",
+  "importance": 8,
+  "sources": [
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html"
+   }
+  ],
+  "imageUrl": "https://images.mktw.net/im-79410579",
+  "publishedAt": "2026-11-19T20:21:10.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "ee8e363daa9752e2",
+  "headline": "Australian minister downplays recession fears amid job cuts",
+  "summary": "Minister Amanda Rishworth dismissed economist warnings of a recession as Australian firms announced further job reductions.",
+  "category": "economy",
+  "region": "australia",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-20/federal-politics-live-blog-recession-concerns/107407116"
+   },
+   {
+    "name": "AFR",
+    "url": "https://www.afr.com/politics/federal/australia-news-live-updates-trump-s-greenland-deal-set-to-come-into-force-despite-bitter-standoff-20261120-p61ft0"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.2499%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_214%2C$y_159/t_crop_custom/q_86%2Cf_auto/50c94a27c7845d72f899c3b9a7964fc54c747bfb",
+  "publishedAt": "2026-11-19T20:12:30.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "e6edb605fcace86d",
+  "headline": "Consumer watchdog urged to act on burn injury from Temu hoodie",
+  "summary": "Following a severe burn suffered from a recalled Temu hoodie, the victim's family and former ACCC head Allan Fels are calling for the regulator to intervene despite limited legal recourse.",
+  "category": "other",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-20/burns-victim-has-strong-case-against-temu-supplier/107404316"
+   }
+  ],
+  "publishedAt": "2026-11-19T20:11:10.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "89f034b810d2be60",
+  "headline": "S&P 500 heads for sixth consecutive decline",
+  "summary": "The US S&P 500 index is on track for a sixth straight day of losses, while Johnson & Johnson reported progress on two key product launches.",
+  "category": "markets",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/11/19/sp-500-heads-for-6th-straight-decline-plus-jj-advances-two-key-products.html"
+   }
+  ],
+  "publishedAt": "2026-11-19T20:10:21.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "f7373afe2790a96e",
+  "headline": "GTA VI launch triggers all-night gaming marathons worldwide",
+  "summary": "Fans of Grand Theft Auto stayed up through the night to play the new installment, skipping work and school for launch parties as the game debuted globally.",
+  "category": "entertainment",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-six-fans-skip-work-pull-all-nighters"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/af1e31b49b5341ebce31c28c93c8ad558d8934b8/181_0_3988_3192/master/3988.jpg?width=140&quality=85&auto=format&fit=max&s=06325cc903a0fdb4227b8ce910ceefae",
+  "publishedAt": "2026-11-19T20:07:23.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "a132905865da015e",
+  "headline": "Matildas striker Caitlin Foord named AFC best international player",
+  "summary": "Caitlin Foord received the Asian Football Confederation's women's international player of the year award, completing a unique treble for the Australian forward.",
+  "category": "sport",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-20/matildas-star-foord-named-best-international-player-in-asia/107407140"
+   }
+  ],
+  "publishedAt": "2026-11-19T20:06:21.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "28f837ee57603f33",
+  "headline": "Senator Cornyn blocks Trump judicial nominee",
+  "summary": "Outgoing Texas Republican John Cornyn withheld his blue-slip, preventing the appointment of Trump-nominated district court judge T Elliot Gaiser. The move disrupts the administration’s plan to confirm judges before Democrats take control of Congress, following a heated Senate exchange with Ted Cruz.",
+  "category": "politics",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/2026/nov/19/judge-t-elliot-gaiser-nomination-fight"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/c9aaf57517e901b7272f10ebe4bc4623d7ead0ab/0_0_6643_5315/master/6643.jpg?width=140&quality=85&auto=format&fit=max&s=2918d2ce907b5d63d9835f46b141f19b",
+  "publishedAt": "2026-11-19T20:03:58.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "d73d891ac80b07f2",
+  "headline": "NSW political staffers face rising abuse and threats",
+  "summary": "A union representing political staff in New South Wales says employees are enduring unprecedented levels of violence, including spitting, swearing and death threats. The report highlights growing hostility towards staffers working for state politicians and calls for stronger protections.",
+  "category": "politics",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-20/nsw-mp-staffers-raise-security-concerns/107406064"
+   }
+  ],
+  "publishedAt": "2026-11-19T19:52:46.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "ebfc7420635d48ba",
+  "headline": "Pat Cummins’ agent decries sandpaper scandal hysteria",
+  "summary": "Neil Maxwell, the agent for Australian Test captain Pat Cummins, criticised the media frenzy surrounding the ongoing sandpaper controversy. He described the coverage as “hysteria” and urged focus on the facts as investigations continue.",
+  "category": "sport",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-20/pat-cummins-agent-criticises-sandpaper-hysteria/107407092"
+   }
+  ],
+  "publishedAt": "2026-11-19T19:45:55.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "9b81475bc1312d31",
+  "headline": "Former minister Sharman Stone dies via assisted dying",
+  "summary": "Former Liberal MP and ex-minister Sharman Stone, aged 75, died through voluntary assisted dying after a prolonged battle with glioblastoma. Stone had previously advocated for personal autonomy over medical decisions during her political career.",
+  "category": "politics",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/20/howard-era-minister-sharman-stone-dies-via-voluntary-assisted-dying-aged-75"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/0597a7b783b29524050eee8b5879eb87b0390a16/0_0_3030_2424/master/3030.jpg?width=140&quality=85&auto=format&fit=max&s=f11bb8942659bcaec4d8bf7aaa0dc5c4",
+  "publishedAt": "2026-11-19T19:44:24.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "b119b3f6cc958ee4",
+  "headline": "Trump discloses purchases of Nvidia, SpaceX and Tesla",
+  "summary": "Former US president Donald Trump revealed he bought shares in Nvidia, debt of SpaceX and Tesla stock in September, alongside other investments. The disclosures come as his ties to federal deals and the White House have intensified scrutiny.",
+  "category": "business",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html"
+   }
+  ],
+  "publishedAt": "2026-11-19T19:43:08.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "d9a838d5b3b18b36",
+  "headline": "Canberra unveils new designs for City Hill park",
+  "summary": "Draft concept designs for Canberra’s iconic City Hill park have been released, inviting public feedback on how the space could be used. The proposals aim to refresh the capital’s central green area with new amenities and landscaping.",
+  "category": "other",
+  "region": "australia",
+  "importance": 2,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-20/new-city-hill-park-designs-unveiled-for-public-consultation/107402828"
+   }
+  ],
+  "publishedAt": "2026-11-19T19:40:27.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "425424573a67ef49",
+  "headline": "Australians describe recession-like squeeze in daily lives",
+  "summary": "ABC readers shared how a recession-like environment is affecting them, from small business owners struggling with cash flow to mortgage holders feeling pressure from rising costs. The collection of stories highlights growing financial strain across the community.",
+  "category": "economy",
+  "region": "australia",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-20/australians-describe-struggling-like-economy-is-in-recession/107372480"
+   }
+  ],
+  "publishedAt": "2026-11-19T19:40:17.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "06607a704d127f97",
+  "headline": "Sanofi Pompe drug shortage leaves patients missing doses",
+  "summary": "A continued shortage of Sanofi’s treatment for Pompe disease is causing patients to miss critical doses, raising concerns about health impacts. The supply issue persists, prompting worries among affected families and healthcare providers.",
+  "category": "health",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/as-pompe-drug-shortage-drags-on-patients-struggle-to-get-treatments.html"
+   }
+  ],
+  "publishedAt": "2026-11-19T19:38:33.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "9b9d7bbc7d0b5783",
+  "headline": "Australian firms push for beef and rice market access in China",
+  "summary": "Ahead of Prime Minister Anthony Albanese’s meeting with President Xi Jinping in Shenzhen, Australian businesses are lobbying for greater access to Chinese markets for beef and rice, seeking to balance trade opportunities with broader defence and security considerations.",
+  "category": "business",
+  "region": "australia",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-20/albanese-to-meet-xi-for-trade/107406222"
+   }
+  ],
+  "publishedAt": "2026-11-19T19:37:16.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "a1ec41b17763ec47",
+  "headline": "Queensland rejects law to hold churches liable for child abuse",
+  "summary": "The Queensland government voted down legislation that would have allowed institutions, including churches and sporting clubs, to be held legally responsible for child abuse. The defeat maintains the status quo on institutional accountability for historic abuse claims.",
+  "category": "politics",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-20/qld-government-blocks-reforms-for-child-sexual-abuse-victims/107405804"
+   }
+  ],
+  "publishedAt": "2026-11-19T19:36:47.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "702f723990120887",
+  "headline": "BlueScope faces inquest demand a year after blast furnace death",
+  "summary": "A mother of a worker killed in a BlueScope blast furnace incident is joining a union call for an inquest, citing six further dangerous incidents at the $1.15 billion furnace relines since the fatality. The push seeks greater safety scrutiny at the plant.",
+  "category": "business",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-20/union-demands-inquest-into-workers-death/107402252"
+   }
+  ],
+  "publishedAt": "2026-11-19T19:36:13.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "e79bb01cad8fedcc",
+  "headline": "Second-hand removal homes gain interest as building costs rise",
+  "summary": "Rising construction costs are prompting more Australians to explore removal homes, a form of second-hand housing, as a creative solution to affordability and supply challenges.",
+  "category": "property",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-20/qld-buyers-seek-removal-homes-amid-market-pressure/107394618"
+   }
+  ],
+  "publishedAt": "2026-11-19T19:35:42.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "bbc4d1c2a5c7b789",
+  "headline": "Mango founder dies in Spain amid family dispute",
+  "summary": "The founder of fast-fashion label Mango fell to his death while walking with his son in Spain, days after a court heard he was forcing his son out of the company.",
+  "category": "business",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/business/companies/billionaire-fashion-tycoon-was-forcing-son-out-of-his-company-days-before-mysterious-death-court-hears-20261120-p61ftj.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.27624098022143945%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_228%2C$y_235/t_crop_custom/q_86%2Cf_auto/9a3e219fa610a731788f363d2b34c15237be28c9",
+  "publishedAt": "2026-11-19T19:33:59.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "5815d4ac2c05dccc",
+  "headline": "Welsh-language dub of Star Wars premieres in Cardiff",
+  "summary": "Actors Mark Lewis Jones and Osian Morgan voiced the Welsh version of the 1977 Star Wars film, with a red-carpet event in Cardiff celebrating the cultural milestone.",
+  "category": "entertainment",
+  "region": "global",
+  "importance": 2,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/film/2026/nov/19/welsh-cymraeg-dub-star-wars-cardiff"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/3c89e45f43f26e6eced5528e8d14c721506c33e4/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e7dfe55f9fe5f0ab38d73dfc264261e6",
+  "publishedAt": "2026-11-19T19:33:00.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "9badb793c10804f9",
+  "headline": "Prison officials review Russell Brand’s YouTube comments for victim impact",
+  "summary": "The Ministry of Justice is assessing whether Russell Brand’s YouTube message, issued through his wife, breaches rules intended to protect victims of sexual assault.",
+  "category": "other",
+  "region": "global",
+  "importance": 2,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/news/2026/nov/19/prison-authorities-consider-russell-brand-youtube-message-rules-victim-distress"
+   },
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/national/google-refuses-russell-brand-ban-20261120-p61fte.html"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/f1f62e86d5d340fa3e406a388a83d0ba1c0610c4/508_0_4585_3668/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=c50fd98317efd4dffbb35d687fc73363",
+  "publishedAt": "2026-11-19T19:30:14.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "af61447cf969fe5b",
+  "headline": "Polls show many Britons regret Brexit a decade on",
+  "summary": "A new survey indicates a growing share of UK voters now wish the 2016 Brexit decision had been reversed, six years after the country formally left the EU.",
+  "category": "politics",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-20/british-pm-burnham-heads-to-brussels-amid-brexit-regret-at-home/107401698"
+   }
+  ],
+  "publishedAt": "2026-11-19T19:28:21.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "c2faa0d5e267a51c",
+  "headline": "Rising cost of living drives Australians to consider off-grid living",
+  "summary": "Increasing household expenses and power prices are prompting more Australians to explore living off the electricity grid as a way to cut costs.",
+  "category": "lifestyle",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "SBS News",
+    "url": "https://www.sbs.com.au/news/article/australians-living-off-the-grid-whats-it-like/afx1zvt6c"
+   }
+  ],
+  "imageUrl": "https://assets.sbs.com.au/dims4/default/a6971f3/2147483647/strip/false/crop/3882x1784+0+576/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F3c%2Ff8%2F4a13989644d6a233eaa84b087dd0%2Fgettyimages-2163855498.jpg",
+  "publishedAt": "2026-11-19T19:28:11.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "4e6eea9d7f2e3785",
+  "headline": "Man arrested after knife attack on Bradford councillor",
+  "summary": "A 32-year-old suspect has been detained on suspicion of attempted murder after stabbing independent councillor Ibrar Ali during a canvassing visit in Bradford Moor.",
+  "category": "politics",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/19/man-arrested-horrific-knife-attack-bradford-councillor-ibrar-ali"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/d5d63a095a45669cc7ca9471cec50901a1e1863d/0_580_1796_1436/master/1796.jpg?width=140&quality=85&auto=format&fit=max&s=8590614252da3675f2dc459184b8f412",
+  "publishedAt": "2026-11-19T19:18:56.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "488624496c1e96f2",
+  "headline": "U.S. economy shows unexpected acceleration",
+  "summary": "Analysts say the main driver of U.S. growth is operating at an unusually fast pace, suggesting the economy may have more capacity to expand than previously thought.",
+  "category": "economy",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/the-surprising-reason-the-u-s-economy-is-speeding-up-and-might-have-more-room-to-run-9016c8db"
+   }
+  ],
+  "imageUrl": "https://images.mktw.net/im-25062036",
+  "publishedAt": "2026-11-19T19:13:00.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "7c0271001ef8d604",
+  "headline": "Advocates urge parties to pledge stronger action on family violence",
+  "summary": "Victim-support groups are calling on political parties to enhance their election commitments to address the scale of family and domestic violence in Victoria.",
+  "category": "politics",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-20/thousands-walk-against-family-violence-ahead-of-election/107394070"
+   }
+  ],
+  "publishedAt": "2026-11-19T19:03:35.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "6a028de94f39c5b1",
+  "headline": "UK and EU set to discuss third-country asylum hubs",
+  "summary": "A leaked draft shows the United Kingdom and European Union will begin formal talks on establishing hubs in third countries for rejected asylum seekers, with leaders expected to sign a joint statement soon.",
+  "category": "politics",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/19/uk-eu-talks-asylum-seekers-third-country-hubs"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/751d97ed396bc08de15e2bc52aafe1c378b97113/522_0_2646_2117/master/2646.jpg?width=140&quality=85&auto=format&fit=max&s=d6213840590015e6a55253ca45266450",
+  "publishedAt": "2026-11-19T19:02:45.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "418e01f2591118e8",
+  "headline": "Victorian election to spotlight suburban housing policy",
+  "summary": "Housing policy is emerging as a key issue in the Victorian state election, with voters in Melbourne’s suburbs paying close attention to proposals that could affect affordability and development.",
+  "category": "politics",
+  "region": "australia",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-20/victorian-election-liberal-labor-housing-supply-plan/107395436"
+   }
+  ],
+  "publishedAt": "2026-11-19T19:01:14.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "57855ff3f14a23a7",
+  "headline": "Next generation of Wallabies poised to shine",
+  "summary": "Queensland is becoming a stronghold for upcoming Wallabies talent, with emerging players ready to make their mark on the national rugby team.",
+  "category": "sport",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/sport/rugby-union/the-next-generation-of-wallabies-emerges-including-the-son-of-rugby-s-top-boss-20261120-p61ciw.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.5515625%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/1802a26aa9dce1197111e5ac36fb721ef35997d7561ae97947699d1fe29e2fa5",
+  "publishedAt": "2026-11-19T19:00:00.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "ce0308ea571d5b12",
+  "headline": "Five teens charged after fatal Logan pub shooting",
+  "summary": "Queensland police have charged five teenage boys in connection with a deadly shooting outside a Logan pub.",
+  "category": "other",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/national/five-teenagers-charged-over-fatal-shooting-20261120-p61ftc.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/a665f704f9515fae51d8957cd627b6004b3fd13e",
+  "publishedAt": "2026-11-19T18:54:29.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "083998a65c24cc86",
+  "headline": "UK rape case sparks call for consent law reform",
+  "summary": "After a woman was drugged by her husband and raped by strangers, advocates are urging changes to UK consent legislation to better protect victims.",
+  "category": "politics",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/19/men-convicted-sexual-assault-and-rape-woman-at-invitation-of-husband"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/edd007ef250e5a313f69749cd145e584cf626ff9/75_0_3657_2926/master/3657.jpg?width=140&quality=85&auto=format&fit=max&s=b672070fc85a9488d181c30126950558",
+  "publishedAt": "2026-11-19T18:54:01.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "04e7c017d4016de8",
+  "headline": "Thousands in South Australia lose power after storm",
+  "summary": "A storm toppled transmission towers on the Eyre Peninsula, leaving over 10,000 customers without electricity, though power has been restored in Port Lincoln.",
+  "category": "other",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-20/impact-of-widespread-power-supply-cut-across-eyre-peninsula/107406428"
+   }
+  ],
+  "publishedAt": "2026-11-19T18:51:13.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "c73c0ace0be98e29",
+  "headline": "Australia ranks among top migration destinations, OECD data shows",
+  "summary": "New OECD figures place Australia as one of the world’s leading destinations for migrants, prompting questions about the future of its migration program.",
+  "category": "economy",
+  "region": "australia",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "SBS News",
+    "url": "https://www.sbs.com.au/news/article/australia-migration-falls-across-oecd/1o3jge0ov"
+   }
+  ],
+  "imageUrl": "https://assets.sbs.com.au/dims4/default/902c25c/2147483647/strip/false/crop/704x323+0+36/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fdrupal%2Fnews%2Fpublic%2Fmigration_map_aap.jpg",
+  "publishedAt": "2026-11-19T18:50:29.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "4196e4f78eddc87b",
+  "headline": "Bikie boss warned of murder contract amid gang tensions",
+  "summary": "Police have warned Mark Balsillie, a senior figure in the Finks bikie gang, that a contract has been placed on his life as internal divisions flare following a drive-by shooting at an aged-care facility.",
+  "category": "other",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/national/victoria/finks-bikie-boss-warned-of-murder-plot-as-gang-division-simmers-20261120-p61ewy.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.9051282051282051%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_69/t_crop_custom/q_86%2Cf_jpg/2509eb1dcf9893a42e1814ec413a18c01594f692",
+  "publishedAt": "2026-11-19T18:50:00.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "8c170788edab8e6a",
+  "headline": "Tasmanian water utility slashes hospital sewerage charges",
+  "summary": "Tasmania’s water provider reduced fixed sewerage fees for public hospitals by about 70% after a new pricing model caused some customers’ bills to surge, drawing criticism from unions.",
+  "category": "business",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-20/taswater-slashes-hospital-sewerage-bills-other-customers-hikes/107384246"
+   }
+  ],
+  "publishedAt": "2026-11-19T18:44:01.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "5a42ac6e73e21b5e",
+  "headline": "Netflix, Amazon and Fox bid for 2030 World Cup media rights",
+  "summary": "Netflix, Amazon and Fox are among the bidders for the 2030 men's World Cup media rights, while Disney has opted out of the competition, sources said. The bidding process could reshape global sports broadcasting deals and influence future revenue streams for the tournament.",
+  "category": "business",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/netflix-amazon-fox-bid-for-2030-mens-world-cup-rights-disney-out.html"
+   }
+  ],
+  "publishedAt": "2026-11-19T18:30:51.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "1aa1c7b829909219",
+  "headline": "Aboriginal family wins award for heat-resilient home design",
+  "summary": "An Aboriginal family from Tennant Creek received a national award for a home designed to combat extreme heat and overcrowding. The award highlights innovative, culturally-responsive architecture and the family is now seeking support to expand the concept into a 20-house development.",
+  "category": "property",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-20/award-winning-remote-house-tennant-creek/107400110"
+   }
+  ],
+  "publishedAt": "2026-11-19T18:30:00.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "9dcb636b6d7d19a5",
+  "headline": "KPMG accused of conflict in NAB underpayment investigation",
+  "summary": "KPMG is facing criticism for acting on both sides of the National Australia Bank underpayment scandal, with the bank refusing to repay staff wages dating back to 2004 despite whistleblower complaints to a KPMG-run hotline.",
+  "category": "business",
+  "region": "australia",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/business/banking-and-finance/conflict-of-interest-kpmg-on-both-sides-of-nab-s-underpayment-scandal-20261120-p61eqs.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_1.0342%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_42/t_crop_custom/q_86%2Cf_auto/28fa7817fc8c47d9d9e3cae37cabd212244895d4",
+  "publishedAt": "2026-11-19T18:30:00.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "8baee6ce154dbe19",
+  "headline": "Experts warn Victoria could face blackouts despite gas plan",
+  "summary": "Energy experts caution that Victoria may experience blackouts within two years, as the Liberal leader's proposal to increase gas use is unlikely to be realised for at least five years, following the scheduled closure of a key coal plant.",
+  "category": "economy",
+  "region": "australia",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-20/victorian-election-blackouts-gas-plan-unachievable-experts-say/107405518"
+   }
+  ],
+  "publishedAt": "2026-11-19T18:06:44.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "df67a3e54fa282c9",
+  "headline": "Emoji overuse at work examined by science",
+  "summary": "A review of scientific research explores how excessive emoji use in professional communications can affect workplace perception, productivity and interpersonal dynamics, offering guidance on appropriate usage in corporate settings.",
+  "category": "lifestyle",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/business/workplace/what-can-i-do-about-my-colleagues-excessive-use-of-emojis-at-work-20261120-p61fmw.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.2178%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_220/t_crop_custom/q_86%2Cf_auto/596dbed46af12b291075046aa9a8b32876808e4f",
+  "publishedAt": "2026-11-19T18:06:00.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "0bc2a59a4dd5bb1b",
+  "headline": "Generation Z redefines schoolies with travel focus",
+  "summary": "Australian Generation Z is reshaping the traditional schoolies experience, shifting from heavy drinking to exploring travel and cultural experiences, signalling a broader change in post-high-school celebrations.",
+  "category": "lifestyle",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "AFR",
+    "url": "https://www.afr.com/life-and-luxury/travel/how-generation-z-is-doing-schoolies-differently-20261120-p60tgm"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.4038%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_209/t_crop_custom/q_86%2Cf_auto/eebea9c2c25fd446659e11a7a729215c45031886ede4f49a386d4dbffed868aa",
+  "publishedAt": "2026-11-19T18:00:00.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "102fc5303743bd85",
+  "headline": "Tips to avoid being a terrible house guest this summer",
+  "summary": "A set of practical tips advises summer visitors on how to be considerate hosts, covering etiquette, communication and respectful behaviour to ensure they are welcomed back for future stays.",
+  "category": "lifestyle",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "AFR",
+    "url": "https://www.afr.com/life-and-luxury/arts-and-culture/how-not-to-be-the-house-guest-from-hell-this-summer-20261120-p613h4"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_728%2C$y_447/t_crop_custom/q_86%2Cf_auto/f606c3fbfceb9cabdf20caad846e5623e6abb1ac",
+  "publishedAt": "2026-11-19T18:00:00.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "eb5742106455f2b3",
+  "headline": "Former banker launches $3 million luxury travel experiences",
+  "summary": "Tom Gibson left a corporate career to create ultra-high-end holidays for wealthy clients, offering bespoke itineraries and exclusive accommodations. His new venture markets multi-million-dollar trips, positioning itself in the niche luxury hospitality market aimed at super-rich travellers.",
+  "category": "lifestyle",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "AFR",
+    "url": "https://www.afr.com/life-and-luxury/travel/he-left-corporate-life-and-burnt-his-suits-now-he-sells-3m-holidays-20261120-p618jo"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.29763590542779317%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1%2C$y_725/t_crop_custom/q_86%2Cf_auto/98ea0ca3fcda0d2f1e5e024120fa599b96e1a8ff",
+  "publishedAt": "2026-11-19T18:00:00.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "1b0183df873fd601",
+  "headline": "Psychologist questions use of puberty blockers in children",
+  "summary": "A developmental psychologist argues that prescribing puberty blockers to children who are not distressed is troubling, raising concerns about the medical justification and potential long-term effects of the treatment for young patients.",
+  "category": "health",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "AFR",
+    "url": "https://www.afr.com/politics/federal/if-a-child-isn-t-distressed-what-are-puberty-blockers-treating-20261120-p61fcj"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.4818%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_572%2C$y_200/t_crop_custom/q_86%2Cf_auto/4203ecde3f221d2d8457e586ed9b9e75ad7903af",
+  "publishedAt": "2026-11-19T18:00:00.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "874c8da686c9fca7",
+  "headline": "Treasury-CBA communications spark FOI dispute",
+  "summary": "A Freedom of Information request concerning exchanges between the Commonwealth Bank chief and the Treasury was rejected, with officials citing the volume of material. The refusal highlights tensions over transparency in the Treasury’s dealings with major financial institutions.",
+  "category": "politics",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "AFR",
+    "url": "https://www.afr.com/rear-window/treasury-s-rather-large-problem-with-chalmers-and-comyn-20261120-p61flz"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.4865583616157583%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_503%2C$y_144/t_crop_custom/q_86%2Cf_auto/b6bb1e8fb35be0d9253423274cd8da31972b5869",
+  "publishedAt": "2026-11-19T18:00:00.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "6f924de9007a401e",
+  "headline": "Lucas Herbert promotes small businesses on golf courses",
+  "summary": "Former LIV golfer Lucas Herbert honours a late friend by encouraging small-business owners to set up stalls at golf venues, aiming to boost local commerce and create community benefits through his “pay it forward” initiative.",
+  "category": "sport",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-20/pay-it-forward-plan-inspired-by-tragedy-and-liv-s-end/107402754"
+   }
+  ],
+  "publishedAt": "2026-11-19T18:00:00.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "29ead54b70fce0e3",
+  "headline": "ABC considers expanding presence on YouTube",
+  "summary": "The Australian Broadcasting Corporation is evaluating a major push onto YouTube, exploring how the platform could serve as a distribution channel for its content and reach broader audiences online.",
+  "category": "tech",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/business/companies/is-youtube-the-future-for-the-abc-20261120-p61fiy.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.4206%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/c2a8d5b47a627843d0e9a256f2a175179c72661555417eaac2a96a691c7ee031",
+  "publishedAt": "2026-11-19T18:00:00.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "8ed58de5d5e55fa9",
+  "headline": "Historic Balmain shipyard estate listed for sale",
+  "summary": "A heritage-rich shipyard in Balmain, comprising nine historic buildings and the former David Ashton estate, is on the market for the first time in five decades, attracting interest from developers and preservation groups.",
+  "category": "property",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/business/small-business/historic-50m-balmain-shipyard-up-for-grabs-for-first-time-in-50-years-20261120-p61fmn.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.5519%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/5c46d6fcaf265c13b16185c224c0148f1da6d6d7",
+  "publishedAt": "2026-11-19T18:00:00.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "8f83a16ed450986d",
+  "headline": "Suburban retail vacancy rises while city stores slump",
+  "summary": "Vacancy rates on suburban shopping strips have increased, contrasting with a slowdown in city-centre retail spending. Analysts note the trend reflects shifting consumer patterns rather than a lack of demand on the suburbs.",
+  "category": "business",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/business/companies/shop-vacancy-on-suburban-strips-blows-out-but-wary-consumers-aren-t-to-blame-20261120-p61foq.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.5479%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1485%2C$y_860/t_crop_custom/q_86%2Cf_auto/7c1a858d3709291dcf7817d94221e6e4c17fa302",
+  "publishedAt": "2026-11-19T18:00:00.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "1aaa0346b4a786db",
+  "headline": "Construction sector lags in Australian productivity",
+  "summary": "Productivity data shows construction as one of the worst-performing sectors in Australia. Analysts say the slowdown is not solely due to builders, suggesting broader systemic issues need addressing to boost output.",
+  "category": "economy",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/business/the-economy/the-government-can-improve-its-own-productivity-and-it-should-20261120-p61fpz.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_96/t_crop_custom/q_86%2Cf_auto/0a147dcc9f039f2766f1ed513282e9b314c9acd6",
+  "publishedAt": "2026-11-19T18:00:00.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "32732db10a2476f1",
+  "headline": "One Nation leader seeks to soften party image ahead of Victorian campaign",
+  "summary": "One Nation’s leader Warren Pickering says he has reconciled his past misdeeds and aims to present a softer image for the party as he campaigns for leadership in Victoria, despite ongoing controversies.",
+  "category": "politics",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/politics/victoria/the-smiling-assassin-how-warren-pickering-wants-to-soften-one-nation-and-smash-their-rivals-20261120-p617ds.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.35651596175199696%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_47%2C$y_152/t_crop_custom/q_86%2Cf_auto/2e1f3bcbc123f92a4e9316d1df049fe017c10149",
+  "publishedAt": "2026-11-19T18:00:00.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "af32631970b1fcf7",
+  "headline": "Mackenzie’s mother campaigns against domestic violence after tragedy",
+  "summary": "After her daughter was stabbed to death by an ex-partner, Tabitha Acret has launched a campaign to protect others from domestic violence, urging reforms to the legal system and support services.",
+  "category": "other",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/national/after-her-daughter-was-stabbed-to-death-tabitha-acret-was-faced-with-two-options-she-chose-to-take-on-the-system-20261120-p61b8v.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.27419213060951453%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_496%2C$y_402/t_crop_custom/q_86%2Cf_auto/9f1d3c6b6a88fb86353a8830cb25e73b98976e46",
+  "publishedAt": "2026-11-19T18:00:00.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "893a69fb646cf2e8",
+  "headline": "Susan Smith denied parole for second time after sons' deaths",
+  "summary": "In a parole hearing, Susan Smith, convicted of drowning her two sons, was again denied release. She expressed remorse, saying the children did not deserve to die.",
+  "category": "other",
+  "region": "global",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d76c/live/0d6d9ab0-a76f-11ef-a215-2b35ff609397.jpg",
+  "publishedAt": "2026-11-19T17:23:34.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "83782a95c6dfa64c",
+  "headline": "Gold prices tumble as higher rates and strong dollar weigh",
+  "summary": "Gold has continued its sharp decline from the January peak, driven by rising interest rates and a stronger US dollar, which have reduced the metal’s investment appeal.",
+  "category": "markets",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/gold-prices-fall-fed-rates-dollar.html"
+   }
+  ],
+  "publishedAt": "2026-11-19T16:29:52.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "c4ab3767c24e3ed0",
+  "headline": "Anthropic IPO sparks market volatility and allocation concerns",
+  "summary": "Anthropic’s Wall Street debut saw shares open 34% above the IPO price before falling, contributing to a broader ASX decline. Australian investors received only about 7% of their applications, and brokers may impose penalties on rapid resale.",
+  "category": "markets",
+  "region": "australia",
+  "importance": 8,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/business/markets/asx-eyes-more-losses-as-wall-street-falls-despite-strong-debut-for-anthropic-20261120-p61ft6.html"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html"
+   },
+   {
+    "name": "AFR",
+    "url": "https://www.afr.com/markets/equity-markets/asx-markets-live-wall-street-surges-on-back-of-massive-anthropic-ipo-20261120-p61ft1"
+   },
+   {
+    "name": "SBS News",
+    "url": "https://www.sbs.com.au/news/article/anthropics-epic-3-trillion-debut-fails-to-revive-flagging-investor-confidence-in-ai/ed83wyexg"
+   },
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-20/asx-markets-business-live-news-nov-20/107403768"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/technology/2026/nov/19/who-are-anthropic-founders"
+   },
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8"
+   },
+   {
+    "name": "Financial Times",
+    "url": "https://www.ft.com/content/aa8290dc-a20a-45af-97ab-1e71f97f236a"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.2144910611022611%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/ec2c2c6cdde39dc4afa8cd2507e77d5ad1a93578",
+  "publishedAt": "2026-11-19T16:24:13.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "3b5e7ae5115e16ba",
+  "headline": "International court finds Myanmar guilty of genocide",
+  "summary": "The International Court of Justice ruled that Myanmar committed genocide against the Rohingya, marking the first time a state has been found guilty of genocide by an international court. Judges set a roadmap for applying the 1948 genocide convention to future cases.",
+  "category": "world",
+  "region": "global",
+  "importance": 8,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dea/live/12de9420-e441-11f1-99a1-253766e7ad8b.jpg",
+  "publishedAt": "2026-11-19T16:15:52.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "3a3a7627bf280732",
+  "headline": "North Northamptonshire council boosts heating-oil support",
+  "summary": "North Northamptonshire Council is urging eligible residents to apply for increased assistance with heating-oil costs to help households manage energy expenses.",
+  "category": "other",
+  "region": "global",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cwm2mj7vezr3o"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a6d/live/4e7d2e10-1ed5-11f1-b8f6-b15aa2adfcf4.jpg",
+  "publishedAt": "2026-11-19T15:22:31.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "73ac26afe5e2e08d",
+  "headline": "Australian music sector rejects AI carve-out proposal",
+  "summary": "ARIA’s chief executive says a proposal to exempt musicians from AI data-training while allowing other creators to be scraped is unworkable, and the writers’ union warns it creates a divide-and-conquer strategy across creative industries.",
+  "category": "tech",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/a97bdc0f91639c96d197dd5d8f13df1d8ae98f29/0_671_3022_2418/master/3022.jpg?width=140&quality=85&auto=format&fit=max&s=477e9e74301ca35bc7164268ef50968e",
+  "publishedAt": "2026-11-19T14:00:52.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "4cd15e0bcf06ce06",
+  "headline": "Australian physicists transmit message through brick wall using gravity",
+  "summary": "Researchers at the University of Queensland sent the word “gravity” in binary through a brick wall by moving a 1950s elevator and measuring minute changes in the gravitational field, demonstrating a practically unblockable communication method.",
+  "category": "science",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/science/2026/nov/20/scientists-communicate-using-gravity-elevator-brick-wall-bathroom-experiment"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/9c8e312834f5121b01c6908ad465910f3ea52394/81_0_800_640/master/800.jpg?width=140&quality=85&auto=format&fit=max&s=c4f4272c390dc53f69e1f5e940abdde3",
+  "publishedAt": "2026-11-19T14:00:50.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "c2e1674bc971427b",
+  "headline": "Venezuela signs security pact with United States",
+  "summary": "The United States defence secretary says Venezuela has moved from being a regional threat to a compliant security partner after the two nations signed a military cooperation agreement.",
+  "category": "politics",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18e1/live/23556d10-e400-11f1-877f-2bb5452e5ffc.jpg",
+  "publishedAt": "2026-11-19T13:31:23.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "035f94c6e4ce8b70",
+  "headline": "EU and UK set to discuss Brexit red tape in Brussels",
+  "summary": "Prime Minister, UK deputy leader and EU officials will meet in Brussels to negotiate easing post-Brexit regulations, restore emissions trading and expand youth mobility between the bloc and Britain.",
+  "category": "politics",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/politics/2026/nov/19/eu-uk-summit-explainer-burnham-brexit-brussels"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/21ddeb28259d25b93c94905de55f645b5eb1d446/620_27_3852_3082/master/3852.jpg?width=140&quality=85&auto=format&fit=max&s=014c4a5d4fd21a693d5d5dd01b797882",
+  "publishedAt": "2026-11-19T13:11:23.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
   "id": "6c764bf64b0f4d74",
   "headline": "ABC wins Scoop of the Year at Walkley Awards",
   "summary": "The Australian Broadcasting Corporation secured seven Walkley Awards, including the top Scoop of the Year prize for its reporting on ASIO’s failures before the Bondi terrorist attack.",
@@ -14,6 +1312,23 @@
   ],
   "publishedAt": "2026-11-19T13:01:15.000Z",
   "createdAt": "2026-11-19T13:04:12.266Z"
+ },
+ {
+  "id": "70d23a0e6e24218f",
+  "headline": "US consortium wins $60bn Kenya critical-minerals contract",
+  "summary": "A US-led group secured rights to Kenya’s Mrima Hill site, estimated to contain over $60 billion of critical minerals, beating Chinese rivals for the lucrative mining deal.",
+  "category": "business",
+  "region": "global",
+  "importance": 7,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3358/live/5110da10-e40e-11f1-b37c-b3a71d7200af.jpg",
+  "publishedAt": "2026-11-19T12:56:30.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
  },
  {
   "id": "e7e139da68214b58",
@@ -135,6 +1450,14 @@
    {
     "name": "ABC News",
     "url": "https://www.abc.net.au/news/2026-11-19/myanmar-historic-genocide-verdict-at-un-court/107403108"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo"
+   },
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/world/asia/intention-to-purge-myanmar-found-guilty-of-genocide-against-rohingya-in-landmark-ruling-20261120-p61ft4.html"
    }
   ],
   "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe172c5da-801d-4dbf-81ed-c638ab68ce5c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
@@ -218,7 +1541,7 @@
   "summary": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin met in Shenzhen for a trilateral summit, discussing international peace and nuclear weapons, with Trump describing Putin as a friend.",
   "category": "world",
   "region": "global",
-  "importance": 7,
+  "importance": 8,
   "sources": [
    {
     "name": "The Guardian",
@@ -243,6 +1566,10 @@
    {
     "name": "Financial Times",
     "url": "https://www.ft.com/content/fcf6d27b-a04c-4cef-8b03-ce2423566f1f"
+   },
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o"
    }
   ],
   "imageUrl": "https://i.guim.co.uk/img/media/fe3fd3648dd9414ddf04cdd936e7a16097507170/200_0_1799_1440/master/1799.jpg?width=140&quality=85&auto=format&fit=max&s=031d263340a375170cd91fe1d2133923",
@@ -439,6 +1766,57 @@
   "imageUrl": "https://i.guim.co.uk/img/media/35a9d897e2ed61d90967180863e80968f8991a81/366_0_3647_2919/master/3647.jpg?width=140&quality=85&auto=format&fit=max&s=17d22a7986adb2c775cc8e3b5984e343",
   "publishedAt": "2026-11-19T11:53:11.000Z",
   "createdAt": "2026-11-19T13:04:12.266Z"
+ },
+ {
+  "id": "306a5623674a034d",
+  "headline": "Western allies gather in Berlin to back Ukraine",
+  "summary": "Germany hosts 40 delegations showing solidarity for Kyiv as leaders of Russia, China and the United States meet in Shenzhen, underscoring heightened geopolitical tensions.",
+  "category": "politics",
+  "region": "global",
+  "importance": 7,
+  "sources": [
+   {
+    "name": "Financial Times",
+    "url": "https://www.ft.com/content/b102bd7f-175c-4cd3-8f05-6c9dd10115e1"
+   }
+  ],
+  "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F855665d8-87ca-44a2-9700-e595037deb32.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+  "publishedAt": "2026-11-19T11:48:38.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "7b4695ff361de838",
+  "headline": "Florida pastor convicted in Haitian president assassination plot",
+  "summary": "Pastor Christian Emmanuel Sanon was found guilty of involvement in the plot that led to the killing of Haiti’s former president Jovenel Moïse.",
+  "category": "world",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cm702q0lg50po"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e31d/live/a9425010-e409-11f1-ab35-e1af93fa5cce.jpg",
+  "publishedAt": "2026-11-19T11:44:57.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
+ },
+ {
+  "id": "6efdb6ba124c24ef",
+  "headline": "Democrats divided despite midterm victories",
+  "summary": "After securing control of Congress, Democratic leaders met in Denver, expressing frustration over internal splits and debating the party’s future direction.",
+  "category": "politics",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/c6174edpp5e8o"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14d3/live/332a20b0-e40e-11f1-b37c-b3a71d7200af.jpg",
+  "publishedAt": "2026-11-19T11:43:06.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
  },
  {
   "id": "957e03605d5233a9",
@@ -1588,6 +2966,23 @@
   "imageUrl": "https://i.guim.co.uk/img/media/2ea7dda4257fc43543719a2d375cd85a1ce8cdb4/0_0_7157_5728/master/7157.jpg?width=140&quality=85&auto=format&fit=max&s=bacf77eb19490db5a05856675b08baa4",
   "publishedAt": "2026-11-19T05:00:18.000Z",
   "createdAt": "2026-11-19T13:04:12.266Z"
+ },
+ {
+  "id": "cdc7b7c79d73306d",
+  "headline": "US manufacturers accelerate robot adoption to address labour shortage",
+  "summary": "Companies are increasing automation to mitigate workforce gaps, though experts say the pace remains insufficient for the sector to stay internationally competitive as manufacturing struggles.",
+  "category": "business",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "Financial Times",
+    "url": "https://www.ft.com/content/747f5533-1bab-4143-a78b-ed4e2b575340"
+   }
+  ],
+  "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6b848898-6fdd-48b9-96c5-fd5f2ab71ed2.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+  "publishedAt": "2026-11-19T05:00:18.000Z",
+  "createdAt": "2026-11-19T21:27:22.493Z"
  },
  {
   "id": "5fdbf697506fee1a",
@@ -29444,1544 +30839,5 @@
   "imageUrl": "https://static.ffx.io/images/$zoom_0.4803%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/ff8dea9b0185f02f245e548c3e732555f2ee9f7e",
   "publishedAt": "2026-11-12T21:33:32.000Z",
   "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "9f043b18f1ec2de5",
-  "headline": "Giant corpse flower expected to bloom at Geelong Botanic Garden",
-  "summary": "The rare corpse flower nicknamed ‘Pete’ is set to bloom this week at Geelong Botanic Garden, drawing anticipation of large crowds to see the spectacular event.",
-  "category": "lifestyle",
-  "region": "australia",
-  "importance": 2,
-  "sources": [
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-13/giant-corpse-flower-about-to-bloom-in-geelong/107378284"
-   }
-  ],
-  "publishedAt": "2026-11-12T21:32:48.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "742e776e23ed6482",
-  "headline": "Pat Cummins to address ball-tampering claims ahead of England ODI",
-  "summary": "Australia’s Test captain Pat Cummins will hold a press conference in Perth to answer questions about Usman Khawaja’s recent revelations concerning the 2018 ball-tampering scandal, just before the ODI against England.",
-  "category": "sport",
-  "region": "australia",
-  "importance": 6,
-  "sources": [
-   {
-    "name": "SMH",
-    "url": "https://www.smh.com.au/sport/cricket/pat-cummins-press-conference-live-updates-australian-cricket-captain-to-front-media-amid-sandpaper-revelations-in-usman-khawaja-s-book-20261113-p61dv7.html"
-   },
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-13/pat-cummins-live-media-conference-ball-tampering-usman-khawaja/107381096"
-   },
-   {
-    "name": "AFR",
-    "url": "https://www.afr.com/companies/sport/utter-nonsense-pat-cummins-rejects-everyone-knew-tampering-claim-20261113-p61dvi"
-   },
-   {
-    "name": "SBS News",
-    "url": "https://www.sbs.com.au/news/article/pat-cummins-usman-khawaja-sandpapergate-cricket-australia/c1lavojvp"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$zoom_0.1283%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/6988e5d0741ec5a0659331b5a2a3314e5383284d",
-  "publishedAt": "2026-11-12T21:26:54.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "88e1419ddb216a67",
-  "headline": "Tree felling begins for Adelaide MotoGP circuit amid protests",
-  "summary": "Work has started to remove trees in Adelaide’s parklands to make way for a new MotoGP track, prompting dozens of protesters to gather at the site.",
-  "category": "sport",
-  "region": "australia",
-  "importance": 4,
-  "sources": [
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-13/first-trees-felled-in-adelaide-parklands-for-motogp-circuit/107381082"
-   }
-  ],
-  "publishedAt": "2026-11-12T21:25:15.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "88ff140c94bb38a1",
-  "headline": "Cisco forecasts AI infrastructure revenue to double this fiscal year",
-  "summary": "Cisco reported earnings that beat expectations and said its AI infrastructure revenue is set to double over the current fiscal year as the company expands its AI-related offerings.",
-  "category": "markets",
-  "region": "global",
-  "importance": 6,
-  "sources": [
-   {
-    "name": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html"
-   }
-  ],
-  "publishedAt": "2026-11-12T21:20:35.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "28e9b72d998b46ac",
-  "headline": "WA music community upset over demolition of key all-ages venue",
-  "summary": "The head of WA Music warned that the planned demolition of a popular all-ages venue is sending the state’s youth music scene sideways, adding uncertainty for a major upcoming youth music festival.",
-  "category": "entertainment",
-  "region": "australia",
-  "importance": 3,
-  "sources": [
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-13/hyperfest-youth-hq-perth-young-live-music-audience-festivals/107349954"
-   }
-  ],
-  "publishedAt": "2026-11-12T21:20:14.000Z",
-  "createdAt": "2026-11-13T02:42:27.892Z"
- },
- {
-  "id": "5e8ac7d17dbd3c56",
-  "headline": "Nvidia names new chair and CEO after founder’s exit amid scandal",
-  "summary": "Nvidia has appointed Harvey Jones as chair and Colette Kress as chief executive to steady the chip maker following Jensen Huang’s sudden departure and a sex-scandal that has drawn attention to Chinese espionage concerns. The leadership change aims to restore investor confidence.",
-  "category": "business",
-  "region": "global",
-  "importance": 8,
-  "sources": [
-   {
-    "name": "Financial Times",
-    "url": "https://www.ft.com/content/74e95e42-3f1d-4128-98ef-9ce4c160b077"
-   },
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-13/nvidia-scandal-china-spy-network/107381704"
-   },
-   {
-    "name": "SMH",
-    "url": "https://www.smh.com.au/technology/the-rise-and-fall-of-leather-jacket-clad-tech-godfather-jensen-huang-20261113-p61dh9.html"
-   },
-   {
-    "name": "AFR",
-    "url": "https://www.afr.com/world/north-america/lutnick-fights-for-his-job-in-nvidia-spy-scandal-fallout-20261113-p61dvl"
-   },
-   {
-    "name": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-exit-cramer.html"
-   },
-   {
-    "name": "MarketWatch",
-    "url": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2"
-   },
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
-   }
-  ],
-  "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5da7bc08-6c68-490c-b9f8-eba7f21f669e.png?source=next-home-page&dpr=2&width=580&fit=scale-down",
-  "publishedAt": "2026-11-12T21:08:00.000Z",
-  "createdAt": "2026-11-13T02:42:27.892Z"
- },
- {
-  "id": "390beedcbe742fa1",
-  "headline": "Norway bans Russian and Belarusian athletes amid Ukraine war",
-  "summary": "The Norwegian government announced a ban on Russian and Belarusian professional athletes competing in the country while the war in Ukraine continues, following a similar restriction recently introduced by Finland.",
-  "category": "sport",
-  "region": "global",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/5f218e51631345e11985a307bd897497ea95ea56/923_290_3028_2422/master/3028.jpg?width=140&quality=85&auto=format&fit=max&s=7b66a3012c3bc82d0fa6986375b1d0d6",
-  "publishedAt": "2026-11-12T21:00:12.000Z",
-  "createdAt": "2026-11-13T02:42:27.892Z"
- },
- {
-  "id": "cb167260487e9211",
-  "headline": "Leeds woman admits stabbing murder of 16-year-old rival",
-  "summary": "An 18-year-old woman pleaded guilty to murdering a 16-year-old girl in Leeds after a planned fight over a young man. The victim, Chloe Watson Dransfield, was stabbed at the suspect’s home. The court heard details of the incident and the relationship between the parties.",
-  "category": "other",
-  "region": "global",
-  "importance": 2,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/12/woman-18-admits-murdering-girl-16-in-leeds"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/b4acac1601b9f710431ded13966983fd4bbb8c0b/0_164_1170_935/master/1170.jpg?width=140&quality=85&auto=format&fit=max&s=7aacb82c58148d1f8eb11fde4b7fbe66",
-  "publishedAt": "2026-11-12T20:57:07.000Z",
-  "createdAt": "2026-11-13T02:42:27.892Z"
- },
- {
-  "id": "831edc27b48559a8",
-  "headline": "Doctors urge redirect of gas hub funds to new Darwin hospital",
-  "summary": "Medical groups in the Northern Territory are pressing Prime Minister Anthony Albanese to cancel funding for the Middle Arm gas hub precinct and reallocate the money to build a new Royal Darwin Hospital, arguing the health project is a higher priority.",
-  "category": "politics",
-  "region": "australia",
-  "importance": 6,
-  "sources": [
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-13/anthony-albanese-middle-arm-royal-darwin-hospital-funding-letter/107379440"
-   }
-  ],
-  "publishedAt": "2026-11-12T20:55:13.000Z",
-  "createdAt": "2026-11-13T02:42:27.892Z"
- },
- {
-  "id": "dd52122ee515c136",
-  "headline": "Bond yields jump to biggest surge since 2022 on Fed rate hike expectations",
-  "summary": "U.S. bond yields surged to their largest increase since 2022 as markets priced in expectations of further Federal Reserve rate hikes, following comments from Fed Chair Warsh that heightened volatility.",
-  "category": "markets",
-  "region": "global",
-  "importance": 7,
-  "sources": [
-   {
-    "name": "MarketWatch",
-    "url": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195"
-   }
-  ],
-  "imageUrl": "https://images.mktw.net/im-73097292",
-  "publishedAt": "2026-11-12T20:44:00.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "b32068a36d1e8ace",
-  "headline": "Victorian government freezes emergency services levy for farmers",
-  "summary": "The Victorian Labor Party has pledged to permanently freeze the emergency services tax rate for farmers, while opposition parties have promised to scrap the levy entirely, aiming to ease cost pressures on the agricultural sector.",
-  "category": "politics",
-  "region": "australia",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-13/victorian-farmers-spared-emergency-services-levy-hike/107379618"
-   }
-  ],
-  "publishedAt": "2026-11-12T20:41:47.000Z",
-  "createdAt": "2026-11-13T02:42:27.892Z"
- },
- {
-  "id": "6040f5d963f0d571",
-  "headline": "Trump says US no longer needs Iran peace agreement",
-  "summary": "President Donald Trump indicated that the United States does not require a deal with Tehran, directing his nominee JD Vance to focus on domestic issues rather than pursuing the Iran nuclear agreement.",
-  "category": "politics",
-  "region": "global",
-  "importance": 6,
-  "sources": [
-   {
-    "name": "Financial Times",
-    "url": "https://www.ft.com/content/3c1727bb-2966-4e5c-808b-873d14854fa2"
-   }
-  ],
-  "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdb7792cd-fa17-48f2-a38d-c9a9c531df80.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-  "publishedAt": "2026-11-12T20:32:43.000Z",
-  "createdAt": "2026-11-13T02:42:27.892Z"
- },
- {
-  "id": "3c2dbf9deb71a1a5",
-  "headline": "United Airlines warns against AI agents booking flights",
-  "summary": "United Airlines says its system will not allow AI agents to book flights, and an expert cautions that decisions involving health, wealth and privacy should still involve human input rather than fully automated bots.",
-  "category": "tech",
-  "region": "global",
-  "importance": 4,
-  "sources": [
-   {
-    "name": "CNBC",
-    "url": "https://www.cnbc.com/make-it/2026/11/12/ai-agents-human-in-loop.html"
-   }
-  ],
-  "publishedAt": "2026-11-12T20:24:59.000Z",
-  "createdAt": "2026-11-13T02:42:27.892Z"
- },
- {
-  "id": "84f860438920e374",
-  "headline": "Greta Thunberg slams Australia's climate action",
-  "summary": "Climate activist Greta Thunberg criticised Australia’s slow progress on climate policy when asked about the country’s record, highlighting the gap between its emissions targets and actual measures.",
-  "category": "politics",
-  "region": "australia",
-  "importance": 4,
-  "sources": [
-   {
-    "name": "SBS News",
-    "url": "https://www.sbs.com.au/news/article/greta-thunberg-australia-cop31/to6875fdo"
-   },
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-13/chris-bowen-seeks-pragmatic-consensus-nto-inal-cop31-talks/107380860"
-   }
-  ],
-  "imageUrl": "https://assets.sbs.com.au/dims4/default/4090e0e/2147483647/strip/false/crop/3166x1455+0+0/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F31%2F3d%2Fb1fd86a94c468d0759bb5d820d28%2F20261112148341674184-original.jpg",
-  "publishedAt": "2026-11-12T20:17:33.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "efe7382a0e0e841e",
-  "headline": "‘False crops’ technique targets invasive red witchweed",
-  "summary": "Researchers are using a ‘false crops’ method to trick the invasive red witchweed into self-destruction, the only known infestation of the weed was first identified in Habana in 2013.",
-  "category": "science",
-  "region": "global",
-  "importance": 3,
-  "sources": [
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/rural/2026-11-13/false-crops-trick-weed-into-killing-itself/107366184"
-   }
-  ],
-  "publishedAt": "2026-11-12T20:15:50.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "2724b03204feb924",
-  "headline": "Two men charged after nail gun road-rage incident on M1",
-  "summary": "Police have charged two men following an alleged road-rage episode on the M1 Princes Motorway where a nail fired from a ute struck an SUV driver’s face before the vehicles collided.",
-  "category": "other",
-  "region": "australia",
-  "importance": 3,
-  "sources": [
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-13/road-rage-nail-gun-m1-charges-/107377772"
-   }
-  ],
-  "publishedAt": "2026-11-12T20:13:47.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "72a490c0330431e2",
-  "headline": "Ukrainian drone strikes Russian warship in Gulf of Finland",
-  "summary": "A Ukrainian drone attacked a Russian warship in the Gulf of Finland, marking the first known strike on a Russian vessel in open Baltic waters, raising tensions in the region.",
-  "category": "world",
-  "region": "global",
-  "importance": 6,
-  "sources": [
-   {
-    "name": "BBC",
-    "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo"
-   }
-  ],
-  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4c4/live/1934a9b0-deb3-11f1-8fb5-a771a656a227.jpg",
-  "publishedAt": "2026-11-12T20:09:16.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "ad65b1df0165340e",
-  "headline": "Sixers prevail as Ellyse Perry run-out sparks debate",
-  "summary": "The Sydney Sixers won their WBBL match despite a controversial run-out of star all-rounder Ellyse Perry, after a replay on the big screen prompted umpires to overturn the original decision.",
-  "category": "sport",
-  "region": "australia",
-  "importance": 4,
-  "sources": [
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-13/sydney-sixers-ellyse-perry-wbbl-run-out/107380950"
-   }
-  ],
-  "publishedAt": "2026-11-12T20:07:28.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "5aaf00cf20cab286",
-  "headline": "South Australia permits gas use for data centre power",
-  "summary": "The South Australian government gave approval for gas to be used in powering data centres, stating it is acceptable despite the state’s renewable-energy strategy, aiming to support the sector’s growth.",
-  "category": "business",
-  "region": "australia",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-13/sa-gives-green-light-for-gas-to-power-data-centres/107364606"
-   }
-  ],
-  "publishedAt": "2026-11-12T20:06:25.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "79b735b2c9941402",
-  "headline": "Home affairs minister weighs backtrack on backpacker visa changes",
-  "summary": "Minister Tony Burke is considering reversing the government’s recent backpacker visa policy announced two months ago, amid ongoing debate over its impact on the sector.",
-  "category": "politics",
-  "region": "australia",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-13/federal-politics-live-blog-backpacker-visas/107380962"
-   }
-  ],
-  "publishedAt": "2026-11-12T20:05:55.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "28e91f606bd54559",
-  "headline": "Kalshi ends advisory role for Donald Trump Jr amid political scrutiny",
-  "summary": "Prediction-market platform Kalshi announced that Donald Trump Jr is no longer a paid adviser, describing the split as a mutual business decision. The move follows the former president’s investment firm increasing its stake in rival Polymarket, prompting Democrats to signal investigations into Trump family investments.",
-  "category": "business",
-  "region": "global",
-  "importance": 6,
-  "sources": [
-   {
-    "name": "Financial Times",
-    "url": "https://www.ft.com/content/1352ac24-bdd6-4093-9ebd-7b27b6fd29d3"
-   },
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/us-news/2026/nov/12/donald-trump-jr-kalshi"
-   },
-   {
-    "name": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/donald-trump-jr-exits-kalshi-advisory-role.html"
-   }
-  ],
-  "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6e6d36d0-4d8f-4745-913c-9594fc37f6c6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-  "publishedAt": "2026-11-12T20:03:57.000Z",
-  "createdAt": "2026-11-13T02:42:27.892Z"
- },
- {
-  "id": "2d9cb51c296a9417",
-  "headline": "AFLW star says she won’t settle as Hawthorn eye semi-final",
-  "summary": "AFLW player Jenna Richardson says she does not want to settle, as her Hawthorn side prepares for a semi-final rematch against Carlton.",
-  "category": "sport",
-  "region": "australia",
-  "importance": 3,
-  "sources": [
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-13/hawthorn-aflw-player-jenna-richardson-on-growth/107370002"
-   }
-  ],
-  "publishedAt": "2026-11-12T19:53:48.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "14cc6edb6f994e06",
-  "headline": "Only four ministers achieve net savings this year",
-  "summary": "An analysis shows that out of all government ministers, only four have recorded net savings so far this year as the administration pushes cost-cutting ahead of the mid-year budget update.",
-  "category": "politics",
-  "region": "australia",
-  "importance": 6,
-  "sources": [
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-13/which-ministers-have-achieved-net-savings-this-year/107377958"
-   }
-  ],
-  "publishedAt": "2026-11-12T19:48:27.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "8b92047b91efbeb8",
-  "headline": "Midwife to halve caseload under new homebirth scheme",
-  "summary": "Jenny Spencer says a new federal insurance scheme that only covers some private midwives for homebirth will force her to cut her client list in half, limiting access to homebirth services.",
-  "category": "health",
-  "region": "australia",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-13/nsw-health-minister-homebirth-insurance-change/107374078"
-   }
-  ],
-  "publishedAt": "2026-11-12T19:47:44.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "5d49e2336f9b963f",
-  "headline": "US Treasury to hire debt collectors for student-loan defaults",
-  "summary": "The Treasury Department proposes paying debt collectors reduced fees to pursue borrowers who have defaulted on student loans, marking the first such hiring in six years.",
-  "category": "economy",
-  "region": "global",
-  "importance": 4,
-  "sources": [
-   {
-    "name": "MarketWatch",
-    "url": "https://www.marketwatch.com/story/trump-administration-is-hiring-debt-collectors-for-first-time-in-6-years-to-go-after-defaulted-student-loan-borrowers-8bae13ad"
-   }
-  ],
-  "imageUrl": "https://images.mktw.net/im-75780824",
-  "publishedAt": "2026-11-12T19:46:00.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "6d481ebd685973f6",
-  "headline": "Department store decline reshapes future of shopping",
-  "summary": "Analysts examine how the fading of traditional department stores and the rise of online trade could affect physical retail spaces and consumer habits moving forward.",
-  "category": "business",
-  "region": "australia",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-13/david-jones-department-stores-decline-retail-future/107376858"
-   }
-  ],
-  "publishedAt": "2026-11-12T19:44:53.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "f3afb719b4a4d5c8",
-  "headline": "Seniors, carers cards to move onto Service Queensland app",
-  "summary": "Queensland's state government will add seniors, carers and companion cards to the Service Queensland app, prompting concerns about increased digitisation of essential services.",
-  "category": "politics",
-  "region": "australia",
-  "importance": 4,
-  "sources": [
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-13/qld-seniors-cards-services-app/107372120"
-   }
-  ],
-  "publishedAt": "2026-11-12T19:34:21.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "412d399be492d8b3",
-  "headline": "David Jones store closures linked to outer-suburb financial strain",
-  "summary": "Experts say the financial pressure in outer suburbs contributed to David Jones' decision to shut 19 stores, ending a 188-year retail legacy.",
-  "category": "business",
-  "region": "australia",
-  "importance": 6,
-  "sources": [
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-13/nsw-david-jones-sydney-store-closure-suburban-economic-strain/107380310"
-   }
-  ],
-  "publishedAt": "2026-11-12T19:33:29.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "de6a60fa78f05400",
-  "headline": "Four Victorians named in Australian of the Year awards",
-  "summary": "Four individuals from Victoria have been announced as nominees for the Australian of the Year awards, including a pancreatic cancer advocate whose late husband played for the Hawks.",
-  "category": "other",
-  "region": "australia",
-  "importance": 3,
-  "sources": [
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-13/australian-of-the-year-victorian-winners/107379768"
-   }
-  ],
-  "publishedAt": "2026-11-12T19:27:18.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "31c85ec9688e66b3",
-  "headline": "Fed to skip interest-rate vote at October 2027 meeting",
-  "summary": "The US Federal Reserve announced that its October 2027 policy meeting will be a non-voting session, providing extra time for deliberation without a formal rate decision or post-meeting statement. Seven voting meetings are planned for the next year.",
-  "category": "markets",
-  "region": "global",
-  "importance": 8,
-  "sources": [
-   {
-    "name": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html"
-   }
-  ],
-  "publishedAt": "2026-11-12T19:05:25.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "5d3d641696e54ba1",
-  "headline": "Geelong residents decry unfulfilled election promises",
-  "summary": "A Geelong mother says the city has seen promised projects scrapped, delayed or ignored, raising concerns that voters may punish parties that fail to deliver on election pledges.",
-  "category": "politics",
-  "region": "australia",
-  "importance": 3,
-  "sources": [
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-13/geelong-city-of-broken-promises-victoria/107376226"
-   }
-  ],
-  "publishedAt": "2026-11-12T19:04:38.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "fb92f1672ed05cbb",
-  "headline": "Nearly 2,000 tonnes of farmed salmon die in Tasmania’s Macquarie Harbour",
-  "summary": "Data shows almost 2,000 tonnes of farmed salmon perished over a 15-month period in Macquarie Harbour on Tasmania’s west coast, prompting calls for investigation into the cause of the mass mortality.",
-  "category": "other",
-  "region": "australia",
-  "importance": 3,
-  "sources": [
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-13/salmon-deaths-macquarie-harbour-tasmania-rti/107379706"
-   }
-  ],
-  "publishedAt": "2026-11-12T19:00:10.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "ee5004c9c62a4fbf",
-  "headline": "Brisbane ferry terminal closure sparks anger among commuters and retailers",
-  "summary": "The shutdown of a busy ferry terminal in Brisbane has left commuters scrambling for alternatives and local businesses reporting lost sales, describing the temporary arrangements as a “schemozzle”.",
-  "category": "business",
-  "region": "australia",
-  "importance": 3,
-  "sources": [
-   {
-    "name": "SMH",
-    "url": "https://www.smh.com.au/national/queensland/missing-buses-lost-sales-ferry-terminal-closure-angers-bulimba-locals-20261113-p61d4v.html"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$zoom_0.5171%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/97779291adaaa31b6bf40ad3ff822d492c8c93ef",
-  "publishedAt": "2026-11-12T19:00:00.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "559c0820c4ace8c9",
-  "headline": "US envoys meet Putin in Moscow to discuss peace prospects",
-  "summary": "US representatives Steve Witkoff and Jared Kushner held talks with President Vladimir Putin in Moscow as part of renewed diplomatic efforts to end the Russia-Ukraine conflict.",
-  "category": "world",
-  "region": "global",
-  "importance": 7,
-  "sources": [
-   {
-    "name": "SMH",
-    "url": "https://www.smh.com.au/national/us-envoys-meet-putin-in-push-for-peace-20261113-p61dud.html"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/fb1828b8ed5ea12a00d4a057a3d2e13082e8eb82",
-  "publishedAt": "2026-11-12T18:52:02.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "5a0903a70b72c071",
-  "headline": "Building collapse in Brooklyn kills eight, including two children",
-  "summary": "A residential building in Brooklyn, New York, collapsed, killing eight people – two children and six adults – and injuring 18 others, with rescue crews working amid dangerous conditions.",
-  "category": "world",
-  "region": "global",
-  "importance": 7,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc"
-   },
-   {
-    "name": "SBS News",
-    "url": "https://www.sbs.com.au/news/article/eight-dead-after-brooklyn-apartment-building-collapses/ukwjoqat1"
-   },
-   {
-    "name": "SMH",
-    "url": "https://www.smh.com.au/national/at-least-eight-people-dead-in-new-york-building-collapse-20261113-p61dub.html"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/562b2b4dff5844c3569b043ff61b5e5ad345218f/509_71_4109_3287/master/4109.jpg?width=140&quality=85&auto=format&fit=max&s=bd9bf292cf33c1587045e8b11d8862a5",
-  "publishedAt": "2026-11-12T18:51:56.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "35055cbe41940aae",
-  "headline": "Woman shot in leg at Western Sydney home",
-  "summary": "Police responded to a domestic incident in Western Sydney where a woman sustained a gunshot wound to the leg. The investigation is ongoing.",
-  "category": "other",
-  "region": "australia",
-  "importance": 3,
-  "sources": [
-   {
-    "name": "SMH",
-    "url": "https://www.smh.com.au/national/woman-shot-at-sydney-home-20261113-p61dua.html"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/b95924a3cb9b50bb745829c16f4c99d0cb5d3788",
-  "publishedAt": "2026-11-12T18:51:53.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "740cd17a5316a56f",
-  "headline": "Hegseth receives medal after reprimanding guard at war memorial",
-  "summary": "Specialist Thomas Iglesias was awarded a medal after he shouted at a group for being noisy at the Tomb of the Unknown Soldier, an incident that drew public attention.",
-  "category": "other",
-  "region": "global",
-  "importance": 3,
-  "sources": [
-   {
-    "name": "BBC",
-    "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno"
-   },
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-13/hegseth-awards-soldier-who-scolded-him/107381222"
-   }
-  ],
-  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9916/live/a7c0bac0-dec7-11f1-a701-fddedf244c16.jpg",
-  "publishedAt": "2026-11-12T18:47:35.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "b07cb67471463f5d",
-  "headline": "Jobless Australians face uncertain next steps",
-  "summary": "A SBS feature outlines the challenges Australians encounter after losing employment, highlighting the financial and emotional hurdles that often follow a job loss.",
-  "category": "economy",
-  "region": "australia",
-  "importance": 4,
-  "sources": [
-   {
-    "name": "SBS News",
-    "url": "https://www.sbs.com.au/news/article/australia-redundancies-job-hunting-challenges/nmhso196h"
-   }
-  ],
-  "imageUrl": "https://assets.sbs.com.au/dims4/default/2ea8059/2147483647/strip/false/crop/6720x3088+0+1093/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Ff7%2Fcf%2F521725a74f79974344fd26e1fd72%2Fgettyimages-1253617221.jpg",
-  "publishedAt": "2026-11-12T18:38:32.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "02506b74e47622b6",
-  "headline": "UK ministers consider tightening NDA rules after Walliams allegations",
-  "summary": "The British government is reviewing legislation to restrict the use of non-disclosure agreements following a Guardian investigation into harassment claims involving TV personality David Walliams.",
-  "category": "politics",
-  "region": "global",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/tv-and-radio/2026/nov/12/uk-ministers-look-at-quick-ways-to-limit-ndas-after-walliams-allegations"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/0f1d36ea5f7633023c9700f06b5ac5ddc7f6d639/386_33_2853_2283/master/2853.jpg?width=140&quality=85&auto=format&fit=max&s=f2dd0ada682d01dd58961f928bea1c99",
-  "publishedAt": "2026-11-12T18:38:13.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "1773f59fc4162f86",
-  "headline": "Sydney artist Nick Ward releases experimental new album",
-  "summary": "Nick Ward, once tipped as the next Troye Sivan, launches a messy, unconventional album that showcases his evolving artistic direction.",
-  "category": "entertainment",
-  "region": "australia",
-  "importance": 3,
-  "sources": [
-   {
-    "name": "SMH",
-    "url": "https://www.smh.com.au/culture/music/he-could-ve-been-the-next-troye-sivan-but-nick-ward-is-trying-something-even-better-20261113-p61dn5.html"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$zoom_0.41880000000000006%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_304%2C$y_0/t_crop_custom/q_86%2Cf_auto/30b6888971a20b3b3e39449048befe0608693979",
-  "publishedAt": "2026-11-12T18:30:00.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "1d0f4ad339e2ecf7",
-  "headline": "Lewis Hamilton calls Gaza situation a genocide",
-  "summary": "Formula One champion Lewis Hamilton described the situation in Gaza as a genocide after visiting the Rafah border crossing. He urged Israel to allow aid trucks into Gaza, citing briefings he received from aid workers during his trip.",
-  "category": "world",
-  "region": "global",
-  "importance": 8,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/9f421ee9a5c3c6382f96f0224c1cede036b26ba6/1168_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=4f4fcb9c3636fdfba9468c15830cd3db",
-  "publishedAt": "2026-11-12T18:00:50.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "3f04c8269290e1ca",
-  "headline": "Super accounts not guaranteed against hacking theft",
-  "summary": "The Australian government does not guarantee superannuation accounts if they are stolen in a cyber-attack, though some coverage may still apply. The article clarifies common misconceptions about protection for super funds in the event of a hack.",
-  "category": "business",
-  "region": "australia",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "AFR",
-    "url": "https://www.afr.com/wealth/personal-finance/how-safe-is-my-super-if-it-is-stolen-in-a-hack-will-it-be-reimbursed-20261113-p61atl"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$zoom_0.5519%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/80d3f3964c8fb06547b836ef9a8541b1a05f193631d11a8b4728f57b285e9d2e",
-  "publishedAt": "2026-11-12T18:00:00.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "edf951de310e8d1c",
-  "headline": "AI firms could turn Australia into copyright tax haven",
-  "summary": "Former competition regulator Rod Sims warned that global AI companies may seek to exploit Australia as a low-tax hub for large-scale content theft. He highlighted concerns that the sector could attract firms looking to minimise copyright-related taxes.",
-  "category": "business",
-  "region": "australia",
-  "importance": 6,
-  "sources": [
-   {
-    "name": "AFR",
-    "url": "https://www.afr.com/companies/media-and-marketing/ai-firms-trying-to-turn-australia-into-copyright-tax-haven-rod-sims-20261113-p61dj2"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$zoom_0.5651268518518519%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_547%2C$y_202/t_crop_custom/q_86%2Cf_jpg/4a5e65713039f56bbfb88cde78275631ca1dd11c",
-  "publishedAt": "2026-11-12T18:00:00.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "884b4ea6596c8079",
-  "headline": "Housing minister Clare O’Neil linked to falling house prices",
-  "summary": "Housing Minister Clare O’Neil is portrayed as a ‘change agent’ amid the decline in Australian house prices. The piece examines whether the government should claim credit for the market downturn and the policy steps being considered.",
-  "category": "economy",
-  "region": "australia",
-  "importance": 6,
-  "sources": [
-   {
-    "name": "AFR",
-    "url": "https://www.afr.com/rear-window/clare-o-neil-is-change-agent-of-falling-house-prices-20261113-p61dl9"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$zoom_0.1631%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_193%2C$y_65/t_crop_custom/q_86%2Cf_auto/1401dcac5ece6d6530b5f54842a0b5ff63fe8f77",
-  "publishedAt": "2026-11-12T18:00:00.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "0226b514f6ae3a0c",
-  "headline": "Weight-loss drug retatrutide may relieve knee pain",
-  "summary": "Large-scale trials of the GLP-1 drug retatrutide suggest it can reduce knee pain in osteoarthritis patients. Researchers observed pain relief but remain uncertain about the underlying mechanism, noting the potential dual benefit of weight loss and joint comfort.",
-  "category": "health",
-  "region": "global",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "AFR",
-    "url": "https://www.afr.com/life-and-luxury/health-and-wellness/powerful-new-weight-loss-drug-may-also-ease-knee-pain-study-finds-20261113-p61do0"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$zoom_0.2759259259259259%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_21%2C$y_0/t_crop_custom/q_86%2Cf_auto/24aa4e06e06f53126834c1733edf8c9317b817db",
-  "publishedAt": "2026-11-12T18:00:00.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "21345cfe4fce2dbf",
-  "headline": "Greens push for public naming of trust beneficiaries",
-  "summary": "The Greens are demanding that beneficiaries of discretionary trusts be publicly disclosed as part of a deal to support Labor’s budget plan to impose a 30% tax on such trusts. They argue transparency will aid tax fairness.",
-  "category": "politics",
-  "region": "australia",
-  "importance": 6,
-  "sources": [
-   {
-    "name": "AFR",
-    "url": "https://www.afr.com/policy/tax-and-super/greens-demand-public-naming-of-1m-trust-beneficiaries-to-pass-30pc-tax-20261113-p61dod"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$zoom_0.263%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_164%2C$y_0/t_crop_custom/q_86%2Cf_auto/9476e1d9ce1f6ced258c78893e23dd1a63855903",
-  "publishedAt": "2026-11-12T18:00:00.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "1296acafc82733d1",
-  "headline": "EV and battery subsidies face review, Bowen says",
-  "summary": "Energy Minister Chris Bowen confirmed that Australia’s electric-vehicle and home-battery subsidy programmes are under review, but he ruled out an immediate withdrawal of support. The review aims to assess the schemes’ effectiveness amid fiscal pressures.",
-  "category": "economy",
-  "region": "australia",
-  "importance": 6,
-  "sources": [
-   {
-    "name": "AFR",
-    "url": "https://www.afr.com/politics/federal/bowen-confirms-ev-and-battery-subsidies-in-firing-line-20261113-p61dtu"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$zoom_0.1853%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_142%2C$y_0/t_crop_custom/q_86%2Cf_auto/c30811f6295220daed9bae14d3300986708e6d0c",
-  "publishedAt": "2026-11-12T18:00:00.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "7e5d06dcc0a7e4b8",
-  "headline": "Doctors warn of recurring critical drug shortages",
-  "summary": "Australian doctors have highlighted frequent shortages of essential medicines, pointing to supply-chain weaknesses that could worsen. The analysis underscores the need for stronger procurement and inventory strategies to ensure reliable access to critical drugs.",
-  "category": "health",
-  "region": "australia",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-13/repeated-critical-medicine-shortages-new-analysis/107242432"
-   }
-  ],
-  "publishedAt": "2026-11-12T18:00:00.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "a85b9e04d89e6502",
-  "headline": "Australians keep spending despite cost-of-living pressure",
-  "summary": "Many Australians continue to spend on non-essential items even as they feel the pinch of a cost-of-living crunch. Analysts suggest the behaviour reflects deeper psychological factors rather than pure irrationality.",
-  "category": "lifestyle",
-  "region": "australia",
-  "importance": 4,
-  "sources": [
-   {
-    "name": "SMH",
-    "url": "https://www.smh.com.au/business/the-economy/we-re-supposed-to-be-struggling-yet-we-re-spending-more-why-20261113-p61czy.html"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$zoom_0.3254%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_1/t_crop_custom/q_86%2Cf_auto/aa86ce9ca4df557c443bd0b9e0b128354e170794f86160d405ad3b4acb5d3511",
-  "publishedAt": "2026-11-12T18:00:00.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "ce745c433822c2bd",
-  "headline": "Rupert Murdoch appears at New York event",
-  "summary": "Media mogul Rupert Murdoch made a high-profile appearance at a New York function, after which former employee Siobhan McKenna hosted a farewell gathering before departing for the same city.",
-  "category": "business",
-  "region": "australia",
-  "importance": 4,
-  "sources": [
-   {
-    "name": "SMH",
-    "url": "https://www.smh.com.au/business/companies/rupert-murdoch-makes-a-death-defying-appearance-20261113-p61d9m.html"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_295%2C$y_0/t_crop_custom/q_86%2Cf_auto/9463a7c867f43600edb8a3618399f8c6a1f5cc82",
-  "publishedAt": "2026-11-12T18:00:00.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "395af39d376e5e9b",
-  "headline": "Metricon relocates head office to Ferntree Business Park",
-  "summary": "Australia’s largest home builder Metricon is shifting its headquarters to Ferntree Business Park in Notting Hill, expanding its footprint as it continues to grow its national presence.",
-  "category": "business",
-  "region": "australia",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "SMH",
-    "url": "https://www.smh.com.au/business/companies/australia-s-biggest-home-builder-gets-itself-a-bigger-home-20261113-p61dkj.html"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$zoom_0.3502%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_174/t_crop_custom/q_86%2Cf_auto/068b2710ef4e2f74a600a84ef82067c920b7733d",
-  "publishedAt": "2026-11-12T18:00:00.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "9e6816b2422d51fb",
-  "headline": "Heritage home demolition sparks controversy in inner west",
-  "summary": "The demolition of a turn-of-the-century house in Sydney’s inner west has provoked public outcry and reignited debate over heritage protection versus housing development.",
-  "category": "property",
-  "region": "australia",
-  "importance": 4,
-  "sources": [
-   {
-    "name": "SMH",
-    "url": "https://www.smh.com.au/property/living/renovate-or-detonate-how-two-heritage-homes-had-very-different-fates-20261113-p619sy.html"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$zoom_0.654107473749228%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/041fa35aa967135326be6f822d1841a1a92a3060",
-  "publishedAt": "2026-11-12T18:00:00.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "7c4a4091ebef99f6",
-  "headline": "Usman Khawaja’s Sandpapergate revelations reignite cricket scandal debate",
-  "summary": "Former Australian captain Usman Khawaja’s disclosures about the Sandpapergate incident have resurfaced, prompting renewed scrutiny of the cricket board’s handling of the controversy eight years on.",
-  "category": "sport",
-  "region": "australia",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "ABC Sport",
-    "url": "https://www.abc.net.au/news/2026-11-13/cricket-australia-response-sandpaper-error-usman-khawaja-book/107378542"
-   }
-  ],
-  "publishedAt": "2026-11-12T18:00:00.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "071f43dc7a77155c",
-  "headline": "Duran Duran drummer Roger Taylor quits over worsening tinnitus",
-  "summary": "Roger Taylor, the long-standing drummer for Duran Duran, announced his departure from the band, citing severe tinnitus that forces him to prioritise his health.",
-  "category": "entertainment",
-  "region": "global",
-  "importance": 3,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/music/2026/nov/12/duran-duran-drummer-roger-taylor-leaves-band-due-to-tinnitus"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/b2547339d360dadcd2623b61529bb331a875d26c/793_174_692_553/master/692.jpg?width=140&quality=85&auto=format&fit=max&s=6e5bbfe909c0d6946a3c44b0966b5606",
-  "publishedAt": "2026-11-12T17:44:44.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "1052c884439c38ed",
-  "headline": "German military grounds Quantum Systems drones after cyber attack",
-  "summary": "German armed forces have grounded drones from start-up Quantum Systems following a cyber-attack, marking the latest European defence firm to face security breaches.",
-  "category": "tech",
-  "region": "global",
-  "importance": 6,
-  "sources": [
-   {
-    "name": "Financial Times",
-    "url": "https://www.ft.com/content/783504cd-aa28-453a-a223-7a34eee86ce8"
-   }
-  ],
-  "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2e460e7d-310e-4c69-997e-8e25ef1a86d3.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-  "publishedAt": "2026-11-12T17:32:13.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "8058e7298c8df80b",
-  "headline": "Putin warns US of targeting foreign troops as Starlink disruptions continue",
-  "summary": "President Vladimir Putin told US negotiators that Russia would target any foreign troops sent to Ukraine, while also noting renewed disruptions to Elon Musk’s Starlink service for Ukrainian forces.",
-  "category": "world",
-  "region": "global",
-  "importance": 8,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/00948ad10d38976117c45566fb6a392bcf3bb3b5/197_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=bc24ba4c55bc400bf67c2fe746d0ae70",
-  "publishedAt": "2026-11-12T17:26:51.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "10a8fe69862971db",
-  "headline": "US home sales drop to lowest level since 2010",
-  "summary": "US home sales have fallen to their lowest level since 2010 as higher mortgage rates curb buyer demand. The slowdown reflects the impact of rising borrowing costs on the housing market, deepening the existing slump in transactions.",
-  "category": "economy",
-  "region": "global",
-  "importance": 7,
-  "sources": [
-   {
-    "name": "Financial Times",
-    "url": "https://www.ft.com/content/1e08661e-1db0-4ff7-8236-77254bb05790"
-   },
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low"
-   }
-  ],
-  "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbf2af41a-0e53-40d5-a413-cbf510a03eb6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-  "publishedAt": "2026-11-12T17:26:07.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "616a967506a3c990",
-  "headline": "IRS raises 2027 401(k) contribution limits",
-  "summary": "The US Internal Revenue Service announced higher contribution caps for 401(k) plans in 2027, allowing savers to increase their retirement savings.",
-  "category": "economy",
-  "region": "global",
-  "importance": 6,
-  "sources": [
-   {
-    "name": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/401k-contribution-limits-2027.html"
-   }
-  ],
-  "publishedAt": "2026-11-12T17:23:14.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "b2e4967d2aa7b03f",
-  "headline": "Greta Thunberg condemns governments at Cop31 climate summit",
-  "summary": "At the UN climate summit in Antalya, Greta Thunberg accused world leaders of killing the planet, urging stronger action to halt environmental breakdown.",
-  "category": "world",
-  "region": "global",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/environment/2026/nov/12/greta-thunberg-cop31-climate-summit"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/45cab90b0823fe89c215631d07f63131095780d3/521_0_4240_3392/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=7cfa06cdcb4667eba9b5bc5076513530",
-  "publishedAt": "2026-11-12T16:39:47.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "a9f53155849b203b",
-  "headline": "Australian home sales hit 16-year low as prices soar",
-  "summary": "October home sales fell to the lowest level since the Great Recession, with buyers retreating amid 7 % mortgage rates and all-time high property prices, marking a sharp slowdown in the market.",
-  "category": "property",
-  "region": "australia",
-  "importance": 7,
-  "sources": [
-   {
-    "name": "MarketWatch",
-    "url": "https://www.marketwatch.com/story/home-sales-plummet-to-lowest-level-since-the-great-recession-as-buyers-flee-the-market-624e6270"
-   }
-  ],
-  "imageUrl": "https://images.mktw.net/im-33452454",
-  "publishedAt": "2026-11-12T15:52:00.000Z",
-  "createdAt": "2026-11-12T16:12:35.449Z"
- },
- {
-  "id": "391a48fb5c836354",
-  "headline": "Florida St Patrick’s Day parade cancelled after anti-DEI law",
-  "summary": "Delray Beach announced the cancellation of its popular St Patrick’s Day parade to comply with a new Florida law that bars municipalities from hosting events deemed to promote diversity, equity and inclusion, sparking public outrage.",
-  "category": "politics",
-  "region": "global",
-  "importance": 3,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/us-news/2026/nov/12/florida-st-patricks-day-parade-cancelled-dei"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/434830d18838eec0b1c561c5605e013201a360ba/0_0_2190_1753/master/2190.jpg?width=140&quality=85&auto=format&fit=max&s=e1c0043d6d02cabbc778723b569897f7",
-  "publishedAt": "2026-11-12T15:51:29.000Z",
-  "createdAt": "2026-11-12T16:12:35.449Z"
- },
- {
-  "id": "dd8c46ae79ace002",
-  "headline": "Gunman kills one and injures four in Washington DC shooting",
-  "summary": "A shooter opened fire near the White House, killing a person at a gym and wounding four others. Police later contained the suspect, who shot himself. The incident shifted from an active-shooter response to a barricaded-subject operation, with authorities urging residents to stay indoors.",
-  "category": "world",
-  "region": "global",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates"
-   },
-   {
-    "name": "SMH",
-    "url": "https://www.smh.com.au/world/north-america/five-shot-in-washington-dc-active-shooter-barricaded-inside-building-20261113-p61dtn.html"
-   },
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-13/active-shooter-in-washington-dc-near-logan-circle/107380770"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/3e96d892fd128af4a596c9b1883c06409042a1e0/275_0_4405_3525/master/4405.jpg?width=140&quality=85&auto=format&fit=max&s=3934f242f1acb83fadc80aa3af1e3736",
-  "publishedAt": "2026-11-12T15:46:37.000Z",
-  "createdAt": "2026-11-12T16:12:35.449Z"
- },
- {
-  "id": "427f3fff58e17132",
-  "headline": "US bill proposes Medicare eligibility at age 50",
-  "summary": "Legislation under consideration would lower the Medicare eligibility age from 65 to 50, extending coverage to about 60 million American workers. The proposal, distinct from Medicare-for-All, aims to broaden health security for mid-career adults.",
-  "category": "politics",
-  "region": "global",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "MarketWatch",
-    "url": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3"
-   }
-  ],
-  "imageUrl": "https://images.mktw.net/im-17509627",
-  "publishedAt": "2026-11-12T15:40:00.000Z",
-  "createdAt": "2026-11-12T16:12:35.449Z"
- },
- {
-  "id": "f41a31c537a4f0c1",
-  "headline": "Disney partners with Cosm to bring Star Wars to dome theatres",
-  "summary": "Cosm secured a multi-year film deal with Disney, bringing \"Star Wars: A New Hope\" and future titles to its dome venues as part of a broader collaboration.",
-  "category": "entertainment",
-  "region": "global",
-  "importance": 4,
-  "sources": [
-   {
-    "name": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/star-wars-cosm-dome-screenings.html"
-   }
-  ],
-  "publishedAt": "2026-11-12T15:36:02.000Z",
-  "createdAt": "2026-11-12T16:12:35.449Z"
- },
- {
-  "id": "10d0243dcafdc44f",
-  "headline": "Yankees chief backs college sports legislation, discusses MLB talks",
-  "summary": "New York Yankees president Randy Levine urged support for the Protect College Sports Act, which would allow athletes to profit from their name, image and likeness. He also commented on ongoing labour negotiations between Major League Baseball and the players’ union, highlighting the sport’s economic challenges.",
-  "category": "politics",
-  "region": "global",
-  "importance": 3,
-  "sources": [
-   {
-    "name": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/yankees-randy-levine-discusses-college-sports-bill-mlb-labor-deal.html"
-   }
-  ],
-  "publishedAt": "2026-11-12T15:34:31.000Z",
-  "createdAt": "2026-11-12T16:24:12.712Z"
- },
- {
-  "id": "537f6e66dfbe0f7d",
-  "headline": "European leaders reject Russian push to overhaul continent’s security",
-  "summary": "EU heads pushed back against Moscow’s proposal to revamp European security structures, with Ukrainian President Zelenskyy warning of heightened risks as talks continue in Abu Dhabi.",
-  "category": "world",
-  "region": "global",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "Financial Times",
-    "url": "https://www.ft.com/content/8d28a5be-af56-421f-a33d-779a0fcc7ad4"
-   }
-  ],
-  "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3ad8345e-021d-4b77-9052-2d85c34a1bef.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-  "publishedAt": "2026-11-12T15:30:49.000Z",
-  "createdAt": "2026-11-12T16:12:35.449Z"
- },
- {
-  "id": "81ef48c7c051e350",
-  "headline": "Nebius shares tumble 16% after weak 2026 capex outlook",
-  "summary": "Nebius fell 16 % on the market after issuing a cautious outlook for 2026 capital expenditure, lagging behind peers IREN and CoreWeave that posted stronger recent results.",
-  "category": "markets",
-  "region": "global",
-  "importance": 4,
-  "sources": [
-   {
-    "name": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html"
-   }
-  ],
-  "publishedAt": "2026-11-12T15:27:41.000Z",
-  "createdAt": "2026-11-12T16:12:35.449Z"
- },
- {
-  "id": "41630a5fa7ac71f0",
-  "headline": "MSF says millions of Ebola aid funds missing, staff unpaid",
-  "summary": "Médecins Sans Frontières warned that large sums of Ebola relief money are unaccounted for, leaving medical staff without pay, training or essential supplies as the virus continues to spread.",
-  "category": "health",
-  "region": "global",
-  "importance": 6,
-  "sources": [
-   {
-    "name": "BBC",
-    "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo"
-   }
-  ],
-  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4358/live/fa767be0-de8d-11f1-9afe-1f03bfe02283.jpg",
-  "publishedAt": "2026-11-12T15:18:20.000Z",
-  "createdAt": "2026-11-12T16:12:35.449Z"
- },
- {
-  "id": "bfbfe9f6c5d28603",
-  "headline": "Employer-backed home purchases rise as housing affordability worsens",
-  "summary": "A MarketWatch survey notes an increase in first-time buyers receiving financial assistance from their employers, highlighting the growing difficulty of purchasing a home even for those with stable jobs.",
-  "category": "property",
-  "region": "australia",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "MarketWatch",
-    "url": "https://www.marketwatch.com/story/need-money-for-a-down-payment-more-employers-are-offering-to-help-59c57da3"
-   }
-  ],
-  "imageUrl": "https://images.mktw.net/im-55718088",
-  "publishedAt": "2026-11-12T15:13:00.000Z",
-  "createdAt": "2026-11-12T16:12:35.449Z"
- },
- {
-  "id": "f4913d482cb1a783",
-  "headline": "Oil prices mixed after Trump says Iran deal not needed",
-  "summary": "Crude futures moved sideways on Thursday following President Donald Trump’s comments that a U.S.–Iran agreement was unnecessary, sparking concerns the conflict could continue.",
-  "category": "markets",
-  "region": "global",
-  "importance": 6,
-  "sources": [
-   {
-    "name": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html"
-   }
-  ],
-  "publishedAt": "2026-11-12T15:08:45.000Z",
-  "createdAt": "2026-11-12T16:12:35.449Z"
- },
- {
-  "id": "5200ecc1850cab0f",
-  "headline": "Mortgage rates 7% in 1997, but housing costs now higher proportion of income",
-  "summary": "A CNBC analysis shows that although mortgage rates were 7 % in 1997, today’s typical home consumes a much larger share of household earnings, making home buying feel more expensive despite similar rates.",
-  "category": "economy",
-  "region": "global",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "CNBC",
-    "url": "https://www.cnbc.com/make-it/2026/11/12/mortgage-rates-home-affordability-1997.html"
-   }
-  ],
-  "publishedAt": "2026-11-12T15:00:01.000Z",
-  "createdAt": "2026-11-12T16:12:35.449Z"
- },
- {
-  "id": "3fa3507e0a6864fa",
-  "headline": "Nvidia CEO Jensen Huang resigns amid scandal",
-  "summary": "Jensen Huang stepped down as Nvidia chief executive after an affair with an employee alleged to be a Chinese spy. Shares fell up to 10%, wiping tens of billions from market value. Colette Kress was named interim CEO and Huang’s $140 billion stake, held jointly with his wife, adds uncertainty.",
-  "category": "business",
-  "region": "global",
-  "importance": 8,
-  "sources": [
-   {
-    "name": "CNBC",
-    "url": "https://www.cnbc.com/investingclub/2026/11/12/it-had-to-happen-jim-cramer-on-the-resignation-of-nvidia-ceo-jensen-huang.html"
-   },
-   {
-    "name": "AFR",
-    "url": "https://www.afr.com/politics/federal/australia-news-live-updates-nvidia-shares-plunge-again-as-default-risk-nears-record-high-20261113-p61dtm"
-   },
-   {
-    "name": "SMH",
-    "url": "https://www.smh.com.au/technology/nvidia-ceo-jensen-huang-resigns-after-affair-scandal-20261113-p61dto.html"
-   },
-   {
-    "name": "Financial Times",
-    "url": "https://www.ft.com/content/fa23a8ad-29bf-4971-aa44-6b25b247c193"
-   },
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-13/nvidia-founder-jensen-huang-resigns/107376470"
-   },
-   {
-    "name": "BBC",
-    "url": "https://www.bbc.co.uk/news/videos/cqz0k70990zpo"
-   },
-   {
-    "name": "MarketWatch",
-    "url": "https://www.marketwatch.com/story/nvidia-is-spending-more-than-ever-on-washington-lobbying-it-still-may-not-be-able-to-stop-congress-from-limiting-its-china-chip-sales-now-d4c34c66"
-   },
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns"
-   },
-   {
-    "name": "SBS News",
-    "url": "https://www.sbs.com.au/news/article/nvidia-ceo-steps-down-affair-scandal/mylcdn60f"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$zoom_0.946%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_153%2C$y_29/t_crop_custom/q_86%2Cf_auto/02c72a47c9bbe559202c82cd13ff7620ed2432db",
-  "publishedAt": "2026-11-12T14:48:09.000Z",
-  "createdAt": "2026-11-12T16:12:35.449Z"
- },
- {
-  "id": "71418c44a299a008",
-  "headline": "Farage appears on Russell Brand podcast, criticises Labour",
-  "summary": "Reform UK leader Nigel Farage featured on Russell Brand’s US podcast, condemning the Labour party for “cosying up” to the comedian after Brand’s recent sexual-assault conviction.",
-  "category": "politics",
-  "region": "global",
-  "importance": 4,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/politics/2026/nov/12/farage-was-guest-on-brand-podcast-after-sexual-assault-investigation-began"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/40558422c7bc4a345d47ed741577d0799be3ec8d/493_319_3988_3191/master/3988.jpg?width=140&quality=85&auto=format&fit=max&s=7c03989a49339809d21dd7b6e7bcbd1e",
-  "publishedAt": "2026-11-12T14:30:17.000Z",
-  "createdAt": "2026-11-12T16:12:35.449Z"
- },
- {
-  "id": "c39c70990d3e95db",
-  "headline": "UK health agency warns low meningitis B vaccine uptake among teens",
-  "summary": "UKHSA says only 28% of 18- and 19-year-olds have received the first dose in a one-off campaign, amid an outbreak that caused three deaths and serious illness.",
-  "category": "health",
-  "region": "global",
-  "importance": 4,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/society/2026/nov/12/time-running-out-young-people-meningitis-b-vaccines-uk"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/5933f141c2d2f0c5b81d6ddb525b6016cd588787/403_0_2367_1894/master/2367.jpg?width=140&quality=85&auto=format&fit=max&s=3d63cba933117cd02f210d3b831c808d",
-  "publishedAt": "2026-11-12T14:16:18.000Z",
-  "createdAt": "2026-11-12T16:12:35.449Z"
- },
- {
-  "id": "f00ddb6c54362bf3",
-  "headline": "Mississippi’s last black senators before Scott Colom highlighted",
-  "summary": "The piece recalls the two black men who served as US senators from Mississippi before Scott Colom, the first black senator from the state since 1874.",
-  "category": "politics",
-  "region": "global",
-  "importance": 3,
-  "sources": [
-   {
-    "name": "BBC",
-    "url": "https://www.bbc.co.uk/news/articles/cmde1y19g19do"
-   },
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump"
-   }
-  ],
-  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9195/live/8aa36db0-de8c-11f1-9afe-1f03bfe02283.png",
-  "publishedAt": "2026-11-12T14:12:55.000Z",
-  "createdAt": "2026-11-12T16:12:35.449Z"
- },
- {
-  "id": "f093566cb4c2c090",
-  "headline": "Trump threatens to double tariffs on Mexico over illegal immigration",
-  "summary": "President Trump says levies will increase if Mexico does not curb illegal crossings, signalling a possible escalation in trade tensions.",
-  "category": "politics",
-  "region": "global",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "Financial Times",
-    "url": "https://www.ft.com/content/b4bb6e99-97c8-4392-a227-b7b74853ba26"
-   }
-  ],
-  "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F83829b00-5d31-4726-93ca-98e50fee88f9.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-  "publishedAt": "2026-11-12T14:12:20.000Z",
-  "createdAt": "2026-11-12T16:12:35.449Z"
- },
- {
-  "id": "49618b8c67116b65",
-  "headline": "Two men convicted of aiding Iran in plot against UK journalists",
-  "summary": "Men of Iranian origin were found guilty of conducting surveillance for Tehran’s intelligence services to facilitate violence against UK-based journalists between 2024 and 2025.",
-  "category": "world",
-  "region": "global",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/3de1032b43ea112cddfd255faa0e038c469f9729/537_0_3947_3160/master/3947.jpg?width=140&quality=85&auto=format&fit=max&s=c99f7bf49b1c360d215904daa6c93878",
-  "publishedAt": "2026-11-12T14:07:42.000Z",
-  "createdAt": "2026-11-12T16:12:35.449Z"
- },
- {
-  "id": "abcda96395f58a9f",
-  "headline": "Australian federal police warn of surge in teen extremist material",
-  "summary": "AFP says 32 of 37 youths prosecuted for extremist offences were charged in the past two years, with many found possessing “hard drives full of gore”.",
-  "category": "politics",
-  "region": "australia",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/australia-news/2026/nov/13/australia-surge-in-teen-extremism-ntwnfb"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/73d8f7306ac81a98efc7615dd99b04af35587a1e/554_0_5211_4171/master/5211.jpg?width=140&quality=85&auto=format&fit=max&s=75d8bbcc5e5dc6e1e1bb5611b8caad67",
-  "publishedAt": "2026-11-12T14:00:45.000Z",
-  "createdAt": "2026-11-12T16:12:35.449Z"
- },
- {
-  "id": "8dba574c395207ec",
-  "headline": "New allegations emerge against convicted rapist Ralph Carr",
-  "summary": "Former staffers detail unwanted sexual advances by Melbourne talent manager Ralph Carr, who was previously found guilty of raping an ex-employee.",
-  "category": "other",
-  "region": "australia",
-  "importance": 4,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/nov/13/ralph-carr-convicted-rapist-new-allegations-sexual-touching-ntwnfb"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/2edc2936ffee25365c9eceb3888279158b83c43a/0_226_2000_1599/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=29cb5a8d31447507c53c6b4ab505e878",
-  "publishedAt": "2026-11-12T14:00:45.000Z",
-  "createdAt": "2026-11-12T16:12:35.449Z"
- },
- {
-  "id": "1937161d230fefe2",
-  "headline": "NSW ICAC report highlights ‘guns for hire’ issue, calls for reform",
-  "summary": "The corruption watchdog’s inquiry reveals ease of undeclared lobbying and gun-for-hire problems, criticising both major parties for inaction on recommended reforms.",
-  "category": "politics",
-  "region": "australia",
-  "importance": 4,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/australia-news/2026/nov/13/icac-chris-minns-nsw-undeclared-lobbying-bill-ntwnfb"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/cbb577c399c0993101f20d08d1df77d73e9c3275/2537_1001_2478_1983/master/2478.jpg?width=140&quality=85&auto=format&fit=max&s=7b7dafb167d3a2278aefabf59d31e573",
-  "publishedAt": "2026-11-12T14:00:44.000Z",
-  "createdAt": "2026-11-12T16:12:35.449Z"
- },
- {
-  "id": "b564aa40ba29833c",
-  "headline": "NSW Labor runs 'news' Instagram account, raising communication law concerns",
-  "summary": "A new Instagram account presenting itself as an independent news source is being operated by the NSW Labor party. Experts warn it exploits a loophole in political communication rules, as the state government and other parties also use similar unaffiliated accounts to share partisan content.",
-  "category": "politics",
-  "region": "australia",
-  "importance": 6,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/australia-news/2026/nov/13/nsw-newsroom-instagram-account-labor-party"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/ce452a6a1cca19fc2f3d127d3f9a6b0d9cc0b712/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d5b617804005c142e701a205d408ebae",
-  "publishedAt": "2026-11-12T14:00:42.000Z",
-  "createdAt": "2026-11-12T16:12:35.449Z"
- },
- {
-  "id": "1b04680d6da9c03f",
-  "headline": "Eight killed in Colombian air strike on Gulf Clan gang",
-  "summary": "A Colombian air strike targeting the Gulf Clan gang resulted in eight deaths, including a high-profile gang leader identified as a priority target by the president.",
-  "category": "world",
-  "region": "global",
-  "importance": 6,
-  "sources": [
-   {
-    "name": "BBC",
-    "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno"
-   }
-  ],
-  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cf6/live/b6195780-de9a-11f1-a701-fddedf244c16.jpg",
-  "publishedAt": "2026-11-12T13:58:49.000Z",
-  "createdAt": "2026-11-12T22:18:43.395Z"
- },
- {
-  "id": "abe28bc266b11caf",
-  "headline": "Poundland granted two-week extension to secure buyer",
-  "summary": "UK discount retailer Poundland has received a high-court order extending its creditor protection by two weeks while it seeks a new owner. The move gives the chain, which employs about 12,000 staff, more time to evaluate bids from three potential purchasers.",
-  "category": "business",
-  "region": "global",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/business/2026/nov/12/poundland-owner-secures-two-extra-weeks-ensure-retail-chains-survival"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/5912a89d0665235ae256c69b013fe2d6cb9ed7a3/236_0_6252_5000/master/6252.jpg?width=140&quality=85&auto=format&fit=max&s=ca99accbb398e0c2d65b2f00c0bc9b97",
-  "publishedAt": "2026-11-12T13:46:34.000Z",
-  "createdAt": "2026-11-12T16:12:35.449Z"
- },
- {
-  "id": "aed7285a6e67e461",
-  "headline": "UK proposes ending criminal record checks for youth offences",
-  "summary": "The government plans to stop requiring employers to see criminal records of people convicted of offences committed under the age of 18. Ministers say the change will help reduce youth incarceration and improve employment prospects for disadvantaged young people in England and Wales.",
-  "category": "politics",
-  "region": "global",
-  "importance": 4,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/12/children-criminal-records-england-wales-labour"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/636709dcaefa97559bd1b10f630e7d0145ad1da5/0_1332_2030_1623/master/2030.jpg?width=140&quality=85&auto=format&fit=max&s=32f54447dd02f4200cc9d97eeceaa87d",
-  "publishedAt": "2026-11-12T13:44:20.000Z",
-  "createdAt": "2026-11-12T16:12:35.449Z"
- },
- {
-  "id": "c61c0256602ce324",
-  "headline": "Record credit-card balances raise risk of hidden medical-debt",
-  "summary": "U.S. consumers have pushed credit-card debt to a new high, and experts warn that mounting medical bills are increasingly being added to cards, creating “shadow debt” that is harder to track and could strain household finances.",
-  "category": "economy",
-  "region": "global",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/medical-bills-credit-card-debt.html"
-   }
-  ],
-  "publishedAt": "2026-11-12T13:15:02.000Z",
-  "createdAt": "2026-11-12T16:12:35.449Z"
- },
- {
-  "id": "f7919e885a67743b",
-  "headline": "Zimbabwe author cleared after AI plagiarism probe",
-  "summary": "Simbarashe Kundizeza has been exonerated following a month-long investigation that confirmed his Caine prize-winning short story was written by a human, ending allegations that artificial intelligence was used.",
-  "category": "other",
-  "region": "global",
-  "importance": 2,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/6487803463c6c4e3138642f657eeb1cd90cd5acc/0_111_1078_862/master/1078.jpg?width=140&quality=85&auto=format&fit=max&s=e825c93b0c4e49e69e380953e02995c6",
-  "publishedAt": "2026-11-12T13:14:38.000Z",
-  "createdAt": "2026-11-12T16:12:35.449Z"
  }
 ]
