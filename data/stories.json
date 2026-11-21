@@ -1,15 +1,727 @@
 [
  {
-  "id": "244b772cd3060adc",
-  "headline": "COP31 climate talks stall over fossil fuel dispute",
-  "summary": "Delegates from nearly 200 nations remain deadlocked at COP31 as disagreements over fossil fuel provisions prevent progress on a new global climate agreement.",
+  "id": "ca4f1f93c1e8c22e",
+  "headline": "British father recalls despair after son’s death in Cyprus",
+  "summary": "A British man sentenced to a €3,000 fine for his two-year-old son’s fatal fall from a fourth-floor hotel window in Cyprus described the moment of panic and loss of control, recalling the despair he felt as the child slipped from his grasp.",
+  "category": "world",
+  "region": "global",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/21/british-man-recalls-despair-over-sons-death-after-fall-from-cyprus-window"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/448b8cda06ae22c1900e5ff11f009b62f3b449f9/231_146_2907_2326/master/2907.jpg?width=140&quality=85&auto=format&fit=max&s=3d6c28c8cb97f9ee223f182855c56ec4",
+  "publishedAt": "2026-11-21T15:19:03.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "a2a599d0cc38a363",
+  "headline": "Tech outages spur concerns over AI cyber-attacks and power grid",
+  "summary": "Recent technology outages have heightened worries about AI-driven cyber-attacks and the vulnerability of the U.S. electricity grid, prompting analysts to warn of a growing “doomsday economy” as disruptions become more frequent.",
+  "category": "tech",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html"
+   }
+  ],
+  "publishedAt": "2026-11-21T15:04:56.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "c5fe0c9bc0a55623",
+  "headline": "Perth burger joint ranks among world’s top ten",
+  "summary": "A popular Western Australian burger chain, run by Alasdair and Ken Craigie, secured a place in the global top-ten list, becoming one of only two Australian eateries to feature alongside the iconic Fergburger.",
+  "category": "business",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/national/western-australia/wa-burger-joint-ranked-10th-best-in-the-world-on-global-list-20261122-p61g2k.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_95/t_crop_custom/q_86%2Cf_auto/44f5e6271c8e699124e9dbb423815c4e71007ce1de3ae957973e86928d924cb5",
+  "publishedAt": "2026-11-21T15:00:00.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "6071e0c204c36498",
+  "headline": "Top women in finance share practical investing tips",
+  "summary": "Leading women in the U.S. finance sector offered straightforward investing advice, emphasizing that it’s never too late to start and highlighting strategies that can help individuals build and protect wealth.",
+  "category": "business",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755"
+   }
+  ],
+  "imageUrl": "https://images.mktw.net/im-39302735",
+  "publishedAt": "2026-11-21T15:00:00.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "93fc3eeaab5ea00c",
+  "headline": "US judge refuses to release man shot by ICE agents",
+  "summary": "A federal judge denied a request to release Oscar Belgal, a Dominican national wounded by ICE agents during an arrest in New York, ruling that a procedural error did not merit his release from custody.",
+  "category": "politics",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/2026/nov/21/new-york-judge-ice-shooting-immigration"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/b7cd93f6008b4c4b5a411a1c48698ec3368fecbe/119_0_2077_1662/master/2077.jpg?width=140&quality=85&auto=format&fit=max&s=ab0135e0bab9ea79f8515516a63f32ca",
+  "publishedAt": "2026-11-21T14:52:30.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "1b26aa49c79f745a",
+  "headline": "UK issues heavy rain warning for south-west England",
+  "summary": "The Met Office issued a weather warning for south-west England as a slow-moving band of rain is expected to bring more than 100 mm of precipitation to Dartmoor, with flood alerts and power-cut risks highlighted.",
+  "category": "world",
+  "region": "global",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/21/uk-weather-cold-rain-warning-south-west-england"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/cf9535c982b545e490c47bb89f288a644547dd4d/1843_310_3857_3087/master/3857.jpg?width=140&quality=85&auto=format&fit=max&s=f299fe872d2c38b6da23898897e0abf4",
+  "publishedAt": "2026-11-21T14:51:37.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "92e0d9e85a937448",
+  "headline": "Princess of Wales discusses cancer journey in new BBC documentary",
+  "summary": "Princess Catherine will appear in a forthcoming BBC documentary where she talks about her cancer diagnosis, the physical and emotional impact, and her participation in the Three Peaks challenge, offering a message of hope and resilience.",
+  "category": "world",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-22/princess-catherine-new-documentary-heal-cancer-journey/107413338"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/21/princess-of-wales-impact-cancer-diagnosis-bbc-film-heal"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/fd810cd935a14aa8ada325f3b3bdf72e59b7c84f/726_0_3234_2588/master/3234.jpg?width=140&quality=85&auto=format&fit=max&s=ded2b02305fcd1f7c92e952042674919",
+  "publishedAt": "2026-11-21T14:42:56.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "4e7ac609107b4b52",
+  "headline": "Florida inmates describe extreme heat in prison leading to death",
+  "summary": "In testimony, a 69-year-old inmate described sweltering conditions at Dade Correctional Institute, where concrete walls and temperatures above 119 °F contributed to a fellow prisoner’s death after he struggled to breathe.",
+  "category": "world",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/927934c914d0ee17837ad17f16babd0941cd47e9/193_0_3892_3114/master/3892.jpg?width=140&quality=85&auto=format&fit=max&s=c95999168f3905f4c0ff69be6d003f81",
+  "publishedAt": "2026-11-21T14:38:58.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "ee828c46566ad1f9",
+  "headline": "Retirees warned of RMD deadline to avoid tax penalty",
+  "summary": "Financial advisers caution that missing the required minimum distribution deadline for retirement accounts during the busy holiday period could trigger a tax penalty for retirees.",
+  "category": "economy",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/21/rmd-deadline-penalty-2026.html"
+   }
+  ],
+  "publishedAt": "2026-11-21T14:30:02.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "a628fe83cc574012",
+  "headline": "US USDA and FBI suffer cyber breaches amid tech outage concerns",
+  "summary": "Hackers breached the US Department of Agriculture’s farmer-payment system and the FBI’s National Crime Information Center, raising alarms over a spate of recent technology outages at key American institutions. The intrusions were first reported by major US news outlets, with responsibility and links between the attacks still unclear.",
+  "category": "tech",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/b150fbf305d621454311041d7c8c8c7d201d7d70/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=dafbe2e6e35771a70bb5deec81cfabd2",
+  "publishedAt": "2026-11-21T14:09:02.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "c85d6ed2ddc53237",
+  "headline": "Anthropic AI IPO faces sharp sell-off as market correction bites",
+  "summary": "Anthropic’s high-profile initial public offering initially surged but quickly fell as broader market correction pressures investors to reassess valuations of AI-focused stocks, prompting a notable sell-off on the day of the debut.",
+  "category": "markets",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-ai-stock-market-selloff.html"
+   }
+  ],
+  "publishedAt": "2026-11-21T14:07:53.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "e29719f212daf140",
+  "headline": "Major US retailers roll out deep Thanksgiving meal-basket discounts",
+  "summary": "Walmart, Target and Amazon are among the retailers advertising substantial Thanksgiving grocery bundles, offering lower-priced meal-basket deals as shoppers prepare for the holiday season.",
+  "category": "business",
+  "region": "global",
+  "importance": 2,
+  "sources": [
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5"
+   }
+  ],
+  "imageUrl": "https://images.mktw.net/im-61665261",
+  "publishedAt": "2026-11-21T14:00:00.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "0fa914bf15fdf336",
+  "headline": "Nvidia share price stalls amid leadership drama and cheap valuation debate",
+  "summary": "Uncertainties surrounding CEO Jensen Huang’s recent actions and ongoing internal drama are keeping investors cautious, with analysts warning against trying to time a bottom in Nvidia despite the stock’s historically low valuation.",
+  "category": "markets",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/nvidias-nonstop-drama-is-keeping-buyers-away-from-a-historically-cheap-stock-604022da"
+   }
+  ],
+  "imageUrl": "https://images.mktw.net/im-42815936",
+  "publishedAt": "2026-11-21T13:30:00.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "327222b8c69da0e3",
+  "headline": "Zelensky calls strikes on Crimean Bridge a ‘fair response’",
+  "summary": "Ukrainian President Volodymyr Zelensky described recent Russian aerial attacks on bridges, including the Crimean Bridge, as a fair response to Kyiv’s actions, speaking while meeting UK officials.",
   "category": "world",
   "region": "global",
   "importance": 6,
   "sources": [
    {
     "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg",
+  "publishedAt": "2026-11-21T13:17:38.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "0c9d452c7386a3e0",
+  "headline": "Mexican drug lord on FBI’s most-wanted list killed in shoot-out",
+  "summary": "Fausto Isidro “Chapo Idisro” Meza Flores, a Mexican drug trafficker and torture suspect listed on the FBI’s ten most-wanted, was captured after a gunfight with authorities.",
+  "category": "world",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
+  "publishedAt": "2026-11-21T13:15:21.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "d327f2352a52cb49",
+  "headline": "State and federal regulators clash over prediction-market rules after midterms",
+  "summary": "Following the recent midterm elections, states, Congress and the CFTC are intensifying their dispute over how prediction markets should be regulated, with each side pushing differing legislative approaches.",
+  "category": "economy",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/21/prediction-market-regulation-kalshi-cftc.html"
+   }
+  ],
+  "publishedAt": "2026-11-21T13:12:41.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "a6a903465de18749",
+  "headline": "Warren Buffett quadruples Thanksgiving charitable gifts to $5.5 billion",
+  "summary": "Billionaire investor Warren Buffett increased his Thanksgiving donations to four family foundations, raising the total to $5.5 billion, more than four times his previous contribution level.",
+  "category": "business",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/21/warren-buffett-quadruples-thanksgiving-gifts.html"
+   }
+  ],
+  "publishedAt": "2026-11-21T13:01:44.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "aabd4947f616da65",
+  "headline": "US Navy cost estimate for new Trump-class warships blows out by billions",
+  "summary": "A report to Congress warned that the US Navy’s projected cost for the new Trump-class battleship fleet has risen by billions of dollars, with the acting secretary acknowledging strain from the Iran conflict.",
+  "category": "world",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-class-warships"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/232b3595bc9ba8b26b7f2eb469c9abc7c333d154/716_0_4901_3923/master/4901.jpg?width=140&quality=85&auto=format&fit=max&s=5251357948436a2696afae318db5ebea",
+  "publishedAt": "2026-11-21T13:00:00.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "49582695a112cf56",
+  "headline": "Reform UK eyes alliance with Restore Britain ahead of Castle Bromwich by-election",
+  "summary": "Reform UK is considering a pact with hard-right party Restore Britain as both seek to improve poll performance ahead of the upcoming Castle Bromwich by-election in the West Midlands.",
+  "category": "politics",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/5bbda4f2586156f3b160d70e965e0e2422a855c8/49_0_1180_944/master/1180.jpg?width=140&quality=85&auto=format&fit=max&s=5597b4adf0622dba743b5691a82d09af",
+  "publishedAt": "2026-11-21T12:22:54.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "354164f411cabbf0",
+  "headline": "Council urges residents to seek support as heating costs rise this winter",
+  "summary": "A local council is advising households to access assistance programmes to cope with increasing energy bills for heating during the winter months.",
+  "category": "other",
+  "region": "global",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/641f/live/fedb2590-e41f-11f1-9e08-55a8a3b48445.jpg",
+  "publishedAt": "2026-11-21T12:09:49.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "2a1c3c415586525c",
+  "headline": "6.8-magnitude quake rattles Northern Territory after East Timor tremor",
+  "summary": "A 6.8-magnitude earthquake struck north-east of Lospalos in East Timor on Saturday, causing shaking across the Australian Top End. Residents in the Northern Territory reported rattling homes and buildings but no immediate reports of damage or injuries.",
+  "category": "world",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-21/top-end-nt-shaken-as-major-earthquake-hits-east-timor/107413134"
+   }
+  ],
+  "publishedAt": "2026-11-21T12:04:52.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "22f298b3d38dcbaf",
+  "headline": "Manchester sound-system groups revive reggae culture for youth",
+  "summary": "The Megatone Sound Foundation and Baron Turbo Charge are using reggae sound-system events to give young Black Mancunians a sense of belonging and cultural education, sharing stories of community, work-life balance and heritage through music and large speaker stacks.",
+  "category": "entertainment",
+  "region": "global",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/news/2026/nov/21/sound-system-pioneers-music-manchester-windrush"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/1233bc85cfa94b596692ad167468b0f4b76847d3/582_87_2809_2247/master/2809.jpg?width=140&quality=85&auto=format&fit=max&s=92d84e7f853c6c10f4d950cee37c2299",
+  "publishedAt": "2026-11-21T12:00:58.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "4c6330abac4649f8",
+  "headline": "Navy budget pick linked to contractor with Trump-family ties",
+  "summary": "A recent US Navy procurement decision has drawn scrutiny after it was revealed that the selected contractor has family investments connected to a company linked to Donald Trump Jr., raising concerns about potential conflicts of interest.",
+  "category": "politics",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "Financial Times",
+    "url": "https://www.ft.com/content/145e6fab-d93a-412d-8670-0554064fdf98"
+   }
+  ],
+  "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7799a644-3117-42e4-b2ce-8fd208d023b8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+  "publishedAt": "2026-11-21T12:00:08.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "b9d8a776976c5816",
+  "headline": "Traders shift US copper to China as tariff worries ease",
+  "summary": "With Chinese copper shortages and a high local premium, traders are moving US copper shipments to China, exploiting arbitrage opportunities now that fears of renewed US tariffs on Chinese goods have subsided.",
+  "category": "markets",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "Financial Times",
+    "url": "https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757"
+   }
+  ],
+  "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F871ae2f1-e130-4f08-bdb8-edb61893b955.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+  "publishedAt": "2026-11-21T12:00:08.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "1fba67898338f279",
+  "headline": "US airlines launch mega business-class cabins as first-class ends",
+  "summary": "Major US carriers are replacing traditional first-class cabins with expansive, luxury-focused business-class suites, offering passengers larger seats, private spaces and premium services in a bid to capture high-end demand.",
+  "category": "business",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html"
+   }
+  ],
+  "publishedAt": "2026-11-21T12:00:01.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "32bef275d4eb1888",
+  "headline": "Lachlan Shaw grabs spectacular catch on debut for Australia",
+  "summary": "In his first match for Australia, Lachlan Shaw dived to take a stunning outfield catch off Ben Dwarshuis’s delivery, earning praise for his reflexes and fielding skill.",
+  "category": "sport",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/national/aussie-debutant-takes-a-screamer-20261121-p61g6l.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/16f158b0e46c0c7e1690625e813b151c2950d9e4",
+  "publishedAt": "2026-11-21T11:56:45.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "e96a5458d7fa095e",
+  "headline": "UK re-entry to EU on table as trade and youth deals signed",
+  "summary": "British leaders say rejoining the European Union remains a possibility while formalising new trade and youth-mobility agreements with the bloc, following recent talks in Brussels.",
+  "category": "politics",
+  "region": "global",
+  "importance": 7,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/a8ef665b3433b55dbebb6fb4abe465f1500c8ca9/367_0_2860_2288/master/2860.jpg?width=140&quality=85&auto=format&fit=max&s=b5b6c0873cfe5696645ff5b693cf79db",
+  "publishedAt": "2026-11-21T11:33:01.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "32bdad5edc5dd737",
+  "headline": "Parliamentary inquiry launched into online peptide clinics",
+  "summary": "Health Minister Mark Butler has ordered a parliamentary investigation into telehealth operators and social media platforms promoting unapproved peptide drugs, amid concerns over a booming market for unregulated treatments.",
+  "category": "health",
+  "region": "australia",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/politics/federal/federal-inquiry-targets-online-clinics-peddling-wonder-drug-peptides-20261121-p61g4f.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.3025%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_69/t_crop_custom/q_86%2Cf_auto/55d1f9e102737f75b7fad71ba51ec7961610d87c",
+  "publishedAt": "2026-11-21T11:09:12.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "268094fabb29b09f",
+  "headline": "Black Friday liquid BBL deals face safety criticism in England",
+  "summary": "Experts warn that seasonal promotions for liquid Brazilian butt lifts and other cosmetic procedures risk patient safety, citing the recent death of a woman after a botched liquid BBL and prompting a government consultation on restricting such treatments to qualified professionals.",
+  "category": "health",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/lifeandstyle/2026/nov/21/black-friday-deals-liquid-brazilian-butt-lifts-criticised-safety-fears"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/8fb88dfcae8de31deb1991b56aae0f0dce51d4ae/0_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=b625f487a9882f59518f13c33bfc8b3f",
+  "publishedAt": "2026-11-21T11:08:21.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "7e8a2e6a03eae0e5",
+  "headline": "Haitians welcome El Salvador troops but fear escalation",
+  "summary": "Many Haitians greet the arrival of El Salvador soldiers sent to combat entrenched gangs, while others worry the foreign offensive could worsen the volatile security situation that has plagued Port-au-Prince for years.",
+  "category": "world",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele"
+   }
+  ],
+  "imageUrl": "https://i.guim.co.uk/img/media/50cadcfc3b9aea76e63e685b18e73e9625ebe68b/479_0_4942_3957/master/4942.jpg?width=140&quality=85&auto=format&fit=max&s=40ed7d0881298a1c6a8fae92ef3d7ba7",
+  "publishedAt": "2026-11-21T11:00:57.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "5204fe4e4b74e08e",
+  "headline": "Three teens charged over Perth shopping centre stabbing released on bail",
+  "summary": "Police have charged three teenagers with an alleged stabbing at the Carousel Shopping Centre in Perth. All three have been released on bail as investigations continue.",
+  "category": "other",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/national/three-teens-charged-over-terrifying-perth-attack-out-on-bail-20261121-p61g6m.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/a9b687cf3ddeec2c649d0a4e105b94e649019c30",
+  "publishedAt": "2026-11-21T10:23:25.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "0875fdefb0e67b7c",
+  "headline": "Olympic champion Jon Henricks dies at 91",
+  "summary": "Jon Henricks, the Australian swimmer who won two gold medals at the 1956 Melbourne Olympics and set multiple world records, has died aged 91.",
+  "category": "sport",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-21/australian-swimming-star-jon-henricks-dies/107413060"
+   }
+  ],
+  "publishedAt": "2026-11-21T10:00:34.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "e2e60fa4b7dd1c58",
+  "headline": "FBI probes possible hack of criminal database",
+  "summary": "The FBI is investigating an apparent intrusion into its National Crime Information Center database, which is used by federal and local law enforcement to share information. Authorities have not disclosed how the breach occurred or what data may have been accessed.",
+  "category": "tech",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg",
+  "publishedAt": "2026-11-21T09:34:20.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "530a3d7fa9838b2b",
+  "headline": "Australia struggles to finalise climate deal centred on electrification",
+  "summary": "Negotiators say Australia is seeking support for a climate agreement that focuses on electrification but omits references to fossil fuels. The lack of consensus on the fossil-fuel component is delaying the finalisation of the deal.",
+  "category": "politics",
+  "region": "australia",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "SBS News",
+    "url": "https://www.sbs.com.au/news/article/the-climate-agreement-australia-is-struggling-to-close/9z77gmuox"
+   }
+  ],
+  "imageUrl": "https://assets.sbs.com.au/dims4/default/6b2b73e/2147483647/strip/false/crop/6059x2784+0+628/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F77%2F23%2F306cf3b74bc1939f3e7ec44ddd83%2Fafp-20261120-d87g3cr-v1-highres-cop31unclimatechangeconference.jpg",
+  "publishedAt": "2026-11-21T08:53:18.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "14bba79e7a078e3a",
+  "headline": "Robber gives victim fist bump after supermarket robbery",
+  "summary": "During a knife-point robbery at a Logan supermarket, the armed offender stole cash and then offered the victim a fist bump before fleeing. Police are investigating the unusual post-theft interaction.",
+  "category": "other",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/national/robber-s-bizarre-moment-after-knife-point-robbery-20261121-p61g6k.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/4d4e6d2d2629b75be62e4d5586a6affb9ba720f8",
+  "publishedAt": "2026-11-21T08:38:13.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "033931aa349c55e2",
+  "headline": "Cricket Australia confirms Cummins as Test captain",
+  "summary": "Cricket Australia ended speculation by announcing that Pat Cummins has its unanimous support to lead the side in the first Test against New Zealand. The decision settles ongoing rumours about the captaincy.",
+  "category": "sport",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/national/cricket-australia-ends-ongoing-speculation-about-cummins-captaincy-20261121-p61g6h.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/99304afb66476635094ac9a15eb682e28b971acf",
+  "publishedAt": "2026-11-21T08:22:10.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "5ed65cb22554e81a",
+  "headline": "Proposed law could let Australians sue big tech firms",
+  "summary": "A change to the Government’s digital duty of care legislation would allow Australians to bring legal action against major technology companies. The amendment aims to strengthen consumer protections online.",
+  "category": "business",
+  "region": "australia",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/national/australians-could-soon-sue-big-tech-companies-20261121-p61g6j.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/992192ecf46e8977e5b329ad237d5a9a5d74ccfd",
+  "publishedAt": "2026-11-21T08:18:38.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "f41388ff6f55edee",
+  "headline": "Oslo cuts down 21-metre Christmas tree in Trafalgar Square",
+  "summary": "The 21-metre tree, Norway’s annual thank-you gift to Britain for World War Two support, was felled in Trafalgar Square. The ceremony marks the start of the city’s Christmas celebrations.",
+  "category": "world",
+  "region": "global",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6390/live/3985e760-e52a-11f1-964d-a1d5fe40573e.jpg",
+  "publishedAt": "2026-11-21T08:10:03.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "bd709ef994a73260",
+  "headline": "Lehmann apologises but denies knowledge of sandpaper plot",
+  "summary": "Former Australian cricket coach Darren Lehmann issued an apology for his role in the 2018 sandpaper scandal but said he had no prior knowledge of the plan. The statement follows recent comments by former player Bancroft.",
+  "category": "sport",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-21/cricket-lehmann-responds-bancroft-australia-sandpaper-drama/107412988"
+   }
+  ],
+  "publishedAt": "2026-11-21T08:03:56.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "37a46514873a317e",
+  "headline": "Family keeps 4 am Christmas Eve carols tradition",
+  "summary": "A family of carols enthusiasts forgoes last-minute shopping, instead queuing from 4 am on Christmas Eve to secure a prime spot for the Carols by Candlelight event, a ritual they say they cannot live without.",
+  "category": "lifestyle",
+  "region": "australia",
+  "importance": 2,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/politics/victoria/the-4am-christmas-eve-tradition-this-family-can-t-live-without-20261121-p61fr9.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.2307%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_180%2C$y_42/t_crop_custom/q_86%2Cf_auto/845e7519386e21632e7f2cad9a6f978b671a482f",
+  "publishedAt": "2026-11-21T08:00:00.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "39c7cc0c65f23ef3",
+  "headline": "Teen charged over Melbourne bar firebombings",
+  "summary": "Police have charged a 17-year-old identified as the online handle “Onepercent” for organising a series of firebomb attacks on Melbourne bars. He is accused of coordinating the arson offences and endangering public safety. The investigation remains ongoing.",
+  "category": "other",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/national/victoria/teenage-boy-charged-with-orchestrating-melbourne-bar-wars-firebombings-20261121-p61g4i.html"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.353%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/39a20631abab738383fce221c2c647d873b51bff",
+  "publishedAt": "2026-11-21T07:48:48.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "4e1158751dc427bc",
+  "headline": "Eyre Peninsula residents fear further power blackouts",
+  "summary": "People living on South Australia’s Eyre Peninsula say recent power outages have left them uneasy. While work is under way to stabilise the regional grid, locals want stronger assurances that future blackouts will be avoided and energy security improved.",
+  "category": "economy",
+  "region": "australia",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-21/eyre-peninsula-residents-future-blackouts/107412558"
+   }
+  ],
+  "publishedAt": "2026-11-21T07:45:38.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "244b772cd3060adc",
+  "headline": "COP31 climate talks stall over fossil fuel dispute",
+  "summary": "Delegates from nearly 200 nations remain deadlocked at COP31 as disagreements over fossil fuel provisions prevent progress on a new global climate agreement.",
+  "category": "world",
+  "region": "global",
+  "importance": 7,
+  "sources": [
+   {
+    "name": "BBC",
     "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o"
+   },
+   {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve"
    }
   ],
   "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg",
@@ -90,11 +802,15 @@
   "summary": "Australia and England face off in a T20 match at the MCG, with the Australian side dropping Khawaja and Warner as the Sandpapergate saga continues.",
   "category": "sport",
   "region": "australia",
-  "importance": 4,
+  "importance": 5,
   "sources": [
    {
     "name": "SMH",
     "url": "https://www.smh.com.au/sport/cricket/australia-vs-england-live-updates-t20-series-hits-the-mcg-as-sandpapergate-continues-to-swirl-20261121-p61g53.html"
+   },
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-21/australia-win-t20-international-against-england-at-mcg/107413150"
    }
   ],
   "imageUrl": "https://static.ffx.io/images/$zoom_0.21705267472842793%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/d24e2f7b7d3dc338ff840dc8a6be3371583ebfa4",
@@ -129,10 +845,15 @@
    {
     "name": "ABC News",
     "url": "https://www.abc.net.au/news/2026-11-21/cricket-australian-bowlers-legacy-no-longer-under-control/107412932"
+   },
+   {
+    "name": "SMH",
+    "url": "https://www.smh.com.au/sport/cricket/i-didn-t-know-lehmann-adamant-he-didn-t-know-about-sandpaper-plot-reveals-his-depth-to-a-dark-place-20261121-p61g6g.html"
    }
   ],
   "publishedAt": "2026-11-21T06:46:52.000Z",
-  "createdAt": "2026-11-21T07:36:00.637Z"
+  "createdAt": "2026-11-21T07:36:00.637Z",
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.3587%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_93/t_crop_custom/q_86%2Cf_jpg/98399e16cd953708585636fa622497c2a60fef2a"
  },
  {
   "id": "be270851fc83b671",
@@ -456,6 +1177,23 @@
   "createdAt": "2026-11-21T07:36:00.637Z"
  },
  {
+  "id": "fe66e4bc351832c8",
+  "headline": "Drone war pushes optical-fibre prices sixfold",
+  "summary": "The Russia-Ukraine drone conflict has caused a six-times surge in the price of optical fibre, a key anti-jamming component. The spike threatens Kyiv’s drone communications and could ripple through global telecom supply chains.",
+  "category": "markets",
+  "region": "global",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "Financial Times",
+    "url": "https://www.ft.com/content/339c3a72-bce5-44ed-bc6c-c8a8199cfb40"
+   }
+  ],
+  "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff2631b2f-745c-40b2-9dfe-29790b08aadd.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+  "publishedAt": "2026-11-21T05:00:08.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
   "id": "e19d4558bf9799b8",
   "headline": "European builders target €620bn defence infrastructure boom",
   "summary": "Construction firms across Europe are shifting focus to military projects, aiming to win contracts for bases, airports and bridges as the residential market weakens. The sector hopes the anticipated €620 billion defence spend will offset the slowdown in housing construction.",
@@ -620,6 +1358,136 @@
   "createdAt": "2026-11-21T07:36:00.637Z"
  },
  {
+  "id": "09f585f7457cad5c",
+  "headline": "Cricket Australia backs Cummins, drops Khawaja and Warner from commentary",
+  "summary": "Fox Cricket has removed former captains Usman Khawaja and David Warner from its commentary team, while Cricket Australia gave Pat Cummins unequivocal support to remain captain. The decision follows internal reviews aimed at strengthening Cummins’ leadership.",
+  "category": "sport",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-21/cricket-australia-pat-cummins-captaincy-sandpaper-ball-tampering/107412194"
+   }
+  ],
+  "publishedAt": "2026-11-21T03:04:37.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "77d01b97e0351b13",
+  "headline": "Two boys stabbed at Sydney shopping centre, teens charged",
+  "summary": "Police charged a 17-year-old and arrested a 16-year-old after two boys were stabbed during an alleged confrontation at a north-west Sydney shopping centre. The victims said they were “lucky to be alive”, and the investigation continues.",
+  "category": "other",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-21/teenager-charged-after-sydney-shopping-centre-stabbings/107412324"
+   }
+  ],
+  "publishedAt": "2026-11-21T03:01:38.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "ccd2a66a77a1c2d5",
+  "headline": "Bayer to pay $11 billion US settlement over Roundup cancer claims",
+  "summary": "Bayer has agreed to an $11 billion settlement in the United States covering current and future non-Hodgkin lymphoma cases linked to its Roundup weed-killer. The deal resolves thousands of lawsuits alleging the product caused cancer.",
+  "category": "business",
+  "region": "global",
+  "importance": 7,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-21/bayer-cancer-settlement-roundup-weed-killer-11-billion/107412544"
+   }
+  ],
+  "publishedAt": "2026-11-21T03:00:10.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "b2736d7fceb9029a",
+  "headline": "Dutch court bans BYD from selling copycat Land Rover in Europe",
+  "summary": "A Dutch court has ordered Chinese EV maker BYD to stop selling its new 4x4 in Europe after finding the design too closely resembles Land Rover’s Defender. The ruling halts BYD’s planned European launch of the model.",
+  "category": "business",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "AFR",
+    "url": "https://www.afr.com/world/europe/chinas-byd-banned-from-selling-copycat-land-rover-in-europe-20261121-p61g5o"
+   }
+  ],
+  "imageUrl": "https://static.ffx.io/images/$zoom_0.4079%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/700201d8e2bb204dd838625e003449579ce033b3",
+  "publishedAt": "2026-11-21T02:48:11.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "fb9c882bd201950a",
+  "headline": "David Jones to cut around 1,700 jobs after Christmas",
+  "summary": "The retail union says David Jones will dismiss nearly 1,700 staff following the holiday period. It will assist affected employees in finding new work and ensure the department store meets its financial commitments. The cuts reflect ongoing pressure on Australian retailers amid weak consumer spending.",
+  "category": "business",
+  "region": "australia",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "SBS News",
+    "url": "https://www.sbs.com.au/news/article/nearly-1-700-david-jones-workers-to-lose-their-jobs-after-christmas/3dy8d04v9"
+   }
+  ],
+  "imageUrl": "https://assets.sbs.com.au/dims4/default/c53779c/2147483647/strip/false/crop/1800x827+0+186/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fb9%2Fbe%2F030c2cdf4cfcbc1879c3957c3b81%2Fa-david-jones-store-in-sydney.jpg",
+  "publishedAt": "2026-11-21T02:28:56.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "2bc8795db7da9663",
+  "headline": "Four injured by lightning at NSW music festival",
+  "summary": "Wild weather at the Strawberry Fields music festival in Tocumwal, New South Wales, resulted in four people being struck by lightning overnight. Emergency services attended the scene and provided medical care to the victims. Organisers warned of severe weather risks for future outdoor events.",
+  "category": "world",
+  "region": "australia",
+  "importance": 3,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-21/four-strawberry-fields-festivalgoers-struck-by-lightning/107412498"
+   }
+  ],
+  "publishedAt": "2026-11-21T02:23:29.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "e6d24b9c61a178b8",
+  "headline": "Rallies across Australia warn of freebirth rule impact",
+  "summary": "Thousands gathered in towns and cities nationwide to protest new insurance regulations that could restrict midwife-supported homebirths. Protesters argue the rules will cause a “catastrophic collapse” in access to freebirths, urging the government to reconsider the policy to protect maternal choice and safety.",
+  "category": "health",
+  "region": "australia",
+  "importance": 6,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-21/homebirth-rallies-midwife-insurance-freebirth/107412380"
+   }
+  ],
+  "publishedAt": "2026-11-21T02:23:16.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
+  "id": "16b900ddb9b57a79",
+  "headline": "Speculation mounts on AOC as potential US presidential candidate",
+  "summary": "Following the recent US midterm elections, discussion has intensified about Representative Alexandria Ocasio-Cortez possibly running for president. Commentators note her rising profile and the “bluenami” effect, suggesting she could become the first female president if she decides to launch a campaign ahead of 2028.",
+  "category": "politics",
+  "region": "global",
+  "importance": 5,
+  "sources": [
+   {
+    "name": "ABC News",
+    "url": "https://www.abc.net.au/news/2026-11-21/alexandria-ocasio-cortez-aoc-possible-2028-presidential-campaign/107389828"
+   }
+  ],
+  "publishedAt": "2026-11-21T02:19:16.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
+ },
+ {
   "id": "6fd4ece9ef4dacbf",
   "headline": "AI surveillance technology detected in Australian university exams",
   "summary": "University staff say covert AI-driven surveillance tools have been used in exam rooms, raising concerns about student privacy and exam integrity. The technology can monitor movements and capture audio, prompting calls for stricter controls and clearer guidelines on the use of such systems in education.",
@@ -731,6 +1599,31 @@
   "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce4e/live/03859c80-e56d-11f1-a6ac-55a3d46eac91.jpg",
   "publishedAt": "2026-11-21T01:02:39.000Z",
   "createdAt": "2026-11-21T07:36:00.637Z"
+ },
+ {
+  "id": "ed89adb184664192",
+  "headline": "Wall Street’s worst week in over a year creates buying opportunities",
+  "summary": "Following the steepest market decline in more than a year, analysts say the sell-off has opened chances for investors to deploy cash, with many focusing on protecting portfolios rather than seeking new bargains.",
+  "category": "markets",
+  "region": "global",
+  "importance": 8,
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/11/21/during-wall-streets-worst-week-in-over-a-year-we-put-money-to-work-what-were-buying.html"
+   },
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/how-a-brutal-week-for-stocks-almost-wiped-out-their-gains-for-the-entire-year-ae6773c3"
+   },
+   {
+    "name": "AFR",
+    "url": "https://www.afr.com/chanticleer/this-is-how-wall-street-s-bloodbath-gets-really-scary-20261121-p61g52"
+   }
+  ],
+  "imageUrl": "https://images.mktw.net/im-34953773",
+  "publishedAt": "2026-11-21T00:51:41.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
  },
  {
   "id": "52b80e7751003fa7",
@@ -1022,6 +1915,23 @@
   "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4bc/live/7ab356d0-e4f5-11f1-a094-5fdc692f3e33.jpg",
   "publishedAt": "2026-11-20T23:20:33.000Z",
   "createdAt": "2026-11-21T07:36:00.637Z"
+ },
+ {
+  "id": "38109e7ed133b79e",
+  "headline": "US releases additional UFO footage from Middle East",
+  "summary": "The Pentagon has declassified a new batch of unidentified aerial phenomenon recordings, adding three videos captured in 2020, 2023 and 2026. The release forms part of an ongoing effort to increase transparency on unexplained aerial sightings, sparking renewed public and scientific interest.",
+  "category": "tech",
+  "region": "global",
+  "importance": 4,
+  "sources": [
+   {
+    "name": "BBC",
+    "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko"
+   }
+  ],
+  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/029f/live/9fdeb250-e537-11f1-99b6-a35a62fa4264.jpg",
+  "publishedAt": "2026-11-20T23:15:20.000Z",
+  "createdAt": "2026-11-21T15:36:36.209Z"
  },
  {
   "id": "4a17b615ec451b92",
@@ -31437,822 +32347,6 @@
   ],
   "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/103b/live/ed70d6c0-e040-11f1-88e1-eb4e155225b3.jpg",
   "publishedAt": "2026-11-14T15:42:54.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "0bb0d02eff811f5d",
-  "headline": "UK Labour leader says Brexit has cost Britain more than it gained",
-  "summary": "Labour’s Andy Burnham claims the UK has lost more than it gained from leaving the EU, accusing the Conservatives of burning bridges. He says a new deal with Brussels could lower food prices and benefit British exporters.",
-  "category": "politics",
-  "region": "global",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/2ea4cbf637966baf9c26015df59668f59c6fb69e/759_456_4582_3666/master/4582.jpg?width=140&quality=85&auto=format&fit=max&s=a1d0431197dfc3244a7a8c256f04c8c7",
-  "publishedAt": "2026-11-14T15:34:54.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "6d2fe853086dc8b1",
-  "headline": "Wall Street backs US industrial outdoor storage assets",
-  "summary": "Investors including Brookfield and Blackstone are pouring money into industrial outdoor storage facilities across the United States, attracted by rising rents and the sector’s resilience as a real-estate niche.",
-  "category": "markets",
-  "region": "global",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/14/real-estate-rental-income-industrial-storage-market.html"
-   }
-  ],
-  "publishedAt": "2026-11-14T15:14:57.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "5cd38b33edfaab47",
-  "headline": "Spanish court hears US extradition request for activist James Chambers",
-  "summary": "A two-hour hearing in Spain examined the US bid to extradite James “Fergie” Chambers, a wealthy left-wing activist, with his defence questioning the request’s legality and the US administration’s motives.",
-  "category": "world",
-  "region": "global",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/dd871a986aabb7abca5224af03caccf474d981ca/468_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=db6882dd8691cc543d5e94637b3bb040",
-  "publishedAt": "2026-11-14T15:00:47.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "1f170b1d278f604b",
-  "headline": "Australian firm targets WA diesel import reduction with renewable fuel",
-  "summary": "A Western Australian company plans to adapt US technology to turn waste oil and agricultural residues into hydrotreated vegetable oil, aiming to cut the state’s reliance on imported diesel.",
-  "category": "business",
-  "region": "australia",
-  "importance": 7,
-  "sources": [
-   {
-    "name": "SMH",
-    "url": "https://www.smh.com.au/national/western-australia/from-waste-oil-to-mining-fuel-the-company-aiming-to-cut-wa-s-reliance-on-imported-diesel-20261115-p61e2a.html"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$zoom_0.8273%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_187/t_crop_custom/q_86%2Cf_auto/279acb486e99afb6b3c5316341cdcd1b95f3e40edfafa3fc02db6bbc729b3a78",
-  "publishedAt": "2026-11-14T15:00:00.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "ed0d7ac0791da35c",
-  "headline": "GTA VI launch expected to reshape gaming and related industries",
-  "summary": "The release of Grand Theft Auto VI on 19 November is projected to influence streaming, music, workplace leave policies and even tourism, as the game’s massive audience drives new commercial opportunities.",
-  "category": "entertainment",
-  "region": "global",
-  "importance": 4,
-  "sources": [
-   {
-    "name": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html"
-   }
-  ],
-  "publishedAt": "2026-11-14T14:54:22.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "84ed529dbee857aa",
-  "headline": "Bank of England likely to raise rates again soon",
-  "summary": "Analysts say the Bank of England will need further interest-rate hikes after its recent move to 4%, with inflation expected to stay above target. The next meeting in December could see another increase, pushing mortgage repayments higher for millions of homeowners.",
-  "category": "economy",
-  "region": "global",
-  "importance": 7,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/91a65d8728a29fe09fb1706e308ff8c46b77c4d6/187_0_2954_2363/master/2954.jpg?width=140&quality=85&auto=format&fit=max&s=f97dd0061161f4f38fc8ed6c84f1fd3d",
-  "publishedAt": "2026-11-14T14:42:27.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "268369a6220d16dd",
-  "headline": "Kansas driver not charged after truck entered youth soccer field",
-  "summary": "Prosecutors declined to charge a woman who fell asleep in her pickup and unintentionally accelerated onto a Kansas youth soccer field, killing two players, citing lack of criminal intent.",
-  "category": "world",
-  "region": "global",
-  "importance": 3,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/us-news/2026/nov/14/kansas-driver-soccer-field-deaths-no-charges"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/1fdb117e6f40eedb3f4040a34c7d5be50ffb4bbe/76_0_1281_1025/master/1281.jpg?width=140&quality=85&auto=format&fit=max&s=fe05ab8650934bbfeb06191c08d521e5",
-  "publishedAt": "2026-11-14T14:38:36.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "de9dafa6297a1c6b",
-  "headline": "Heating oil prices surge 59% from last winter, hitting Maine families",
-  "summary": "Maine residents face steep heating-oil bills as prices climb 59% compared with the previous winter, prompting a local nonprofit to seek emergency assistance for households already strained by inflation.",
-  "category": "economy",
-  "region": "global",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/14/heating-oil-price-spike-household-budgets.html"
-   }
-  ],
-  "publishedAt": "2026-11-14T14:30:01.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "f64efed90e01ae61",
-  "headline": "FAA ground stop causes thousands of US flight cancellations",
-  "summary": "A nationwide FAA ground stop triggered by ageing air-traffic equipment led to the cancellation of over 3,000 flights in the US, with airlines scrambling to restore service and passengers facing widespread disruption.",
-  "category": "world",
-  "region": "global",
-  "importance": 7,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos"
-   },
-   {
-    "name": "BBC",
-    "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo"
-   },
-   {
-    "name": "Financial Times",
-    "url": "https://www.ft.com/content/f66f9811-59a2-4e52-a944-c7ed81dabc50"
-   },
-   {
-    "name": "AFR",
-    "url": "https://www.afr.com/world/north-america/decaying-wiring-and-paper-logs-america-s-decrepit-air-traffic-system-20261115-p61e71"
-   },
-   {
-    "name": "SMH",
-    "url": "https://www.smh.com.au/national/more-than-5000-us-flights-grounded-following-nationwide-stoppage-20261115-p61e74.html"
-   },
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-15/us-airlines-more-disruptions-ahead-of-thanksgiving/107386452"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/6934b82431c8fab49bd4a56b9baaca81b07d75ae/0_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=b2b556b1036b2ad108c6ca8de27291e7",
-  "publishedAt": "2026-11-14T14:20:57.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "7ee9a07141d301c0",
-  "headline": "Bomb discovered at Illinois ethanol plant, area evacuated",
-  "summary": "Authorities found a bomb at BioUrja Renewables ethanol and alcohol plant in Peoria, Illinois, prompting a one-mile evacuation of parts of Peoria and East Peoria. The device was defused by the FBI, and the incident is under investigation.",
-  "category": "other",
-  "region": "global",
-  "importance": 4,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/c959bae56a786ff95913cb67d9c97a8fced81672/437_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=51fa3394626d131083ad4af9586ae6bb",
-  "publishedAt": "2026-11-14T14:13:49.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "579a01638aeff9c9",
-  "headline": "Employers promote health-savings accounts for tax-efficient growth",
-  "summary": "High-deductible health plans paired with health-savings accounts are being offered by many employers as enrolment for 2027 opens. Workers can invest pre-tax dollars, grow the balance tax-free, and use funds for qualified medical expenses, reducing overall tax liability.",
-  "category": "economy",
-  "region": "global",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/14/hsa-investing-tax-benefits.html"
-   }
-  ],
-  "publishedAt": "2026-11-14T14:08:17.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "e25422b7bebe9430",
-  "headline": "Documentary alleges unlawful placement of torture survivors in Sussex asylum camp",
-  "summary": "An ITV undercover documentary claims asylum seekers, including torture survivors, were housed at a former military base in East Sussex without proper legal authority. The report also highlights inadequate welfare checks at the site run by a billionaire-owned firm.",
-  "category": "politics",
-  "region": "global",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/14/asylum-seekers-crowborough-torture-survivors-military-camp"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/4a90df7883b7c5941dd14a6eef2a0f2678cebf9d/566_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=6ea5aae5938a03625a134c3b27a6d257",
-  "publishedAt": "2026-11-14T14:07:47.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "46f5b5926aa95ad8",
-  "headline": "Berkshire Hathaway shares hit record high on fourth-quarter rally",
-  "summary": "Berkshire Hathaway’s stock closed at a fresh all-time high for the fourth straight session, rising 19 % in the quarter. The surge followed strong earnings and investor optimism about the conglomerate’s diversified holdings, pushing the share price to its highest level since listing.",
-  "category": "markets",
-  "region": "global",
-  "importance": 7,
-  "sources": [
-   {
-    "name": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html"
-   }
-  ],
-  "publishedAt": "2026-11-14T14:02:39.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "4d5251ae18d95a14",
-  "headline": "Trump administration’s deportation pause leaves Afghan refugees in limbo",
-  "summary": "Congress members and advocacy groups warn that the Trump administration’s sudden halt to Afghan deportations could endanger those awaiting removal, as many fear returning to a Taliban-controlled Afghanistan could be a death sentence.",
-  "category": "politics",
-  "region": "global",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/us-news/2026/nov/14/afghan-deportations-trump-administration"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/864ffb50bade3319fe14e785391a8da94a174334/0_0_4501_3600/master/4501.jpg?width=140&quality=85&auto=format&fit=max&s=297ac37af2c92bf759a2c3b3056279ae",
-  "publishedAt": "2026-11-14T13:00:47.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "59a0621d356ed7b8",
-  "headline": "Five striking eco-friendly buildings showcase sustainable design worldwide",
-  "summary": "From a bamboo gym in Bali to an earth-built house in Wiltshire, five projects demonstrate how sustainable architecture can be both functional and beautiful. The designs aim to cut construction-related emissions, supporting global climate goals.",
-  "category": "lifestyle",
-  "region": "global",
-  "importance": 3,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/artanddesign/2026/nov/14/architects-dream-five-beautiful-eco-buildings"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/0495dc059349b25c9cee08f8042edf9458d15d61/379_32_1904_1523/master/1904.jpg?width=140&quality=85&auto=format&fit=max&s=beb273a0cfb88dfe7f07f3fbd394a687",
-  "publishedAt": "2026-11-14T13:00:46.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "691f7104056eaef5",
-  "headline": "Ohio salt-mine closure raises winter road-salt supply concerns",
-  "summary": "A leak forced the Morton Salt mine in Ohio to shut permanently, eliminating 77 jobs and threatening the regional supply of road-salt for winter. Officials warn the loss could disrupt de-icing operations across the Midwest during the cold season.",
-  "category": "business",
-  "region": "global",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/us-news/2026/nov/14/salt-mine-ohio-flooding-safety-winter"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/b9e4afb12244d42b1757e3c9bf0b96ab8b538155/319_1051_2076_1661/master/2076.jpg?width=140&quality=85&auto=format&fit=max&s=d465c646db4d745092bd47fdb7fc9e7e",
-  "publishedAt": "2026-11-14T13:00:45.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "7b6ce5e0b722e07e",
-  "headline": "2026 sees record extreme-weather deaths, warns Guardian",
-  "summary": "The Guardian reports that 2026 has already recorded the highest global death toll from extreme weather, with heatwaves, floods and wildfires claiming tens of thousands of lives. Scientists say the trend underscores urgent need for emission cuts ahead of COP31.",
-  "category": "world",
-  "region": "global",
-  "importance": 6,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/91a483d5ba6d8f592762c799125eb6366c710585/407_0_2877_2302/master/2877.jpg?width=140&quality=85&auto=format&fit=max&s=32a2aa31dd6ea4bdbb54046bfd1d6540",
-  "publishedAt": "2026-11-14T13:00:44.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "ea09cec3e8ad50e4",
-  "headline": "Trump Media faces $1 billion debt pressure as crypto bet falters",
-  "summary": "Truth Social owner Trump Media & Technology Group is confronting a $1 billion debt crunch after a sharp fall in its share price and a decline in cryptocurrency values. Analysts say the firm may need to sell assets or secure costly new financing to stay afloat.",
-  "category": "business",
-  "region": "global",
-  "importance": 8,
-  "sources": [
-   {
-    "name": "Financial Times",
-    "url": "https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0"
-   }
-  ],
-  "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Febf58b14-8b09-4eed-81e9-405bc229649b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-  "publishedAt": "2026-11-14T13:00:09.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "832f43ffeea4ecfd",
-  "headline": "Retailers invest in entertainment studios to capture shoppers",
-  "summary": "Major retailers are allocating capital to build entertainment studios, aiming to draw consumer attention amid fierce competition for screen time. The shift reflects a broader trend of blending shopping with content creation to boost engagement and sales.",
-  "category": "business",
-  "region": "global",
-  "importance": 6,
-  "sources": [
-   {
-    "name": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/14/retailers-invest-entertainment.html"
-   }
-  ],
-  "publishedAt": "2026-11-14T13:00:01.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "faa8d8c35001ff6f",
-  "headline": "Battered AI stocks could rebound, analyst says",
-  "summary": "Bernstein analyst says the post-election panic over data-centre demand has driven a broad tech sell-off, but six heavily hit AI stocks have fundamentals that could allow a strong bounce back despite recent weakness.",
-  "category": "markets",
-  "region": "global",
-  "importance": 6,
-  "sources": [
-   {
-    "name": "MarketWatch",
-    "url": "https://www.marketwatch.com/story/these-6-battered-ai-stocks-could-bounce-back-big-an-analyst-says-e9f29c24"
-   }
-  ],
-  "imageUrl": "https://images.mktw.net/im-33113948",
-  "publishedAt": "2026-11-14T13:00:00.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "1108d9d2b73181d7",
-  "headline": "New cruise itineraries pair fire and ice themes on single voyage",
-  "summary": "Two cruise operators have launched voyages that combine polar ice experiences with tropical fire-focused excursions, offering passengers a contrasting travel package on a single trip.",
-  "category": "other",
-  "region": "global",
-  "importance": 2,
-  "sources": [
-   {
-    "name": "SMH",
-    "url": "https://www.smh.com.au/traveller/travel-news/fire-and-ice-on-a-single-voyage-try-an-odd-couple-cruise-20261115-p619nf.html"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$zoom_0.3204%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_352/t_crop_custom/q_86%2Cf_auto/7bf39218d8e947557cdd8db80e575c5d8a5c02e2",
-  "publishedAt": "2026-11-14T13:00:00.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "d2ca79f12805e35e",
-  "headline": "Chris Lucas proposes hospitality precinct on Flinders Street Station",
-  "summary": "Melburnian of the Year Chris Lucas has unveiled a plan to convert much of Flinders Street Station into a hospitality hub, aiming to revamp the historic site with restaurants and entertainment venues.",
-  "category": "business",
-  "region": "australia",
-  "importance": 4,
-  "sources": [
-   {
-    "name": "SMH",
-    "url": "https://www.smh.com.au/national/victoria/why-chris-lucas-wants-to-bulldoze-part-of-flinders-street-station-20261114-p61e43.html"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$zoom_0.3143%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_127%2C$y_158/t_crop_custom/q_86%2Cf_auto/5cc3120747739b08d3b96d0b7354373a1f7302e0",
-  "publishedAt": "2026-11-14T12:30:00.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "2f9692eb44d9bc2e",
-  "headline": "Titmus and McKeown shine at inaugural Swimming Australia Grand Prix",
-  "summary": "Ariarne Titmus called the new two-night Swimming Australia Grand Prix spectacular, while Kaylee McKeown clinched the women’s 50m championship race, both highlighting the success of the inaugural event.",
-  "category": "sport",
-  "region": "australia",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "SMH",
-    "url": "https://www.smh.com.au/sport/swimming/titmus-blown-away-by-inaugural-swim-gp-20261114-p61e6t.html"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/ec1fed2be7b1ef9f50f3c975d52791702cb900b0",
-  "publishedAt": "2026-11-14T12:27:16.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "6c71ac8d3390ce00",
-  "headline": "Anthropic founded by seven veterans aims for multi-billion-dollar AI venture",
-  "summary": "Four researchers, a former journalist, a public policymaker and an engineer launched Anthropic in 2021; the AI start-up is now positioned to become a multi-billion-dollar company as it expands its product lineup.",
-  "category": "tech",
-  "region": "global",
-  "importance": 6,
-  "sources": [
-   {
-    "name": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html"
-   }
-  ],
-  "publishedAt": "2026-11-14T12:15:01.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "03b7c3a528364278",
-  "headline": "King Charles jokes with Elton John in charity birthday video",
-  "summary": "In a special edition of Elton John’s “Rocket Hour”, King Charles appears to celebrate the 50th anniversary of The King’s Trust, sharing a light-hearted moment with the singer.",
-  "category": "entertainment",
-  "region": "global",
-  "importance": 3,
-  "sources": [
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-14/king-charles-jokes-with-elton-john-in-birthday-clip/107386532"
-   }
-  ],
-  "publishedAt": "2026-11-14T12:14:20.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "dd5d1659c3f6b657",
-  "headline": "Eric Trump-backed robot startup misses payroll after $4.6m loan",
-  "summary": "Foundation Future Industries, a robot-soldier start-up backed by Eric Trump, has failed to pay staff after its CEO borrowed $4.6 million from the company to purchase a home, raising concerns over cash flow.",
-  "category": "business",
-  "region": "global",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html"
-   }
-  ],
-  "publishedAt": "2026-11-14T12:00:01.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "dfb76391652cecf2",
-  "headline": "Chinese stocks with sheep-sounding names rally ahead of Year of the Sheep",
-  "summary": "Shares of fish processors, lighting firms and appliance makers have surged as investors chase companies whose names echo the Year of the Sheep, despite little link to the firms’ underlying performance.",
-  "category": "markets",
-  "region": "global",
-  "importance": 4,
-  "sources": [
-   {
-    "name": "MarketWatch",
-    "url": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521"
-   }
-  ],
-  "imageUrl": "https://images.mktw.net/im-49936413",
-  "publishedAt": "2026-11-14T12:00:00.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "197bd4026ae5235d",
-  "headline": "US proposes Ukraine cede Donbas in exchange for NATO membership",
-  "summary": "Ukrainian President Zelensky says US envoys floated a plan that would see Ukraine give up the Donbas region in return for a NATO membership pathway, aiming to end the war with Russia.",
-  "category": "world",
-  "region": "global",
-  "importance": 8,
-  "sources": [
-   {
-    "name": "BBC",
-    "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo"
-   },
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-15/us-idea-of-ukraine-ceding-donbas-to-join-nato-zelenskyy/107386558"
-   },
-   {
-    "name": "Financial Times",
-    "url": "https://www.ft.com/content/24319e2d-1a34-4a72-8c91-008d974234f9"
-   },
-   {
-    "name": "SBS News",
-    "url": "https://www.sbs.com.au/news/article/ukraine-nato-negotiation-talks/7ajq78rlm"
-   }
-  ],
-  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
-  "publishedAt": "2026-11-14T11:41:15.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "f4977bed0ef0b59d",
-  "headline": "Greenpeace drops boulders on North Sea windfarm site, causing delays",
-  "summary": "Activists from Greenpeace placed roughly 15 tonnes of stone blocks on a North Sea offshore windfarm project to block bottom-trawling, potentially delaying the £12 billion development backed by the UK government.",
-  "category": "world",
-  "region": "global",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/environment/2026/nov/14/greenpeace-boulders-norfolk-vanguard-windfarms"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/5c3dbca857b8f7de780fc54ca9d2ea37e0f290bf/251_0_1937_1550/master/1937.jpg?width=140&quality=85&auto=format&fit=max&s=97e2e9aec87c9a6b8acc48da7fe08984",
-  "publishedAt": "2026-11-14T11:00:43.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "3ea44a2a31f35506",
-  "headline": "Man shot dead at rural property near Perth, police investigate",
-  "summary": "Police are investigating a homicide after a man was shot dead at a rural property south-east of Perth, with another man taken into custody.",
-  "category": "other",
-  "region": "australia",
-  "importance": 3,
-  "sources": [
-   {
-    "name": "SMH",
-    "url": "https://www.smh.com.au/national/man-shot-dead-at-rural-wa-property-20261114-p61e6n.html"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/9c119e701c477e6e5cf387c79aab3cab14e20fe3",
-  "publishedAt": "2026-11-14T10:51:28.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "def6dff868007ba2",
-  "headline": "Hungarian authorities seize $20 million in corruption probe of former minister",
-  "summary": "Hungarian officials uncovered $20 million while investigating a former Orbán-era minister, part of a broader anti-corruption drive announced after the new prime minister took office.",
-  "category": "politics",
-  "region": "global",
-  "importance": 6,
-  "sources": [
-   {
-    "name": "BBC",
-    "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo"
-   }
-  ],
-  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da9e/live/d437a0b0-e010-11f1-b884-a9f52ca7a4b1.jpg",
-  "publishedAt": "2026-11-14T10:42:20.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "91e1e407c89ced3b",
-  "headline": "WA Premier Roger Cook urges skin-cancer checks after procedure",
-  "summary": "Western Australian Premier Roger Cook had a growth removed from his nose after being diagnosed with skin cancer. He used the announcement to call on Australians to get regular skin checks and seek early treatment.",
-  "category": "health",
-  "region": "australia",
-  "importance": 4,
-  "sources": [
-   {
-    "name": "SMH",
-    "url": "https://www.smh.com.au/national/wa-premier-reveals-skin-cancer-news-20261114-p61e6l.html"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/3ff83d89a50d3b7ddc1dc26f6d46b2b6aaf41d47",
-  "publishedAt": "2026-11-14T10:32:12.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "7f019451174f75d9",
-  "headline": "Latrell Mitchell ruled out of Rugby League World Cup final",
-  "summary": "Kangaroos centre Latrell Mitchell will miss the Rugby League World Cup final after falling ill. James Tedesco has been named as his replacement on the Australian bench for the match.",
-  "category": "sport",
-  "region": "australia",
-  "importance": 5,
-  "sources": [
-   {
-    "name": "SMH",
-    "url": "https://www.smh.com.au/sport/nrl/latrell-ruled-out-of-final-with-illness-20261114-p61e6m.html"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/05199e7f1d88fcae1278f8da59c8fe735686ab49",
-  "publishedAt": "2026-11-14T10:32:12.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "9446dbe8edbc00bb",
-  "headline": "Guardian launches series tracking eight UK youths seeking work",
-  "summary": "The Guardian is starting a new documentary series that follows eight young people across Britain as they try to secure stable employment, highlighting the scale of youth unemployment and the challenges of entering the labour market.",
-  "category": "world",
-  "region": "global",
-  "importance": 4,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/business/2026/nov/14/guardian-young-people-search-for-work"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/19987d2be5f3f7d0f862fc37ab9d9eb935fc7b4c/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d129ae269b3c60af00d1fa2af52e7077",
-  "publishedAt": "2026-11-14T10:00:42.000Z",
-  "createdAt": "2026-11-14T16:35:37.062Z"
- },
- {
-  "id": "21eb2c096568d652",
-  "headline": "Gillespie rebuts Khawaja criticism",
-  "summary": "Former Australian fast bowler Jason Gillespie responded sharply to former captain Usman Khawaja’s comments about him in a recent book, calling the criticism ‘hypercritical’.",
-  "category": "sport",
-  "region": "australia",
-  "importance": 3,
-  "sources": [
-   {
-    "name": "SMH",
-    "url": "https://www.smh.com.au/national/ridiculous-gillespie-hits-back-at-hyprocritical-khawaja-20261114-p61e6h.html"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/8744793ddf6f397a91566a65c22edd99361925bf",
-  "publishedAt": "2026-11-14T09:21:47.000Z",
-  "createdAt": "2026-11-14T10:04:02.883Z"
- },
- {
-  "id": "6a7cee07404043c6",
-  "headline": "Man struck by lightning while swimming at Central Coast",
-  "summary": "A man swimming at Umina Beach on the Central Coast was hit by lightning on Saturday afternoon and was taken to hospital.",
-  "category": "health",
-  "region": "australia",
-  "importance": 2,
-  "sources": [
-   {
-    "name": "SMH",
-    "url": "https://www.smh.com.au/national/nsw/man-struck-by-lightning-while-swimming-at-central-coast-beach-20261114-p61e6c.html"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$zoom_0.6537%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/367a6335f584d690d57f8ef20e00745a9325469e",
-  "publishedAt": "2026-11-14T09:15:53.000Z",
-  "createdAt": "2026-11-14T10:04:02.883Z"
- },
- {
-  "id": "65daaecaa13b90b5",
-  "headline": "Fugitive arrested near Cape York after Melbourne escape",
-  "summary": "Orijol Rukaj, who fled custody while attending his brother’s funeral in Melbourne, was captured near Cape York in far-north Queensland.",
-  "category": "other",
-  "region": "australia",
-  "importance": 2,
-  "sources": [
-   {
-    "name": "SMH",
-    "url": "https://www.smh.com.au/national/fugitive-who-fled-melbourne-funeral-caught-in-far-north-queensland-20261114-p61e6d.html"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/af3165e10bc1c1d073058c594d420233a3ef3125",
-  "publishedAt": "2026-11-14T09:02:55.000Z",
-  "createdAt": "2026-11-14T10:04:02.883Z"
- },
- {
-  "id": "52ae0a1da9fa013c",
-  "headline": "Immersive show animates Kyffin Williams’ Welsh landscapes",
-  "summary": "The National Library of Wales presents an immersive performance that brings Sir Kyffin Williams’ rugged landscape paintings to life with animation and music.",
-  "category": "entertainment",
-  "region": "global",
-  "importance": 2,
-  "sources": [
-   {
-    "name": "The Guardian",
-    "url": "https://www.theguardian.com/artanddesign/2026/nov/14/sir-kyffin-williams-artist-immersive-exhibition-national-library-wales-aberystwyth"
-   }
-  ],
-  "imageUrl": "https://i.guim.co.uk/img/media/b9f6172ba8f224dbb097628613f4b8f2f0f5d71a/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=6ce3cb7a7ab1e5d0183e1c525e89f8ee",
-  "publishedAt": "2026-11-14T09:00:39.000Z",
-  "createdAt": "2026-11-14T10:04:02.883Z"
- },
- {
-  "id": "4df011db8720c51c",
-  "headline": "Cat rescued on field during AFLW semi-final",
-  "summary": "A cat collapsed during the AFLW semi-final; a trained paramedic rival rushed to its aid as Sydney secured a maiden semi-final win.",
-  "category": "sport",
-  "region": "australia",
-  "importance": 2,
-  "sources": [
-   {
-    "name": "SMH",
-    "url": "https://www.smh.com.au/sport/afl/head-injury-halts-knockout-aflw-final-between-geelong-and-sydney-20261114-p61e5r.html"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$zoom_0.6072062523485109%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_58%2C$y_153/t_crop_custom/q_86%2Cf_auto/e811daef8ed07be8d262a917f516c04351d244c2",
-  "publishedAt": "2026-11-14T08:34:59.000Z",
-  "createdAt": "2026-11-14T10:04:02.883Z"
- },
- {
-  "id": "488a480ff299c110",
-  "headline": "Heat hand Hurricanes sixth straight WBBL loss",
-  "summary": "Brisbane Heat defeated the Hobart Hurricanes by ten wickets, extending the Hurricanes’ losing streak to six games in the Women’s Big Bash League.",
-  "category": "sport",
-  "region": "australia",
-  "importance": 3,
-  "sources": [
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-14/hobart-hurricanes-hammered-by-brisbane-heat-in-wbbl/107386442"
-   }
-  ],
-  "publishedAt": "2026-11-14T08:34:29.000Z",
-  "createdAt": "2026-11-14T10:04:02.883Z"
- },
- {
-  "id": "43bcdaed4bfe05d5",
-  "headline": "Winmalee High pilots restorative justice to curb bullying",
-  "summary": "Facing possible deregistration, Winmalee High School is using restorative justice practices to address schoolyard bullying, aiming to meet new anti-bullying regulations.",
-  "category": "other",
-  "region": "australia",
-  "importance": 3,
-  "sources": [
-   {
-    "name": "SMH",
-    "url": "https://www.smh.com.au/national/nsw/you-have-to-understand-the-impact-inside-the-battle-to-stop-schoolyard-bullies-20261114-p61d6v.html"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$zoom_0.2011%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_75%2C$y_0/t_crop_custom/q_86%2Cf_auto/3deb1c86cbb65a28a168b42baaa5994ebc9c7b98",
-  "publishedAt": "2026-11-14T08:30:00.000Z",
-  "createdAt": "2026-11-14T10:04:02.883Z"
- },
- {
-  "id": "90e58391820b522a",
-  "headline": "One Nation supporters profiled ahead of election",
-  "summary": "A range of voters – from a truck driver to a single parent and a former unionist – explain why they are backing Pauline Hanson’s One Nation party.",
-  "category": "politics",
-  "region": "australia",
-  "importance": 3,
-  "sources": [
-   {
-    "name": "SMH",
-    "url": "https://www.smh.com.au/politics/victoria/meet-the-sri-lankan-immigration-lawyer-handing-out-for-pauline-hanson-at-the-election-20261114-p61d90.html"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_47/t_crop_custom/q_86%2Cf_auto/9d28270d0fa836e46b04d344fd5adf25a355ec91",
-  "publishedAt": "2026-11-14T08:30:00.000Z",
-  "createdAt": "2026-11-14T10:04:02.883Z"
- },
- {
-  "id": "2fb8f5cc14ffcf56",
-  "headline": "‘Australia’s Chopin’ finally recognised after Somme death",
-  "summary": "Septimus Kelly, killed at 35 on the Somme, is now being honoured as ‘Australia’s Chopin’ as musicians revive his surviving compositions.",
-  "category": "entertainment",
-  "region": "australia",
-  "importance": 2,
-  "sources": [
-   {
-    "name": "SMH",
-    "url": "https://www.smh.com.au/national/killed-on-the-somme-at-35-australia-s-chopin-is-finally-getting-his-due-20261114-p61e3t.html"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$zoom_1.3594%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_205/t_crop_custom/q_86%2Cf_auto/e472941eba15bd8bd6b238a7f53774c2283d89f8fd1018f415a021523f43d278",
-  "publishedAt": "2026-11-14T08:30:00.000Z",
-  "createdAt": "2026-11-14T10:04:02.883Z"
- },
- {
-  "id": "5d1440bb3ba60427",
-  "headline": "Nvidia scandal raises concerns over Chinese espionage",
-  "summary": "New revelations about Nvidia’s involvement in a scandal have heightened worries about the scale of Chinese spying activities.",
-  "category": "tech",
-  "region": "global",
-  "importance": 7,
-  "sources": [
-   {
-    "name": "SMH",
-    "url": "https://www.smh.com.au/world/asia/nvidia-scandal-raises-new-concerns-about-scale-of-chinese-spying-20261114-p61e52.html"
-   },
-   {
-    "name": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html"
-   },
-   {
-    "name": "Financial Times",
-    "url": "https://www.ft.com/content/e141a5ea-5aa4-491b-88a4-369cfc67693a"
-   },
-   {
-    "name": "ABC News",
-    "url": "https://www.abc.net.au/news/2026-11-15/sex-spies-silicon-valley-nvidia-saga-highlights-risks-for-tech/107386438"
-   }
-  ],
-  "imageUrl": "https://static.ffx.io/images/$zoom_0.12714611598030975%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_21/t_crop_custom/q_86%2Cf_auto/6a2b439444995a2f30dcb87cd7b880e1982813ce",
-  "publishedAt": "2026-11-14T08:30:00.000Z",
-  "createdAt": "2026-11-14T10:04:02.883Z"
- },
- {
-  "id": "fd0f46dcf92067ce",
-  "headline": "Millie Bright hands out free football kits to girls",
-  "summary": "England midfielder Millie Bright distributes complimentary football kits to young girls to help offset participation costs.",
-  "category": "sport",
-  "region": "global",
-  "importance": 2,
-  "sources": [
-   {
-    "name": "BBC",
-    "url": "https://www.bbc.co.uk/news/articles/ck20v651473qo"
-   }
-  ],
-  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff1/live/39ee3da0-df6d-11f1-8112-6b9154c79b48.jpg",
-  "publishedAt": "2026-11-14T08:13:40.000Z",
-  "createdAt": "2026-11-14T10:04:02.883Z"
- },
- {
-  "id": "8adf57252fdb1e58",
-  "headline": "Estate agents accused of ‘housefishing’ to lure sellers",
-  "summary": "A BBC report describes a growing practice among some real-estate agents of contacting owners of unlisted properties, a tactic dubbed ‘housefishing’, to secure listings before competitors, raising concerns about privacy and market fairness.",
-  "category": "property",
-  "region": "global",
-  "importance": 3,
-  "sources": [
-   {
-    "name": "BBC",
-    "url": "https://www.bbc.co.uk/news/videos/cmx295lz17wzo"
-   }
-  ],
-  "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d858/live/cd1b7ec0-dec9-11f1-b441-2b33b063138f.jpg",
-  "publishedAt": "2026-11-14T07:45:50.000Z",
   "createdAt": "2026-11-14T16:35:37.062Z"
  }
 ]
