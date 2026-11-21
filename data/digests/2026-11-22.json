@@ -1,0 +1,50 @@
+{
+ "date": "2026-11-22",
+ "sentAt": "2026-11-21T21:12:12.133Z",
+ "recipients": 0,
+ "sections": [
+  {
+   "title": "Australian Economy & Markets",
+   "storyIds": [
+    "acb1bc8fd1f842c2",
+    "0173bfbc54d01376",
+    "4e1158751dc427bc"
+   ]
+  },
+  {
+   "title": "Australian Companies & Deals",
+   "storyIds": [
+    "bb3cc3c49e132b43",
+    "5ed65cb22554e81a",
+    "913a3fac08924ef0",
+    "dd690b7b8e8ec703",
+    "fb9c882bd201950a",
+    "7098af18cb353875",
+    "4a2132612eb7fe78"
+   ]
+  },
+  {
+   "title": "Global Economy & Markets",
+   "storyIds": [
+    "2191333e58e01d3f",
+    "ed89adb184664192",
+    "74b2da8379121853",
+    "c85d6ed2ddc53237",
+    "e4cdccff999bdc87",
+    "ccd2a66a77a1c2d5",
+    "921c40da9f0a5a63",
+    "316cb75d31ddd692"
+   ]
+  },
+  {
+   "title": "Other Top Headlines",
+   "storyIds": [
+    "244b772cd3060adc",
+    "f925675445183132",
+    "252ac54a5b5417af",
+    "99799b54bc0a84c8",
+    "e96a5458d7fa095e"
+   ]
+  }
+ ]
+}
