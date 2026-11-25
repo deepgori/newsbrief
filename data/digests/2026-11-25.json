@@ -1,0 +1,65 @@
+{
+ "date": "2026-11-25",
+ "sentAt": "2026-11-25T02:30:46.306Z",
+ "recipients": 0,
+ "sections": [
+  {
+   "title": "Australian Economy & Markets",
+   "storyIds": [
+    "aa147c1a13c0d28d",
+    "610bf2fbea19300c",
+    "8b8f7205e2e3c676",
+    "6b161027b9a0346a",
+    "73431f1172f59666",
+    "ef593e9bcefaeb81",
+    "98b2c86b69cb9e38",
+    "301ecdea925df7af"
+   ]
+  },
+  {
+   "title": "Australian Companies & Deals",
+   "storyIds": [
+    "c96c62297182b39b",
+    "ecfb1a7c31007d3c",
+    "6a0d7b8c2ee33aa6",
+    "f7ff3811a3d4fe73",
+    "088cb73e8653f2d4",
+    "407a566b50f24ec8",
+    "8bd5323682c20ed6"
+   ]
+  },
+  {
+   "title": "Property",
+   "storyIds": [
+    "9d9e1eb26b4f4e57",
+    "4dbbc33e9a959565",
+    "fadc13375b0e05c1",
+    "1a18596ccdc2b79c",
+    "666bd118adde0c61"
+   ]
+  },
+  {
+   "title": "Global Economy & Markets",
+   "storyIds": [
+    "9f348b66282b69de",
+    "27315ffefb3680fd",
+    "df139417bcd0c9a1",
+    "d46793e37337dfee",
+    "77290deb98bd3756",
+    "a408331bdb69a5fe",
+    "6353fcb62160bd30",
+    "11b53ffa6b9e1789"
+   ]
+  },
+  {
+   "title": "Other Top Headlines",
+   "storyIds": [
+    "bd04ba0a919cf702",
+    "ed08eb7d60015264",
+    "90f03c7989ea1420",
+    "413b0cc6d8ed515e",
+    "7ef3f76e5f243ff3"
+   ]
+  }
+ ]
+}
